@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Nicobars">
+        <item>Nicobars</item>
+        <item>Car Nicobar</item>
+        <item>Nancowry</item>
+        <item>Great Nicobar</item>
+    </string-array>
+
+
+    <string-array name="North_Middle_Andaman">
+        <item>North and Middle Andaman</item>
+        <item>Diglipur</item>
+        <item>Mayabunder</item>
+        <item>Rangat</item>
+    </string-array>
+
+
+    <string-array name="South_Andaman">
+        <item>South Andaman</item>
+        <item>Ferrargunj</item>
+        <item>Port Blair</item>
+        <item>Port Blair (M Cl)</item>
+        <item>Little Andaman</item>
+    </string-array>
+
+</resources>

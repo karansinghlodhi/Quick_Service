@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.repairsmanagement.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/home_fragment" />
+    <fragment
+        android:id="@+id/nav_edit_details"
+        android:name="com.example.repairsmanagement.ui.EditDetails.EditDetailsFragment"
+        android:label="@string/menu_edit_details"
+        tools:layout="@layout/fragment_edit_details"
+        />
+
+
+    <fragment
+        android:id="@+id/nav_contact_us"
+        android:name="com.example.repairsmanagement.ui.contactUs.ContactUsFragment"
+        android:label="@string/menu_contact_us"
+        tools:layout="@layout/fragment_contact_us" />
+
+
+</navigation>

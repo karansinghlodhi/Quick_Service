@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Dimapur">
+        <item>Dimapur</item>
+        <item>Niuland</item>
+        <item>Aquqhnaqua</item>
+        <item>Kuhoboto</item>
+        <item>Nihokhu</item>
+        <item>Dimapur Sadar</item>
+        <item>Dimapur (MC)</item>
+        <item>Chumukedima</item>
+        <item>Chumukedima (TC)</item>
+        <item>Dhansiripar</item>
+        <item>Medziphema</item>
+        <item>Medziphema (TC)</item>
+    </string-array>
+
+
+    <string-array name="Kiphire">
+        <item>Kiphire</item>
+        <item>Seyochung</item>
+        <item>Amahator</item>
+        <item>Kiphire Sadar</item>
+        <item>Kiphire (TC)</item>
+        <item>Kiusam</item>
+        <item>Sitimi</item>
+        <item>Longmatra</item>
+        <item>Pungro</item>
+        <item>Khongsa</item>
+    </string-array>
+
+
+    <string-array name="Kohima">
+        <item>Kohima</item>
+        <item>Tseminyu</item>
+        <item>Tseminyu (TC)</item>
+        <item>Tsogin</item>
+        <item>Chiephobozou</item>
+        <item>Botsa</item>
+        <item>Kezocha</item>
+        <item>Jakhama</item>
+        <item>Kohima Sadar</item>
+        <item>Kohima (MC)</item>
+        <item>Sechu-Zubza</item>
+    </string-array>
+
+
+
+    <string-array name="Longleng">
+        <item>Longleng</item>
+        <item>Tamlu</item>
+        <item>Namsang</item>
+        <item>Yongnyah</item>
+        <item>Longleng</item>
+        <item>Longleng (TC)</item>
+        <item>Sakshi</item>
+    </string-array>
+
+
+
+    <string-array name="Mokokchung">
+        <item>Mokokchung</item>
+        <item>Longchem</item>
+        <item>Alongkima</item>
+        <item>Tuli</item>
+        <item>Tuli (TC)</item>
+        <item>Changtongya</item>
+        <item>Changtongya (TC)</item>
+        <item>Chuchuyimlang</item>
+        <item>Kubolong</item>
+        <item>Mangkolemba</item>
+        <item>Merangmen</item>
+        <item>Ongpangkong</item>
+        <item>Mokokchung (MC)</item>
+    </string-array>
+
+
+    <string-array name="Mon">
+        <item>Mon</item>
+        <item>Naginimora</item>
+        <item>Naginimora (TC)</item>
+        <item>Tizit</item>
+        <item>Hunta</item>
+        <item>Shangnyu</item>
+        <item>Mon Sadar</item>
+        <item>Mon (TC)</item>
+        <item>Wakching</item>
+        <item>Aboi</item>
+        <item>Longshen</item>
+        <item>Phomching</item>
+        <item>Chen</item>
+        <item>Angjangyang</item>
+        <item>Mopong</item>
+        <item>Tobu</item>
+        <item>Monyakshu</item>
+    </string-array>
+
+
+    <string-array name="Peren">
+        <item>Peren</item>
+        <item>Pedi (Ngwalwa)</item>
+        <item>Jalukie</item>
+        <item>Jalukie (TC)</item>
+        <item>Athibung</item>
+        <item>Kebai Khelma</item>
+        <item>Nsong</item>
+        <item>Tening</item>
+        <item>Peren</item>
+        <item>Peren (TC)</item>
+    </string-array>
+
+
+    <string-array name="Phek">
+        <item>Phek</item>
+        <item>Sekruzu</item>
+        <item>Phek Sadar</item>
+        <item>Phek (TC)</item>
+        <item>Khuza</item>
+        <item>Meluri</item>
+        <item>Phor</item>
+        <item>Phokhungri</item>
+        <item>Chozuba</item>
+        <item>Chetheba</item>
+        <item>Sakraba</item>
+        <item>Pfutsero</item>
+        <item>Pfutsero (TC)</item>
+        <item>Zuketsa</item>
+        <item>Khezhakeno</item>
+        <item>Chizami</item>
+        <item>Razieba</item>
+    </string-array>
+
+
+    <string-array name="Tuensang">
+        <item>Tuensang</item>
+        <item>Noksen</item>
+        <item>Chare</item>
+        <item>Longkhim</item>
+        <item>Tuensang Sadar</item>
+        <item>Tuensang (TC)</item>
+        <item>Ngoungchung</item>
+        <item>Sangsangnyu</item>
+        <item>Sotokur</item>
+        <item>Noklak</item>
+        <item>Chingmei</item>
+        <item>Nokhu</item>
+        <item>Panso</item>
+        <item>Shamator</item>
+        <item>Tsurungto</item>
+        <item>Chessore</item>
+        <item>Mangko</item>
+        <item>Thonoknyu</item>
+    </string-array>
+
+
+
+    <string-array name="Wokha">
+        <item>Wokha</item>
+        <item>Changpang</item>
+        <item>Aitepyong</item>
+        <item>Bhandari</item>
+        <item>Baghty</item>
+        <item>Sungro</item>
+        <item>Sanis</item>
+        <item>Lotsu</item>
+        <item>Ralan</item>
+        <item>Wozhuro</item>
+        <item>Wokha Sadar</item>
+        <item>Wokha (TC)</item>
+        <item>Englan</item>
+        <item>Chukitong</item>
+    </string-array>
+
+
+    <string-array name="Zunheboto">
+        <item>Zunheboto</item>
+        <item>V.K.</item>
+        <item>Akuluto</item>
+        <item>Suruhuto</item>
+        <item>Asuto</item>
+        <item>Aghunato</item>
+        <item>Zunheboto Sadar</item>
+        <item>Zunheboto (TC)</item>
+        <item>Atoizu</item>
+        <item>Akuhaito</item>
+        <item>Pughoboto</item>
+        <item>Ghathashi</item>
+        <item>Satakha</item>
+        <item>Saptiqa</item>
+        <item>Satoi</item>
+    </string-array>
+</resources>

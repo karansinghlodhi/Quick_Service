@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="East_District">
+        <item>East District</item>
+        <item>Gangtok</item>
+        <item>Gangtok (M Corp.)</item>
+        <item>Singtam (NP)</item>
+        <item>Rangpo (NP)</item>
+        <item>Pakyong</item>
+        <item>Rongli</item>
+    </string-array>
+
+
+    <string-array name="North_District">
+        <item>North District</item>
+        <item>Tshungthang</item>
+        <item>Chungthang</item>
+        <item>Mangan</item>
+        <item>Mangan (NP)</item>
+    </string-array>
+
+
+    <string-array name="South_District">
+        <item>South District</item>
+        <item>Namchi</item>
+        <item>Namchi (M Cl)</item>
+        <item>Jorethang (NP)</item>
+        <item>Ravong</item>
+    </string-array>
+
+
+
+    <string-array name="West_District">
+        <item>West District</item>
+        <item>Gyalshing</item>
+        <item>Gyalshing (NP)</item>
+        <item>Soreng</item>
+        <item>Nayabazar Notified Bazar Area</item>
+    </string-array>
+
+
+</resources>

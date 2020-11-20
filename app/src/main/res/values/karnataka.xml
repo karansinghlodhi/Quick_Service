@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Bagalkot">
+        <item>Bagalkot</item>
+        <item>Jamkhandi</item>
+        <item>Terdal (TMC)</item>
+        <item>Jamkhandi (CMC)</item>
+        <item>Rabkavi Banhatti (CMC)</item>
+        <item>Bilgi</item>
+        <item>Bilgi (TP)</item>
+        <item>Mudhol</item>
+        <item>Mudhol (TMC)</item>
+        <item>Badami</item>
+        <item>Kerur (TP)</item>
+        <item>Badami (TMC)</item>
+        <item>Guledgudda (TMC)</item>
+        <item>Bagalkot</item>
+        <item>Bagalkot (CMC)</item>
+        <item>Hungund</item>
+        <item>Hungund (TP)</item>
+        <item>Ilkal (CMC)</item>
+        <item>Mahalingpur (TMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Bangalore">
+        <item>Bangalore</item>
+        <item>Bangalore North</item>
+        <item>Bangalore South</item>
+        <item>Bangalore East</item>
+        <item>Anekal</item>
+        <item>Anekal (TMC)</item>
+        <item>BBMP (M Corp. + OG)</item>
+        <item>BBMP (M Corp.)</item>
+    </string-array>
+
+
+    <string-array name="Bangalore_Rural">
+        <item>Bangalore Rural</item>
+        <item>Nelamangala</item>
+        <item>Nelamangala (TMC)</item>
+        <item>Dod Ballapur</item>
+        <item>Dod Ballapur (CMC + OG)</item>
+        <item>Dod Ballapur (CMC)</item>
+        <item>Devanahalli</item>
+        <item>Vijayapura (TMC)</item>
+        <item>Devanahalli (TMC)</item>
+        <item>Hosakote</item>
+        <item>Hosakote (TMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Belgaum">
+        <item>Belgaum</item>
+        <item>Chikodi</item>
+        <item>Nipani (CMC)</item>
+        <item>Sadalgi (TP)</item>
+        <item>Chikodi (TMC)</item>
+        <item>Athni</item>
+        <item>Athni (TMC + OG)</item>
+        <item>Athni (TMC)</item>
+        <item>Raybag</item>
+        <item>Kudchi (TP)</item>
+        <item>Raybag (TP)</item>
+        <item>Gokak</item>
+        <item>Mudalgi (TMC)</item>
+        <item>Konnur (TP)</item>
+        <item>Gokak Falls (NAC)</item>
+        <item>Gokak (CMC)</item>
+        <item>Hukeri</item>
+        <item>Sankeshwar (TMC)</item>
+        <item>Hukeri (TP)</item>
+        <item>Belgaum</item>
+        <item>Belgaum (M Corp. + OG)</item>
+        <item>Belgaum (M Corp.)</item>
+        <item>Belgaum Cantonment (CB)</item>
+        <item>Khanapur</item>
+        <item>Khanapur (TP)</item>
+        <item>Sampgaon</item>
+        <item>Bail Hongal (TMC)</item>
+        <item>Parasgad</item>
+        <item>Saundatti-Yellamma (TMC)</item>
+        <item>Ramdurg</item>
+        <item>Ramdurg (TMC + OG)</item>
+        <item>Ramdurg (TMC)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Bellary">
+        <item>Bellary</item>
+        <item>Hadagalli</item>
+        <item>Hoovina Hadagalli (TMC)</item>
+        <item>Hagaribommanahalli</item>
+        <item>Hospet</item>
+        <item>Hospet (CMC)</item>
+        <item>Kamalapuram (TP)</item>
+        <item>Kampli (TMC)</item>
+        <item>Siruguppa</item>
+        <item>Siruguppa (TMC)</item>
+        <item>Tekkalakote (TP)</item>
+        <item>Bellary</item>
+        <item>Bellary (M Corp.)</item>
+        <item>Sandur</item>
+        <item>Sandur (TMC)</item>
+        <item>Kudligi</item>
+        <item>Kudligi (TP)</item>
+        <item>Kotturu (TP)</item>
+    </string-array>
+
+
+
+    <string-array name="Bidar">
+        <item>Bidar</item>
+        <item>Basavakalyan</item>
+        <item>Basavakalyan (CMC)</item>
+        <item>Bhalki</item>
+        <item>Bhalki (TMC)</item>
+        <item>Aurad</item>
+        <item>Aurad (TP)</item>
+        <item>Bidar</item>
+        <item>Bidar (CMC + OG)</item>
+        <item>Bidar (CMC)</item>
+        <item>Homnabad</item>
+        <item>Homnabad (TMC)</item>
+        <item>Chitgoppa (TMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Bijapur">
+        <item>Bijapur</item>
+        <item>Bijapur</item>
+        <item>Bijapur (CMC)</item>
+        <item>Indi</item>
+        <item>Indi (TMC)</item>
+        <item>Sindgi</item>
+        <item>Sindgi (TMC)</item>
+        <item>Basavana Bagevadi</item>
+        <item>Basavana Bagevadi (TMC)</item>
+        <item>Muddebihal</item>
+        <item>Muddebihal (TMC)</item>
+        <item>Talikota (TMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Chamarajanagar">
+        <item>Chamarajanagar</item>
+        <item>Gundlupet</item>
+        <item>Gundlupet (TMC)</item>
+        <item>Chamarajanagar</item>
+        <item>Chamarajanagar (CMC)</item>
+        <item>Yelandur</item>
+        <item>Yelandur (TP)</item>
+        <item>Kollegal</item>
+        <item>Kollegal (CMC)</item>
+        <item>Hanur (TP)</item>
+    </string-array>
+
+
+
+    <string-array name="Chikkaballapura">
+        <item>Chikkaballapura</item>
+        <item>Gauribidanur</item>
+        <item>Gauribidanur (TMC)</item>
+        <item>Chikkaballapura</item>
+        <item>Chikkaballapura (CMC)</item>
+        <item>Gudibanda</item>
+        <item>Gudibanda (TP)</item>
+        <item>Bagepalli</item>
+        <item>Bagepalli (TMC)</item>
+        <item>Sidlaghatta</item>
+        <item>Sidlaghatta (TMC)</item>
+        <item>Chintamani</item>
+        <item>Chintamani (CMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Chikmagalur">
+        <item>Chikmagalur</item>
+        <item>Sringeri</item>
+        <item>Sringeri (TP)</item>
+        <item>Koppa</item>
+        <item>Koppa (TP)</item>
+        <item>Narasimharajapura</item>
+        <item>Narasimharajapura (TP)</item>
+        <item>Tarikere</item>
+        <item>Tarikere (TMC)</item>
+        <item>Kadur</item>
+        <item>Birur (TMC)</item>
+        <item>Kadur (TMC)</item>
+        <item>Chikmagalur</item>
+        <item>Chikmagalur (CMC)</item>
+        <item>Mudigere</item>
+        <item>Mudigere (TP)</item>
+        <item>Kudremukh (NAC)</item>
+    </string-array>
+
+
+
+    <string-array name="Chitradurga">
+        <item>Chitradurga</item>
+        <item>Molakalmuru</item>
+        <item>Molakalmuru (TP)</item>
+        <item>Challakere</item>
+        <item>Challakere (TMC)</item>
+        <item>Chitradurga</item>
+        <item>Chitradurga (CMC + OG)</item>
+        <item>Chitradurga (CMC)</item>
+        <item>Holalkere</item>
+        <item>Holalkere (TP)</item>
+        <item>Hosdurga</item>
+        <item>Hosdurga (TMC)</item>
+        <item>Hiriyur</item>
+        <item>Hiriyur (TMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Dakshina_Kannada">
+        <item>Dakshina Kannada</item>
+        <item>Mangalore</item>
+        <item>Mulki (TP)</item>
+        <item>Mudbidri (TMC)</item>
+        <item>Mangalore (M Corp. + OG)</item>
+        <item>Mangalore (M Corp.)</item>
+        <item>Ullal (TMC)</item>
+        <item>Bantval</item>
+        <item>Bantval (TMC)</item>
+        <item>Beltangadi</item>
+        <item>Beltangadi (TP)</item>
+        <item>Puttur</item>
+        <item>Puttur (TMC)</item>
+        <item>Sulya</item>
+        <item>Sulya (TP)</item>
+    </string-array>
+
+
+
+    <string-array name="Davanagere">
+        <item>Davanagere</item>
+        <item>Harihar</item>
+        <item>Harihar (CMC + OG)</item>
+        <item>Harihar (CMC)</item>
+        <item>Harapanahalli</item>
+        <item>Harapanahalli (TMC)</item>
+        <item>Jagalur</item>
+        <item>Jagalur (TP)</item>
+        <item>Davanagere</item>
+        <item>Davanagere (M Corp.)</item>
+        <item>Honnali</item>
+        <item>Honnali (TP)</item>
+        <item>Channagiri</item>
+        <item>Channagiri (TP)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Dharwad">
+        <item>Dharwad</item>
+        <item>Dharwad</item>
+        <item>Alnavar (TP)</item>
+        <item>Navalgund</item>
+        <item>Navalgund (TMC)</item>
+        <item>Annigeri (TMC)</item>
+        <item>Hubli</item>
+        <item>Kalghatgi</item>
+        <item>Kalghatgi (TP)</item>
+        <item>Kundgol</item>
+        <item>Kundgol (TP)</item>
+        <item>Hubli-Dharwad (M Corp.)</item>
+    </string-array>
+
+
+
+    <string-array name="Gadag">
+        <item>Gadag</item>
+        <item>Nargund</item>
+        <item>Nargund (TMC)</item>
+        <item>Ron</item>
+        <item>Ron (TMC)</item>
+        <item>Gajendragarh (TMC)</item>
+        <item>Naregal (TP)</item>
+        <item>Gadag</item>
+        <item>Gadag-Betigeri (CMC)</item>
+        <item>Mulgund (TP)</item>
+        <item>Shirhatti</item>
+        <item>Shirhatti (TP)</item>
+        <item>Lakshmeshwar (TMC)</item>
+        <item>Mundargi</item>
+        <item>Mundargi (TMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Gulbarga">
+        <item>Gulbarga</item>
+        <item>Aland</item>
+        <item>Aland (TMC)</item>
+        <item>Afzalpur</item>
+        <item>Afzalpur (TP)</item>
+        <item>Gulbarga</item>
+        <item>Gulbarga (M Corp. + OG)</item>
+        <item>Gulbarga (M Corp.)</item>
+        <item>Chincholi</item>
+        <item>Chincholi (TP)</item>
+        <item>Sedam</item>
+        <item>Sedam (TMC)</item>
+        <item>Chitapur</item>
+        <item>Chitapur (TMC)</item>
+        <item>Shahabad ACC (NAC + OG)</item>
+        <item>Shahabad ACC (NAC)</item>
+        <item>Shahabad (CMC)</item>
+        <item>Wadi (TMC)</item>
+        <item>Jevargi</item>
+        <item>Jevargi (TP)</item>
+    </string-array>
+
+
+
+    <string-array name="Hassan">
+        <item>Hassan</item>
+        <item>Sakleshpur</item>
+        <item>Sakleshpur (TMC)</item>
+        <item>Belur</item>
+        <item>Belur (TMC)</item>
+        <item>Arsikere</item>
+        <item>Arsikere (TMC + OG)</item>
+        <item>Arsikere (TMC)</item>
+        <item>Hassan</item>
+        <item>Hassan (CMC + OG)</item>
+        <item>Hassan (CMC)</item>
+        <item>Alur</item>
+        <item>Alur (TP)</item>
+        <item>Arkalgud</item>
+        <item>Arkalgud (TP)</item>
+        <item>Hole Narsipur</item>
+        <item>Hole Narsipur (TMC)</item>
+        <item>Channarayapatna</item>
+        <item>Channarayapatna (TMC + OG)</item>
+        <item>Channarayapatna (TMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Haveri">
+        <item>Haveri</item>
+        <item>Shiggaon</item>
+        <item>Shiggaon (TMC)</item>
+        <item>Bankapura (TMC)</item>
+        <item>Savanur</item>
+        <item>Savanur (TMC)</item>
+        <item>Hangal</item>
+        <item>Hangal (TMC)</item>
+        <item>Haveri</item>
+        <item>Haveri (CMC)</item>
+        <item>Byadgi</item>
+        <item>Byadgi (TMC)</item>
+        <item>Hirekerur</item>
+        <item>Hirekerur (TP)</item>
+        <item>Ranibennur</item>
+        <item>Ranibennur (CMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Kodagu">
+        <item>Kodagu</item>
+        <item>Madikeri</item>
+        <item>Madikeri (CMC)</item>
+        <item>Somvarpet</item>
+        <item>Somvarpet (TP)</item>
+        <item>Kushalnagar (TP)</item>
+        <item>Virajpet</item>
+        <item>Virajpet (TP)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Kolar">
+        <item>Kolar</item>
+        <item>Srinivaspur</item>
+        <item>Srinivaspur (TMC)</item>
+        <item>Kolar</item>
+        <item>Kolar (CMC)</item>
+        <item>Malur</item>
+        <item>Malur (TMC)</item>
+        <item>Bangarapet</item>
+        <item>Bangarapet (TMC)</item>
+        <item>Robertson Pet (CMC + OG)</item>
+        <item>Robertson Pet (CMC)</item>
+        <item>Mulbagal</item>
+        <item>Mulbagal (TMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Koppal">
+        <item>Koppal</item>
+        <item>Yelbarga</item>
+        <item>Yelbarga (TP)</item>
+        <item>Kushtagi</item>
+        <item>Kushtagi (TMC)</item>
+        <item>Gangawati</item>
+        <item>Gangawati (CMC + OG)</item>
+        <item>Gangawati (CMC)</item>
+        <item>Koppal</item>
+        <item>Koppal (CMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Mandya">
+        <item>Mandya</item>
+        <item>Krishnarajpet</item>
+        <item>Krishnarajpet (TMC)</item>
+        <item>Nagamangala</item>
+        <item>Nagamangala (TP)</item>
+        <item>Pandavapura</item>
+        <item>Pandavapura (TP)</item>
+        <item>Shrirangapattana</item>
+        <item>Shrirangapattana (TMC)</item>
+        <item>Mandya</item>
+        <item>Mandya (CMC)</item>
+        <item>Maddur</item>
+        <item>Maddur (TMC)</item>
+        <item>Malavalli</item>
+        <item>Malavalli (TMC)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Mysore">
+        <item>Mysore</item>
+        <item>Piriyapatna</item>
+        <item>Piriyapatna (TP)</item>
+        <item>Hunsur</item>
+        <item>Hunsur (TMC)</item>
+        <item>Krishnarajanagara</item>
+        <item>Krishnarajanagara (TMC)</item>
+        <item>Mysore</item>
+        <item>Mysore (M Corp. + OG)</item>
+        <item>Mysore (M Corp.)</item>
+        <item>Heggadadevankote</item>
+        <item>Heggadadevankote (TP)</item>
+        <item>Saragur (TP)</item>
+        <item>Nanjangud</item>
+        <item>Nanjangud (TMC)</item>
+        <item>Tirumakudal - Narsipur</item>
+        <item>Bannur (TMC)</item>
+        <item>Tirumakudal Narsipur (TP)</item>
+    </string-array>
+
+
+
+    <string-array name="Raichur">
+        <item>Raichur</item>
+        <item>Lingsugur</item>
+        <item>Mudgal (TP)</item>
+        <item>Lingsugur (TMC)</item>
+        <item>Hatti Gold Mines(NAC)</item>
+        <item>Devadurga</item>
+        <item>Devadurga (TMC)</item>
+        <item>Raichur</item>
+        <item>Raichur (CMC)</item>
+        <item>Manvi</item>
+        <item>Manvi (TMC)</item>
+        <item>Sindhnur</item>
+        <item>Sindhnur (CMC)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Ramanagara">
+        <item>Ramanagara</item>
+        <item>Magadi</item>
+        <item>Magadi (TMC)</item>
+        <item>Ramanagara</item>
+        <item>Ramanagara (CMC)</item>
+        <item>Channapatna</item>
+        <item>Channapatna (CMC)</item>
+        <item>Kanakapura</item>
+        <item>Kanakapura (TMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Shimoga">
+        <item>Shimoga</item>
+        <item>Sagar</item>
+        <item>Jog Kargal (TP)</item>
+        <item>Sagar (CMC)</item>
+        <item>Sorab</item>
+        <item>Sorab (TP)</item>
+        <item>Shikarpur</item>
+        <item>Siralkoppa (TP)</item>
+        <item>Shikarpur (TMC)</item>
+        <item>Hosanagara</item>
+        <item>Hosanagara (TP)</item>
+        <item>Tirthahalli</item>
+        <item>Tirthahalli (TP)</item>
+        <item>Shimoga</item>
+        <item>Shimoga (CMC)</item>
+        <item>Bhadravati</item>
+        <item>Bhadravati (CMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Tumkur">
+        <item>Tumkur</item>
+        <item>Chiknayakanhalli</item>
+        <item>Chiknayakanhalli (TMC)</item>
+        <item>Sira</item>
+        <item>Sira (CMC)</item>
+        <item>Pavagada</item>
+        <item>Pavagada (TMC)</item>
+        <item>Madhugiri</item>
+        <item>Madhugiri (TMC)</item>
+        <item>Koratagere</item>
+        <item>Koratagere (TP)</item>
+        <item>Tumkur</item>
+        <item>Tumkur (CMC)</item>
+        <item>Gubbi</item>
+        <item>Gubbi (TP)</item>
+        <item>Tiptur</item>
+        <item>Tiptur (CMC)</item>
+        <item>Turuvekere</item>
+        <item>Turuvekere (TP)</item>
+        <item>Kunigal</item>
+        <item>Kunigal (TMC)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Udupi">
+        <item>Udupi</item>
+        <item>Kundapura</item>
+        <item>Kundapura (TMC)</item>
+        <item>Udupi</item>
+        <item>Saligram (TP)</item>
+        <item>Udupi (CMC + OG)</item>
+        <item>Udupi (CMC)</item>
+        <item>Karkal</item>
+        <item>Karkal (TMC)</item>
+    </string-array>
+
+
+
+    <string-array name="Uttara_Kannada">
+        <item>Uttara Kannada</item>
+        <item>Karwar</item>
+        <item>Karwar (CMC + OG)</item>
+        <item>Karwar (CMC)</item>
+        <item>Supa</item>
+        <item>Haliyal</item>
+        <item>Haliyal (TP)</item>
+        <item>Yellapur</item>
+        <item>Yellapur (TP)</item>
+        <item>Mundgod</item>
+        <item>Mundgod (TP)</item>
+        <item>Sirsi</item>
+        <item>Sirsi (CMC)</item>
+        <item>Ankola</item>
+        <item>Ankola (TP + OG)</item>
+        <item>Ankola (TP)</item>
+        <item>Kumta</item>
+        <item>Kumta (TMC + OG)</item>
+        <item>Kumta (TMC)</item>
+        <item>Siddapur</item>
+        <item>Siddapur (TP)</item>
+        <item>Honavar</item>
+        <item>Honavar (TP)</item>
+        <item>Bhatkal</item>
+        <item>Bhatkal (TMC)</item>
+        <item>Dandeli (CMC)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Yadgir">
+        <item>Yadgir</item>
+        <item>Shorapur</item>
+        <item>Shorapur (TMC)</item>
+        <item>Shahpur</item>
+        <item>Bhimarayanagudi (NAC)</item>
+        <item>Shahpur (TMC)</item>
+        <item>Yadgir</item>
+        <item>Gurmatkal (TP)</item>
+        <item>Yadgir (CMC)</item>
+    </string-array>
+
+
+
+</resources>

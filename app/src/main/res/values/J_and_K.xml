@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="JAMMU_AND_KASHMIR1">
+        <item>JAMMU AND KASHMIR</item>
+        <item>Srinagar (M Corp. + OG)</item>
+        <item>Anantnag (M Cl + OG)</item>
+    </string-array>
+
+
+    <string-array name="Anantnag">
+        <item>Anantnag</item>
+        <item>Pahalgam</item>
+        <item>Pahalgam (MC)</item>
+        <item>Aishmuquam (MC)</item>
+        <item>Bijbehara</item>
+        <item>Bijbehara (MC)</item>
+        <item>Arwani (MC)</item>
+        <item>Anantnag</item>
+        <item>Mattan (MC)</item>
+        <item>Anantnag (M Cl + OG) (Part)</item>
+        <item>Achhabal (MC)</item>
+        <item>Seer Hamdan (MC)</item>
+        <item>Shangus</item>
+        <item>Shangus (MC)</item>
+        <item>Kokernag</item>
+        <item>Koker Nag (MC)</item>
+        <item>Dooru</item>
+        <item>Qazi Gund (MC)</item>
+        <item>Duru Verinag (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Badgam">
+        <item>Badgam</item>
+        <item>Khag</item>
+        <item>Beerwah</item>
+        <item>Magam (MC)</item>
+        <item>Beerwah (MC)</item>
+        <item>Khansahib</item>
+        <item>Khansahib (MC)</item>
+        <item>Budgam</item>
+        <item>Badgam (MC)</item>
+        <item>Chadoora</item>
+        <item>Srinagar (M Corp. + OG) (Part)</item>
+        <item>Chadura (MC)</item>
+        <item>Charar- E- Shrief</item>
+        <item>Charar-i-Sharief (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Bandipore">
+        <item>Bandipore</item>
+        <item>Gurez</item>
+        <item>Bandipora</item>
+        <item>Bandipore (MC)</item>
+        <item>Sonawari</item>
+        <item>Hajan (MC)</item>
+        <item>Sumbal (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Baramula">
+        <item>Baramula</item>
+        <item>Sopore</item>
+        <item>Sopore (M Cl + OG)</item>
+        <item>Sopore (M Cl)</item>
+        <item>Rafiabad</item>
+        <item>Watra Gam (MC)</item>
+        <item>Pattan</item>
+        <item>Pattan (MC)</item>
+        <item>Baramulla</item>
+        <item>Baramula (M Cl + OG)</item>
+        <item>Baramula (M Cl)</item>
+        <item>Kreeri</item>
+        <item>Uri</item>
+        <item>Uri (MC)</item>
+        <item>Boniyar</item>
+        <item>Tangmarg</item>
+        <item>Kunzer (MC)</item>
+        <item>Gulmarg (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Doda">
+        <item>Doda</item>
+        <item>Doda</item>
+        <item>Doda (MC)</item>
+        <item>Thathri</item>
+        <item>Gandoh</item>
+        <item>Bhaderwah</item>
+        <item>Bhaderwah (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Ganderbal">
+        <item>Ganderbal</item>
+        <item>Lar</item>
+        <item>Kangan</item>
+        <item>Ganderbal</item>
+        <item>Ganderbal (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Jammu">
+        <item>Jammu</item>
+        <item>Akhnoor</item>
+        <item>Jourian (MC)</item>
+        <item>Akhnoor (MC)</item>
+        <item>Khore (MC)</item>
+        <item>Jammu</item>
+        <item>Jammu (M Corp. + OG)</item>
+        <item>Jammu (M Corp.)</item>
+        <item>Jammu Cantt. (CB)</item>
+        <item>Ghomanhasan (MC)</item>
+        <item>Ranbir Singh Pora</item>
+        <item>R.S. Pora (MC)</item>
+        <item>Bishnah</item>
+        <item>Bishna (MC)</item>
+        <item>Arnia (MC)</item>
+    </string-array>
+
+
+    <string-array name="Kargil">
+        <item>Kargil</item>
+        <item>Kargil</item>
+        <item>Kargil (MC)</item>
+        <item>Sanku</item>
+        <item>Zanskar</item>
+    </string-array>
+
+
+
+    <string-array name="Kathua">
+        <item>Kathua</item>
+        <item>Billawar</item>
+        <item>Billawar (MC)</item>
+        <item>Bashohli</item>
+        <item>Bashohli (MC)</item>
+        <item>Bani</item>
+        <item>Kathua</item>
+        <item>Lakhanpur (MC)</item>
+        <item>Kathua (M Cl + OG)</item>
+        <item>Kathua (M Cl)</item>
+        <item>Parole (MC)</item>
+        <item>Hiranagar</item>
+        <item>Hiranagar (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Kishtwar">
+        <item>Kishtwar</item>
+        <item>Kishtwar</item>
+        <item>Kishtwar (MC)</item>
+        <item>Marwah</item>
+        <item>Chhatroo</item>
+        <item>Atholi (Paddar)</item>
+    </string-array>
+
+
+
+    <string-array name="Kulgam">
+        <item>Kulgam</item>
+        <item>Kulgam</item>
+        <item>Anantnag (M Cl + OG) (Part)</item>
+        <item>Kulgam (MC)</item>
+        <item>Quimoh (MC)</item>
+        <item>Frisal (MC)</item>
+        <item>Yari Pora (MC)</item>
+        <item>Ashmuji Khalsa (MC)</item>
+        <item>Mehmood Pora (MC)</item>
+        <item>Devsar</item>
+        <item>Devsar (MC)</item>
+        <item>Damhal Hanjipora</item>
+    </string-array>
+
+
+    <string-array name="Kupwara">
+        <item>Kupwara</item>
+        <item>Kupwara</item>
+        <item>Kupwara (MC)</item>
+        <item>Handwara</item>
+        <item>Handwara (MC)</item>
+        <item>Karnah</item>
+    </string-array>
+
+
+
+    <string-array name="Leh_Ladakh">
+        <item>Leh(Ladakh)</item>
+        <item>Leh</item>
+        <item>Leh Ladakh (MC)</item>
+        <item>Nubra</item>
+        <item>Khalsi</item>
+    </string-array>
+
+
+
+    <string-array name="Pulwama">
+        <item>Pulwama</item>
+        <item>Pampore</item>
+        <item>Pampora (MC)</item>
+        <item>Khrew (MC)</item>
+        <item>Awantipora</item>
+        <item>Awantipora (MC)</item>
+        <item>Tral</item>
+        <item>Tral (MC)</item>
+        <item>Pulwama</item>
+        <item>Pulwama (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Punch">
+        <item>Punch</item>
+        <item>Haveli</item>
+        <item>Punch (M Cl)</item>
+        <item>Mandi</item>
+        <item>Mendhar</item>
+        <item>Surankote</item>
+        <item>Surankote (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Rajouri">
+        <item>Rajouri</item>
+        <item>Thanamandi</item>
+        <item>Thanamandi (MC)</item>
+        <item>Darhal</item>
+        <item>Rajauri</item>
+        <item>Rajauri (MC)</item>
+        <item>Budhal</item>
+        <item>Kalakote</item>
+        <item>Nowshehra</item>
+        <item>Nowshehra (MC)</item>
+        <item>Sunderbani</item>
+        <item>Sunderbani (MC)</item>
+    </string-array>
+
+
+    <string-array name="Ramban">
+        <item>Ramban</item>
+        <item>Banihal</item>
+        <item>Banihal (MC)</item>
+        <item>Ramban</item>
+        <item>Ramban (MC)</item>
+        <item>Batote (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Reasi">
+        <item>Reasi</item>
+        <item>Gool-Gulabgarh</item>
+        <item>Reasi</item>
+        <item>Reasi (MC)</item>
+        <item>Purana Daroorh (MC)</item>
+        <item>Katra (MC)</item>
+    </string-array>
+
+
+    <string-array name="Samba">
+        <item>Samba</item>
+        <item>Samba</item>
+        <item>Bari Brahamana (MC)</item>
+        <item>Vijay Pur (MC)</item>
+        <item>Samba (MC)</item>
+        <item>Ramgarh (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Shupiyan">
+        <item>Shupiyan</item>
+        <item>Shopian</item>
+        <item>Shupiyan (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Srinagar">
+        <item>Srinagar</item>
+        <item>Srinagar (North)</item>
+        <item>Srinagar (M Corp. + OG) (Part)</item>
+        <item>Badami Bagh (CB)</item>
+        <item>Srinagar (South)</item>
+        <item>Srinagar (M Corp. + OG) (Part)</item>
+    </string-array>
+
+
+
+    <string-array name="Udhampur">
+        <item>Udhampur</item>
+        <item>Udhampur</item>
+        <item>Udhampur (M Cl + OG)</item>
+        <item>Udhampur (M Cl)</item>
+        <item>Chenani</item>
+        <item>Kud (MC)</item>
+        <item>Chenani (MC)</item>
+        <item>Ramnagar</item>
+        <item>Ram Nagar (MC)</item>
+        <item>Majalta</item>
+    </string-array>
+
+
+
+</resources>

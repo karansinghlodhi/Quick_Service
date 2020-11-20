@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Anugul">
+        <item>Anugul</item>
+        <item>Bhusan Steel Limited</item>
+        <item>Palalahada</item>
+        <item>Khamar</item>
+        <item>Rengali Damsite</item>
+        <item>Kaniha</item>
+        <item>N.T.P.C.</item>
+        <item>Samal Barrage</item>
+        <item>Talcher Sadar</item>
+        <item>Talcher (M)</item>
+        <item>Colliery</item>
+        <item>Bikrampur</item>
+        <item>NALCO</item>
+        <item>Banarpal</item>
+        <item>Anugul</item>
+        <item>Anugul (M)</item>
+        <item>Jarapada</item>
+        <item>Industrial</item>
+        <item>Chhendipada</item>
+        <item>Handapa</item>
+        <item>Kishorenagar</item>
+        <item>Athmallik</item>
+        <item>Athmallik (NAC)</item>
+        <item>Kiakata</item>
+        <item>Thakurgarh</item>
+        <item>Purunakot</item>
+        <item>Bantala</item>
+    </string-array>
+
+
+
+    <string-array name="Balangir">
+        <item>Balangir</item>
+        <item>Loisinga</item>
+        <item>Balangir</item>
+        <item>Balangir (M)</item>
+        <item>Tushura</item>
+        <item>Patnagarh</item>
+        <item>Patnagarh (NAC)</item>
+        <item>Khaprakhol</item>
+        <item>Turekela</item>
+        <item>Belpara</item>
+        <item>Saintala</item>
+        <item>Kantabanji</item>
+        <item>Kantabanji (NAC)</item>
+        <item>Bangomunda</item>
+        <item>Sindhekela</item>
+        <item>Titlagarh</item>
+        <item>Titlagarh (NAC + OG)</item>
+        <item>Titlagarh (NAC)</item>
+    </string-array>
+
+
+
+    <string-array name="Baleshwar">
+        <item>Baleshwar</item>
+        <item>Raibania</item>
+        <item>Jaleswar</item>
+        <item>Jaleshwar (NAC)</item>
+        <item>Bhograi</item>
+        <item>Kamarda</item>
+        <item>Baliapal</item>
+        <item>Singla</item>
+        <item>Basta</item>
+        <item>Rupsa</item>
+        <item>Baleshwar Sadar</item>
+        <item>Sahadevkhunta</item>
+        <item>Chandipur</item>
+        <item>Balaramgadi Marine</item>
+        <item>Bampada</item>
+        <item>Remuna</item>
+        <item>Remuna (NAC)</item>
+        <item>Nilagiri</item>
+        <item>Nilagiri (NAC)</item>
+        <item>Berhampur</item>
+        <item>Oupada</item>
+        <item>Khaira</item>
+        <item>Soro</item>
+        <item>Soro (NAC)</item>
+        <item>Similia</item>
+        <item>Baleshwar (M)</item>
+        <item>Baleshwar (M + OG)</item>
+        <item>Baleshwar (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Bargarh">
+        <item>Bargarh</item>
+        <item>Paikamal</item>
+        <item>Jharbandha</item>
+        <item>Padmapur</item>
+        <item>Padmapur (NAC)</item>
+        <item>Burden</item>
+        <item>BurdenP.S.</item>
+        <item>Gaisilet</item>
+        <item>Melchhamunda</item>
+        <item>Sohela</item>
+        <item>Bijepur</item>
+        <item>Barapali</item>
+        <item>Barapali (NAC)</item>
+        <item>Bheden</item>
+        <item>Bargarh</item>
+        <item>Bargarh (M)</item>
+        <item>Bargarh Sadar</item>
+        <item>Bhatli</item>
+        <item>Ambabhona</item>
+        <item>Attabira</item>
+    </string-array>
+
+
+
+    <string-array name="Baudh">
+        <item>Baudh</item>
+        <item>Kantamal</item>
+        <item>Manamunda</item>
+        <item>Baunsuni</item>
+        <item>Baudh Sadar</item>
+        <item>Baudhgarh (NAC)</item>
+        <item>Puruna Katak</item>
+        <item>Harbhanga</item>
+    </string-array>
+
+
+
+    <string-array name="Bhadrak">
+        <item>Bhadrak</item>
+        <item>Agarpada</item>
+        <item>Bant</item>
+        <item>Bhandari Pokhari</item>
+        <item>Dhamanagar</item>
+        <item>Dhamanagar (NAC)</item>
+        <item>Bhadrak Rural</item>
+        <item>Bhadrak (M + OG)</item>
+        <item>Bhadrak (M)</item>
+        <item>Basudebpur</item>
+        <item>Basudebpur (NAC)</item>
+        <item>Naikanidihi</item>
+        <item>Tihidi</item>
+        <item>Dhusuri</item>
+        <item>Chandabali</item>
+        <item>Bansada</item>
+        <item>Dhamara Marine</item>
+    </string-array>
+
+
+
+    <string-array name="Cuttack">
+        <item>Cuttack</item>
+        <item>Narasinghpur</item>
+        <item>Kanpur</item>
+        <item>Badamba</item>
+        <item>Baidyeswar</item>
+        <item>Banki</item>
+        <item>Banki (NAC)</item>
+        <item>Tigiria</item>
+        <item>Athagad</item>
+        <item>Athagad (NAC)</item>
+        <item>Barang</item>
+        <item>Gurudijhatia</item>
+        <item>Khuntuni</item>
+        <item>Choudwar</item>
+        <item>Choudwar (M + OG)</item>
+        <item>Choudwar (M)</item>
+        <item>Tangi</item>
+        <item>Mahanga</item>
+        <item>Salepur</item>
+        <item>Nischintakoili</item>
+        <item>Nemalo</item>
+        <item>Kishannagar</item>
+        <item>Jagatpur</item>
+        <item>Cuttack Sadar</item>
+        <item>Kandarpur</item>
+        <item>C.R.R.I.</item>
+        <item>Gobindpur</item>
+        <item>Olatapur</item>
+        <item>Niali</item>
+        <item>Cuttack (M.Corp.) P.S</item>
+        <item>Cuttack (M Corp.)</item>
+        <item>Cuttack (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Debagarh">
+        <item>Debagarh</item>
+        <item>Debagarh</item>
+        <item>Debagarh (M)</item>
+        <item>Barkot</item>
+        <item>Kundheigola</item>
+        <item>Reamal</item>
+    </string-array>
+
+
+
+    <string-array name="Dhenkanal">
+        <item>Dhenkanal</item>
+        <item>Parajang</item>
+        <item>Kamakshyanagar</item>
+        <item>Kamakshyanagar (NAC)</item>
+        <item>Kankadahad</item>
+        <item>Bhuban</item>
+        <item>Bhuban (NAC)</item>
+        <item>Gandia</item>
+        <item>Nihalprasad</item>
+        <item>Tumusingha</item>
+        <item>Motunga</item>
+        <item>Bhusan Steel Limited</item>
+        <item>Balimi</item>
+        <item>Hindol</item>
+        <item>Rasol</item>
+        <item>Dhenkanal Sadar</item>
+        <item>Dhenkanal (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Gajapati">
+        <item>Gajapati</item>
+        <item>Adva</item>
+        <item>Mohana</item>
+        <item>R.Udaygiri</item>
+        <item>Serango</item>
+        <item>Kashinagara</item>
+        <item>Kashinagar (NAC)</item>
+        <item>Parlakhemundi</item>
+        <item>Paralakhemundi (M + OG)</item>
+        <item>Paralakhemundi (M)</item>
+        <item>Gurandi</item>
+        <item>Rayagada</item>
+        <item>Garabandha</item>
+        <item>Ramagiri</item>
+    </string-array>
+
+
+
+    <string-array name="Ganjam">
+        <item>Ganjam</item>
+        <item>TARASINGI</item>
+        <item>BUGUDA</item>
+        <item>Buguda (NAC)</item>
+        <item>Jagannath Prasad</item>
+        <item>BHANJANAGAR</item>
+        <item>Bhanjanagar (NAC)</item>
+        <item>Bellaguntha (NAC)</item>
+        <item>Gangapur</item>
+        <item>SURADA</item>
+        <item>Surada (NAC)</item>
+        <item>Badagada</item>
+        <item>ASIKA</item>
+        <item>Asika (NAC)</item>
+        <item>Dharakote</item>
+        <item>KABISURYANAGAR</item>
+        <item>Kabisurjyanagar (NAC)</item>
+        <item>Polasara</item>
+        <item>Polasara (NAC)</item>
+        <item>Kodala</item>
+        <item>Kodala (NAC)</item>
+        <item>Khalikote</item>
+        <item>Khalikote (NAC)</item>
+        <item>Rambha</item>
+        <item>Rambha (NAC)</item>
+        <item>Chhatrapur</item>
+        <item>Chhatrapur (NAC)</item>
+        <item>Ganjam</item>
+        <item>Ganjam (NAC)</item>
+        <item>Chamakhandi</item>
+        <item>ARJYAPALLI MARINE</item>
+        <item>PURUSOTTAMPUR</item>
+        <item>Purusottampur (NAC)</item>
+        <item>Hinjili</item>
+        <item>Hinjilicut (NAC)</item>
+        <item>Patapur</item>
+        <item>SERAGAD</item>
+        <item>BRAHMAPUR SADAR</item>
+        <item>GOPALPUR</item>
+        <item>Gopalpur (NAC)</item>
+        <item>Golanthara</item>
+        <item>DIGAPAHANDI</item>
+        <item>Digapahandi (NAC)</item>
+        <item>Nuagaon</item>
+        <item>Chikiti (NAC)</item>
+        <item>Jarada</item>
+        <item>Brahmapur (M.Corp.)</item>
+        <item>Brahmapur (MC)</item>
+        <item>Ramagiri</item>
+    </string-array>
+
+
+
+    <string-array name="Jagatsinghapur">
+        <item>Jagatsinghapur</item>
+        <item>Paradip</item>
+        <item>Paradip (M)</item>
+        <item>Paradeep Lock</item>
+        <item>Kujang</item>
+        <item>Abhyachandpur</item>
+        <item>Ersama</item>
+        <item>Tirtol</item>
+        <item>Jagatsinghapur</item>
+        <item>Jagatsinghapur (M)</item>
+        <item>Biridi</item>
+        <item>Naugaon</item>
+        <item>Balikuda</item>
+    </string-array>
+
+
+
+    <string-array name="Jajapur">
+        <item>Jajapur</item>
+        <item>Sukinda</item>
+        <item>Tomka</item>
+        <item>Kaliapani</item>
+        <item>Kalinganagar</item>
+        <item>Jakhapura</item>
+        <item>Jajapur Road</item>
+        <item>Byasanagar (M + OG)</item>
+        <item>Byasanagar (M)</item>
+        <item>Korai</item>
+        <item>Panikoili</item>
+        <item>Jajapur</item>
+        <item>Jajapur (M)</item>
+        <item>Jajpur Sadar</item>
+        <item>Dharmasala</item>
+        <item>Jenapur</item>
+        <item>Kuakhia</item>
+        <item>Badachana</item>
+        <item>Balichandrapur</item>
+        <item>Binjharpur</item>
+        <item>Bari - Ramachandrapur</item>
+        <item>Mangalpur</item>
+    </string-array>
+
+
+
+    <string-array name="Jharsuguda">
+        <item>Jharsuguda</item>
+        <item>Rengali</item>
+        <item>Lakhanpur</item>
+        <item>Belpahar</item>
+        <item>Belpahar (M)</item>
+        <item>Banaharapali</item>
+        <item>Orient</item>
+        <item>Brajarajnagar (M)</item>
+        <item>Brajarajnagar</item>
+        <item>Jharsuguda</item>
+        <item>Jharsuguda (M)</item>
+        <item>Badmal</item>
+        <item>Laikera</item>
+        <item>Kolabira</item>
+    </string-array>
+
+
+
+    <string-array name="Kalahandi">
+        <item>Kalahandi</item>
+        <item>Kesinga</item>
+        <item>Kesinga (NAC)</item>
+        <item>Madanpur Rampur</item>
+        <item>Narala</item>
+        <item>Lanjigarh</item>
+        <item>Biswanathpur</item>
+        <item>Sadar</item>
+        <item>Bhawanipatna (M)</item>
+        <item>Kegaon</item>
+        <item>Junagarh</item>
+        <item>Junagarh (NAC)</item>
+        <item>Golamunda</item>
+        <item>Dharamgarh</item>
+        <item>Kokasara</item>
+        <item>Jayapatna</item>
+        <item>Thuamul Rampur</item>
+    </string-array>
+
+
+
+    <string-array name="Kandhamal">
+        <item>Kandhamal</item>
+        <item>Gochhapada</item>
+        <item>Phulabani</item>
+        <item>Phulabani Town</item>
+        <item>Phulabani (M)</item>
+        <item>Khajuripada</item>
+        <item>G.Udayagiri</item>
+        <item>G. Udayagiri (NAC)</item>
+        <item>Tikabali</item>
+        <item>Chakapada</item>
+        <item>Sarangagarh</item>
+        <item>Phiringia</item>
+        <item>Baliguda</item>
+        <item>Nuagaon</item>
+        <item>Tumudibandha</item>
+        <item>Belaghar</item>
+        <item>Kotagarh</item>
+        <item>Brahmanigaon</item>
+        <item>Daringbadi</item>
+        <item>Raikia</item>
+    </string-array>
+
+
+
+    <string-array name="Kendrapara">
+        <item>Kendrapara</item>
+        <item>Rajkanika</item>
+        <item>Rajnagar</item>
+        <item>Jamboo Marine</item>
+        <item>Aali</item>
+        <item>Pattamundai</item>
+        <item>Pattamundai (NAC)</item>
+        <item>Kendrapara</item>
+        <item>Kendrapara (M)</item>
+        <item>Kendrapara Sadar</item>
+        <item>Nikirai</item>
+        <item>Derabish</item>
+        <item>Patkura</item>
+        <item>Marsaghai</item>
+        <item>Mahakalapada</item>
+    </string-array>
+
+
+    <string-array name="Kendujhar">
+        <item>Kendujhar</item>
+        <item>Barbil</item>
+        <item>Barbil (M)</item>
+        <item>Bolani</item>
+        <item>Rugudi</item>
+        <item>Joda</item>
+        <item>Joda (M )</item>
+        <item>Bamebari</item>
+        <item>Champua</item>
+        <item>Jhumpura</item>
+        <item>Baria</item>
+        <item>Turumunga</item>
+        <item>Patana</item>
+        <item>Kendujhar Sadar</item>
+        <item>Kendujhar Town</item>
+        <item>Kendujhar (M)</item>
+        <item>Nayakote</item>
+        <item>Kanjipani</item>
+        <item>Telkoi</item>
+        <item>Pandapara</item>
+        <item>Ghatgaon</item>
+        <item>Harichandanpur</item>
+        <item>Daitari</item>
+        <item>Ghasipura</item>
+        <item>Anandapur</item>
+        <item>Anandpur (M)</item>
+        <item>Soso</item>
+        <item>Nandipada</item>
+        <item>Sainkul</item>
+    </string-array>
+
+
+    <string-array name="Khordha">
+        <item>Khordha</item>
+        <item>Bolagad</item>
+        <item>Begunia</item>
+        <item>Khordha</item>
+        <item>Khordha (M)</item>
+        <item>Khordha Sadar</item>
+        <item>Chandaka</item>
+        <item>Nandankanan</item>
+        <item>Saheednagar</item>
+        <item>Mancheswar</item>
+        <item>Balianta</item>
+        <item>Balipatna</item>
+        <item>LINGARAJ</item>
+        <item>Airfield (Kapila Prasad)</item>
+        <item>Uttara P.S</item>
+        <item>Uttara</item>
+        <item>Khandagiri</item>
+        <item>Tamando</item>
+        <item>Jatani</item>
+        <item>Jatani (M + OG)</item>
+        <item>Jatani (M)</item>
+        <item>Jankia</item>
+        <item>Nirakarpur</item>
+        <item>Tangi</item>
+        <item>Balugaon</item>
+        <item>Balugaon (NAC)</item>
+        <item>Banapur</item>
+        <item>Banapur (NAC)</item>
+        <item>Bhubaneswar (M Corp.)</item>
+        <item>Bhubaneswar (M.Corp.)</item>
+        <item>Bhubaneswar (MC + OG)</item>
+        <item>Bhubaneswar (MC)</item>
+    </string-array>
+
+
+
+    <string-array name="Koraput">
+        <item>Koraput</item>
+        <item>Kotpad</item>
+        <item>Kotpad (NAC)</item>
+        <item>Boriguma</item>
+        <item>Bhairabsingipur</item>
+        <item>Dasamantapur</item>
+        <item>Lakshmipur</item>
+        <item>Narayanpatana</item>
+        <item>Bandhugaon</item>
+        <item>Kakiriguma</item>
+        <item>Koraput</item>
+        <item>Koraput Town</item>
+        <item>Koraput (NAC)</item>
+        <item>Jeypore</item>
+        <item>Jeypur (M)</item>
+        <item>Kundura</item>
+        <item>Boipariguda</item>
+        <item>Machh kund</item>
+        <item>Padua</item>
+        <item>Nandapur</item>
+        <item>Similiguda</item>
+        <item>Sunabeda</item>
+        <item>Sunabeda (NAC).</item>
+        <item>Damonjodi</item>
+        <item>Pottangi</item>
+        <item>Kotiya</item>
+    </string-array>
+
+
+
+    <string-array name="Malkangiri">
+        <item>Malkangiri</item>
+        <item>Malkangiri</item>
+        <item>Malkangiri (NAC)</item>
+        <item>Mathili</item>
+        <item>Mudulipada</item>
+        <item>Chitrakonda</item>
+        <item>Paparmetla</item>
+        <item>Jodamba</item>
+        <item>Orkel</item>
+        <item>Balimela (NAC)</item>
+        <item>Kalimela</item>
+        <item>Podia</item>
+        <item>M.V. 79</item>
+        <item>Motu</item>
+    </string-array>
+
+
+
+    <string-array name="Mayurbhanj">
+        <item>Mayurbhanj</item>
+        <item>Tiring</item>
+        <item>Bahalda</item>
+        <item>Jamda</item>
+        <item>Rairangpur Town</item>
+        <item>Rairangpur (NAC + OG)</item>
+        <item>Rairangpur (NAC)</item>
+        <item>Gorumahisani</item>
+        <item>Jharpokharia</item>
+        <item>Bisoi</item>
+        <item>Rairangpur</item>
+        <item>Badampahar</item>
+        <item>Jashipur</item>
+        <item>Raruan</item>
+        <item>Ghagarbeda</item>
+        <item>Karanjia</item>
+        <item>Karanjia (NAC)</item>
+        <item>Thakurmunda</item>
+        <item>Baripada Sadar</item>
+        <item>Baripada Town</item>
+        <item>Koliana</item>
+        <item>Bangiriposi</item>
+        <item>Chandua</item>
+        <item>Suliapada</item>
+        <item>Muruda</item>
+        <item>Rasagobindapur</item>
+        <item>Baisinga</item>
+        <item>Betanati</item>
+        <item>Barsahi</item>
+        <item>Khunta</item>
+        <item>Udala</item>
+        <item>Udala (NAC)</item>
+        <item>Kaptipada</item>
+        <item>Sharata</item>
+        <item>Mahuldiha</item>
+        <item>Baripada (M)</item>
+        <item>Baripada (M + OG)</item>
+        <item>Baripada (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Nabarangapur">
+        <item>Nabarangapur</item>
+        <item>Raighar</item>
+        <item>Kundei</item>
+        <item>Umarkote</item>
+        <item>Umarkote (NAC)</item>
+        <item>Chandahandi</item>
+        <item>Jharigan</item>
+        <item>Dabugan</item>
+        <item>Paparahandi</item>
+        <item>Kodinga</item>
+        <item>Kosagumuda</item>
+        <item>Nabarangapur P.S</item>
+        <item>Nabarangapur</item>
+        <item>Nabarangapur (M + OG)</item>
+        <item>Nabarangapur (M)</item>
+        <item>Tentulikhunti</item>
+        <item>Khatiguda</item>
+    </string-array>
+
+
+
+    <string-array name="Nayagarh">
+        <item>Nayagarh</item>
+        <item>Gania</item>
+        <item>Dasapalla</item>
+        <item>Banigochha</item>
+        <item>Nuagaon</item>
+        <item>Khandapada</item>
+        <item>Khandapada (NAC)</item>
+        <item>Fategarh</item>
+        <item>Nayagarh</item>
+        <item>Nayagarh (NAC)</item>
+        <item>Itamati</item>
+        <item>Nayagarh Sadar</item>
+        <item>Odagaon</item>
+        <item>Sarankul</item>
+        <item>Ranapur</item>
+    </string-array>
+
+
+
+    <string-array name="Nuapada">
+        <item>Nuapada</item>
+        <item>JONK</item>
+        <item>Khariar Road (NAC)</item>
+        <item>Nuapada</item>
+        <item>KOMNA</item>
+        <item>KHARIAR</item>
+        <item>Khariar (NAC)</item>
+        <item>Boden</item>
+        <item>SINAPALI</item>
+    </string-array>
+
+
+
+    <string-array name="Puri">
+        <item>Puri</item>
+        <item>Delanga</item>
+        <item>Pipili</item>
+        <item>Pipili (NAC)</item>
+        <item>Nimapada</item>
+        <item>Nimapada (NAC)</item>
+        <item>Kakatpur</item>
+        <item>Astaranga</item>
+        <item>Konark</item>
+        <item>Konark (NAC)</item>
+        <item>Gop</item>
+        <item>Ramachandi</item>
+        <item>Satyabadi</item>
+        <item>Chandanpur</item>
+        <item>Sadar</item>
+        <item>Brahmagiri</item>
+        <item>Gadisagada</item>
+        <item>Krushna Prasad</item>
+        <item>Puri (M)</item>
+        <item>Puri (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Rayagada">
+        <item>Rayagada</item>
+        <item>Ambadala</item>
+        <item>Muniguda</item>
+        <item>Chandrapur</item>
+        <item>Bishamakatak</item>
+        <item>Kalyanasingpur</item>
+        <item>Kashipur</item>
+        <item>Andirakanch</item>
+        <item>Tikiri</item>
+        <item>Doraguda</item>
+        <item>Rayagada</item>
+        <item>Rayagada (M)</item>
+        <item>Seskhal</item>
+        <item>Gunupur</item>
+        <item>Gunupur (NAC + OG)</item>
+        <item>Gunupur (NAC)</item>
+        <item>Gudari</item>
+        <item>Gudari (NAC)</item>
+        <item>Padmapur</item>
+        <item>Puttasing</item>
+    </string-array>
+
+
+
+    <string-array name="Sambalpur">
+        <item>Sambalpur</item>
+        <item>Govindpur</item>
+        <item>Mahulpalli</item>
+        <item>Kochinda</item>
+        <item>Kochinda (NAC)</item>
+        <item>Katarbaga</item>
+        <item>Thelkoloi</item>
+        <item>Rengali</item>
+        <item>Sasan</item>
+        <item>Hirakud</item>
+        <item>Hirakud (NAC)</item>
+        <item>Burla</item>
+        <item>Burla (NAC)</item>
+        <item>Dhanupali</item>
+        <item>Ainthapali</item>
+        <item>Sadar</item>
+        <item>Jamankira</item>
+        <item>Kisinda</item>
+        <item>Jujomura</item>
+        <item>Dhama</item>
+        <item>Charamal</item>
+        <item>Rairakhol</item>
+        <item>Redhakhol (NAC)</item>
+        <item>Naktideul</item>
+        <item>Sambalpur (M)</item>
+        <item>Sambalpur (M + OG)</item>
+        <item>Sambalpur (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Subarnapur">
+        <item>Subarnapur</item>
+        <item>Dunguripali</item>
+        <item>Rampur</item>
+        <item>Binika</item>
+        <item>Binika (NAC)</item>
+        <item>Ulunda</item>
+        <item>Biramaharajpur</item>
+        <item>Subalaya</item>
+        <item>Sonapur</item>
+        <item>Sonapur (M)</item>
+        <item>Tarbha</item>
+        <item>Tarbha (NAC)</item>
+    </string-array>
+
+
+
+    <string-array name="Sundargarh">
+        <item>Sundargarh</item>
+        <item>Hemgir</item>
+        <item>Lephripara</item>
+        <item>Bhasma</item>
+        <item>Dharuadihi</item>
+        <item>Sundargarh Town</item>
+        <item>Sundargarh (M)</item>
+        <item>Sundargarh</item>
+        <item>Kinjirkela</item>
+        <item>Talasara</item>
+        <item>Baragaon</item>
+        <item>Kutra</item>
+        <item>Rajagangapur</item>
+        <item>Rajagangapur (M)</item>
+        <item>O.C.L. (ITS)</item>
+        <item>Raiboga</item>
+        <item>Biramitrapur</item>
+        <item>Biramitrapur (M)</item>
+        <item>Hatibari</item>
+        <item>Bisra</item>
+        <item>Bondamunda</item>
+        <item>Brahmani Tarang</item>
+        <item>Raghunathapali</item>
+        <item>Tangarapali</item>
+        <item>Lathikata</item>
+        <item>Chandiposh</item>
+        <item>Kamarposh Balang</item>
+        <item>Koida</item>
+        <item>Lahunipara</item>
+        <item>Gurundia</item>
+        <item>Tikaetpali</item>
+        <item>Banei</item>
+        <item>Mahulapada</item>
+        <item>Raurkela (M)</item>
+        <item>Raurkela (M + OG)</item>
+        <item>Raurkela (M)</item>
+        <item>Raurkela (ITS)</item>
+        <item>Raurkela (ITS)P.S.</item>
+        <item>Raurkela (ITS + OG)</item>
+        <item>Raurkela (ITS)</item>
+    </string-array>
+
+
+</resources>

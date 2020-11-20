@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Aizawl">
+        <item>Aizawl</item>
+        <item>Tlangnuam (Part)</item>
+        <item>Sairang (NT)</item>
+        <item>Aizawl (NT)</item>
+        <item>Darlawn</item>
+        <item>Darlawn (NT)</item>
+        <item>Phullen</item>
+        <item>Aibawk</item>
+        <item>Thingsulthliah (Part)</item>
+        <item>Saitual (NT)</item>
+    </string-array>
+
+
+    <string-array name="Champhai">
+        <item>Champhai</item>
+        <item>Ngopa</item>
+        <item>Khawzawl</item>
+        <item>Khawzawl (NT)</item>
+        <item>Khawhai (NT)</item>
+        <item>Champhai</item>
+        <item>Champhai (NT)</item>
+        <item>Khawbung</item>
+        <item>East Lungdar (Part)</item>
+        <item>Biate (NT)</item>
+    </string-array>
+
+
+    <string-array name="Kolasib">
+        <item>Kolasib</item>
+        <item>N Thingdawl</item>
+        <item>N. Kawnpui (NT)</item>
+        <item>Bilkhawthlir</item>
+        <item>Vairengte (NT)</item>
+        <item>Bairabi (NT)</item>
+        <item>Kolasib (NT)</item>
+        <item>Tlangnuam (Part)</item>
+    </string-array>
+
+
+
+    <string-array name="Lawngtlai">
+        <item>Lawngtlai</item>
+        <item>Chawngte</item>
+        <item>Lawngtlai</item>
+        <item>Lawngtlai (NT)</item>
+        <item>S Bungtlang</item>
+        <item>Sangau</item>
+    </string-array>
+
+
+
+    <string-array name="Lunglei">
+        <item>Lunglei</item>
+        <item>West Bunghmun</item>
+        <item>Lungsen</item>
+        <item>Tlabung (NT)</item>
+        <item>Lunglei</item>
+        <item>Lunglei (NT)</item>
+        <item>Hnahthial</item>
+        <item>Hnahthial (NT)</item>
+    </string-array>
+
+
+    <string-array name="Mamit">
+        <item>Mamit</item>
+        <item>Zawlnuam</item>
+        <item>Zawlnuam (NT)</item>
+        <item>Mamit (NT)</item>
+        <item>West Phaileng</item>
+        <item>Reiek</item>
+        <item>Lengpui (NT)</item>
+    </string-array>
+
+
+
+    <string-array name="Saiha">
+        <item>Saiha</item>
+        <item>Tuipang</item>
+        <item>Saiha</item>
+        <item>Saiha (NT)</item>
+    </string-array>
+
+
+    <string-array name="Serchhip">
+        <item>Serchhip</item>
+        <item>Thingsulthliah (Part)</item>
+        <item>Serchhip</item>
+        <item>Serchhip (NT)</item>
+        <item>Thenzawl (NT)</item>
+        <item>East Lungdar (Part)</item>
+        <item>North Vanlaiphai (NT)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="East_Garo_Hills">
+        <item>East Garo Hills</item>
+        <item>Resubelpara</item>
+        <item>Resubelpara (MB)</item>
+        <item>Dambo Rongjeng</item>
+        <item>Kharkutta</item>
+        <item>Songsak</item>
+        <item>Samanda</item>
+        <item>Williamnagar (MB)</item>
+    </string-array>
+
+
+    <string-array name="East_Khasi_Hills">
+        <item>East Khasi Hills</item>
+        <item>Mawphlang</item>
+        <item>Mylliem</item>
+        <item>Shillong (CB)</item>
+        <item>Shillong (MB)</item>
+        <item>Mawryngkneng</item>
+        <item>Mawkynrew</item>
+        <item>Khatarshnong Laitkroh</item>
+        <item>Mawsynram</item>
+        <item>Shella Bholaganj</item>
+        <item>Pynursla</item>
+    </string-array>
+
+
+    <string-array name="Jaintia_Hills">
+        <item>Jaintia Hills</item>
+        <item>Thadlaskein</item>
+        <item>Jowai (M)</item>
+        <item>Laskein</item>
+        <item>Amlarem</item>
+        <item>Khliehriat</item>
+        <item>Saipung</item>
+    </string-array>
+
+
+    <string-array name="Ribhoi">
+        <item>Ribhoi</item>
+        <item>Umling</item>
+        <item>Nongpoh (TC)</item>
+        <item>Jirang</item>
+        <item>Umsning</item>
+    </string-array>
+
+
+    <string-array name="South_Garo_Hills">
+        <item>South Garo Hills</item>
+        <item>Chokpot</item>
+        <item>Gasuapara</item>
+        <item>Baghmara</item>
+        <item>Baghmara (MB)</item>
+        <item>Rongara</item>
+    </string-array>
+
+
+
+    <string-array name="West_Garo_Hills">
+        <item>West Garo Hills</item>
+        <item>Selsella</item>
+        <item>Dadenggiri</item>
+        <item>Tikrikilla</item>
+        <item>Rongram</item>
+        <item>Tura (M)</item>
+        <item>Betasing</item>
+        <item>Zikzak</item>
+        <item>Gambegre</item>
+        <item>Dalu</item>
+    </string-array>
+
+
+
+    <string-array name="West_Khasi_Hills">
+        <item>West Khasi Hills</item>
+        <item>Mawshynrut</item>
+        <item>Nongstoin</item>
+        <item>Nongstoin (TC)</item>
+        <item>Mawthadraishan</item>
+        <item>Mairang</item>
+        <item>Mairang (TC)</item>
+        <item>Ranikor</item>
+        <item>Mawkyrwat</item>
+    </string-array>
+
+
+
+</resources>

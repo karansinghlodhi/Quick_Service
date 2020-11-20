@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Adilabad">
+        <item>Adilabad</item>
+        <item>Bellampalle (M)</item>
+        <item>Tamsi</item>
+        <item>Adilabad</item>
+        <item>Adilabad (M)</item>
+        <item>Jainad</item>
+        <item>Bela</item>
+        <item>Talamadugu</item>
+        <item>Gudihathnoor</item>
+        <item>Inderavelly</item>
+        <item>Narnoor</item>
+        <item>Kerameri</item>
+        <item>Wankdi</item>
+        <item>Sirpur (T)</item>
+        <item>Kouthala</item>
+        <item>Bejjur</item>
+        <item>Kagaznagar</item>
+        <item>Kagaznagar (M)</item>
+        <item>Asifabad</item>
+        <item>Jainoor</item>
+        <item>Utnoor</item>
+        <item>Ichoda</item>
+        <item>Bazarhathnoor</item>
+        <item>Boath</item>
+        <item>Neradigonda</item>
+        <item>Sirpur</item>
+        <item>Rebbana</item>
+        <item>Bhimini</item>
+        <item>Dahegaon</item>
+        <item>Vemanpalle</item>
+        <item>Nennal</item>
+        <item>Tandur</item>
+        <item>Tiryani</item>
+        <item>Jannaram</item>
+        <item>Kaddam (Peddur)</item>
+        <item>Sarangapur</item>
+        <item>Kuntala</item>
+        <item>Kubeer</item>
+        <item>Bhainsa</item>
+        <item>Bhainsa (M)</item>
+        <item>Tanoor</item>
+        <item>Mudhole</item>
+        <item>Lokeswaram</item>
+        <item>Dilawarpur</item>
+        <item>Nirmal</item>
+        <item>Nirmal (M)</item>
+        <item>Laxmanchanda</item>
+        <item>Mamda</item>
+        <item>Khanapur</item>
+        <item>Dandepalle</item>
+        <item>Kasipet</item>
+        <item>Bellampalle (M) (Part)</item>
+        <item>Bellampalle</item>
+        <item>Bellampalle (M) (Part)</item>
+        <item>Kotapalle</item>
+        <item>Mandamarri</item>
+        <item>Mandamarri (M)</item>
+        <item>Luxettipet</item>
+        <item>Mancherial</item>
+        <item>Mancherial (M + OG)</item>
+        <item>Mancherial (M)</item>
+        <item>Jaipur</item>
+        <item>Chennur</item>
+    </string-array>
+
+
+
+    <string-array name="Anantapur">
+        <item>Anantapur</item>
+        <item>Anantapur (M Corp. + OG)</item>
+        <item>D.Hirehal</item>
+        <item>Rayadurg</item>
+        <item>Rayadurg (M)</item>
+        <item>Kanekal</item>
+        <item>Bommanahal</item>
+        <item>Vidapanakal</item>
+        <item>Guntakal</item>
+        <item>Guntakal (M)</item>
+        <item>Gooty</item>
+        <item>Peddavadugur</item>
+        <item>Yadiki</item>
+        <item>Tadpatri</item>
+        <item>Tadpatri (M)</item>
+        <item>Peddapappur</item>
+        <item>Pamidi</item>
+        <item>Vajrakarur</item>
+        <item>Uravakonda</item>
+        <item>Beluguppa</item>
+        <item>Gummagatta</item>
+        <item>Brahmasamudram</item>
+        <item>Kalyandurg</item>
+        <item>Atmakur</item>
+        <item>Kudair</item>
+        <item>Garladinne</item>
+        <item>Singanamala</item>
+        <item>Putlur</item>
+        <item>Yellanur</item>
+        <item>Narpala</item>
+        <item>Bukkaraya Samudram</item>
+        <item>Anantapur</item>
+        <item>Anantapur (M Corp. + OG) (Part)</item>
+        <item>Anantapur (M Corp.)</item>
+        <item>Raptadu</item>
+        <item>Anantapur (M Corp. + OG) (Part)</item>
+        <item>Settur</item>
+        <item>Kundurpi</item>
+        <item>Kambadur</item>
+        <item>Kanaganapalle</item>
+        <item>Dharmavaram</item>
+        <item>Dharmavaram (M)</item>
+        <item>Bathalapalle</item>
+        <item>Tadimarri</item>
+        <item>Mudigubba</item>
+        <item>Talupula</item>
+        <item>Nambulipulikunta</item>
+        <item>Gandlapenta</item>
+        <item>Kadiri</item>
+        <item>Kadiri (M)</item>
+        <item>Nallamada</item>
+        <item>Bukkapatnam</item>
+        <item>Kothacheruvu</item>
+        <item>Chennekothapalle</item>
+        <item>Ramagiri</item>
+        <item>Roddam</item>
+        <item>Madakasira</item>
+        <item>Amarapuram</item>
+        <item>Gudibanda</item>
+        <item>Rolla</item>
+        <item>Agali</item>
+        <item>Parigi</item>
+        <item>Penukonda</item>
+        <item>Puttaparthi</item>
+        <item>Obuladevaracheruvu</item>
+        <item>Nallacheruvu</item>
+        <item>Tanakal</item>
+        <item>Amadagur</item>
+        <item>Gorantla</item>
+        <item>Somandepalle</item>
+        <item>Hindupur</item>
+        <item>Hindupur (M)</item>
+        <item>Lepakshi</item>
+        <item>Chilamathur</item>
+    </string-array>
+
+
+    <string-array name="Chittoor">
+        <item>Chittoor</item>
+        <item>Tirupati (M Corp. + OG)</item>
+        <item>Palamaner (M + OG)</item>
+        <item>Mulakalacheruvu</item>
+        <item>Thamballapalle</item>
+        <item>Peddamandyam</item>
+        <item>Gurramkonda</item>
+        <item>Kalakada</item>
+        <item>Kambhamvaripalle</item>
+        <item>Rompicherla</item>
+        <item>Yerravaripalem</item>
+        <item>Tirupati (Rural)</item>
+        <item>Tirupati (M Corp. + OG) (Part)</item>
+        <item>Renigunta</item>
+        <item>Yerpedu</item>
+        <item>Srikalahasti</item>
+        <item>Srikalahasti (M)</item>
+        <item>Thottambedu</item>
+        <item>Buchinaidu Kandriga</item>
+        <item>Varadaiahpalem</item>
+        <item>K.V.B.Puram</item>
+        <item>Tirupati (Urban)</item>
+        <item>Tirupati (M Corp. + OG) (Part)</item>
+        <item>Tirupati (M Corp.)</item>
+        <item>Chandragiri</item>
+        <item>Chinnagottigallu</item>
+        <item>Pileru</item>
+        <item>Kalikiri</item>
+        <item>Valmikipuram</item>
+        <item>Kurabalakota</item>
+        <item>Pedda Thippasamudram</item>
+        <item>B.Kothakota</item>
+        <item>Madanapalle</item>
+        <item>Madanapalle (M + OG)</item>
+        <item>Madanapalle (M)</item>
+        <item>Nimmanapalle</item>
+        <item>Sodam</item>
+        <item>Pulicherla</item>
+        <item>Pakala</item>
+        <item>Vedurukuppam</item>
+        <item>Ramachandrapuram</item>
+        <item>Vadamalapeta</item>
+        <item>Narayanavanam</item>
+        <item>Pichatur</item>
+        <item>Satyavedu</item>
+        <item>Nagalapuram</item>
+        <item>Nindra</item>
+        <item>Vijayapuram</item>
+        <item>Nagari</item>
+        <item>Nagari (M)</item>
+        <item>Puttur</item>
+        <item>Puttur (M)</item>
+        <item>Karvetinagar</item>
+        <item>Penumuru</item>
+        <item>Puthalapattu</item>
+        <item>Irala</item>
+        <item>Somala</item>
+        <item>Chowdepalle</item>
+        <item>Ramasamudram</item>
+        <item>Punganur</item>
+        <item>Punganur (M)</item>
+        <item>Peddapanjani</item>
+        <item>Gangavaram</item>
+        <item>Palamaner (M + OG) (Part)</item>
+        <item>Thavanampalle</item>
+        <item>Srirangarajapuram</item>
+        <item>Gangadhara Nellore</item>
+        <item>Chittoor</item>
+        <item>Chittoor (M + OG)</item>
+        <item>Chittoor (M)</item>
+        <item>Palamaner</item>
+        <item>Palamaner (M + OG) (Part)</item>
+        <item>Palamaner (M)</item>
+        <item>Baireddipalle</item>
+        <item>Venkatagirikota</item>
+        <item>Santhipuram</item>
+        <item>Gudupalle</item>
+        <item>Kuppam</item>
+        <item>Ramakuppam</item>
+        <item>Bangarupalem</item>
+        <item>Yadamarri</item>
+        <item>Gudipala</item>
+        <item>Palasamudram</item>
+    </string-array>
+
+
+
+    <string-array name="East_Godavari">
+        <item>East Godavari</item>
+        <item>Rajahmundry (M Corp. + OG)</item>
+        <item>Kakinada (M Corp. + OG)</item>
+        <item>Maredumilli</item>
+        <item>Devipatnam</item>
+        <item>Y. Ramavaram</item>
+        <item>Addateegala</item>
+        <item>Rajavommangi</item>
+        <item>Kotananduru</item>
+        <item>Tuni</item>
+        <item>Tuni (M)</item>
+        <item>Rowthulapudi</item>
+        <item>Sankhavaram</item>
+        <item>Yeleswaram</item>
+        <item>Gangavaram</item>
+        <item>Rampachodavaram</item>
+        <item>Seethanagaram</item>
+        <item>Gokavaram</item>
+        <item>Jaggampeta</item>
+        <item>Kirlampudi</item>
+        <item>Prathipadu</item>
+        <item>Thondangi</item>
+        <item>Gollaprolu</item>
+        <item>Peddapuram</item>
+        <item>Peddapuram (M)</item>
+        <item>Gandepalle</item>
+        <item>Korukonda</item>
+        <item>Rajahmundry (Urban)</item>
+        <item>Rajahmundry (M Corp. + OG) (Part)</item>
+        <item>Rajahmundry (M Corp.)</item>
+        <item>Rajahmundry Rural</item>
+        <item>Rajahmundry (M Corp. + OG) (Part)</item>
+        <item>Rajanagaram</item>
+        <item>Rangampeta</item>
+        <item>Samalkota</item>
+        <item>Samalkot (M)</item>
+        <item>Pithapuram</item>
+        <item>Pithapuram (M + OG)</item>
+        <item>Pithapuram (M)</item>
+        <item>Kothapalle</item>
+        <item>Kakinada (Rural)</item>
+        <item>Kakinada (M Corp. + OG) (Part)</item>
+        <item>Kakinada (Urban)</item>
+        <item>Kakinada (M Corp. + OG) (Part)</item>
+        <item>Kakinada (M Corp.)</item>
+        <item>Pedapudi</item>
+        <item>Biccavolu</item>
+        <item>Anaparthy</item>
+        <item>Kadiam</item>
+        <item>Atreyapuram</item>
+        <item>Mandapeta</item>
+        <item>Mandapeta (M + OG)</item>
+        <item>Mandapeta (M)</item>
+        <item>Rayavaram</item>
+        <item>Karapa</item>
+        <item>Kajuluru</item>
+        <item>Ramachandrapuram</item>
+        <item>Ramachandrapuram (M)</item>
+        <item>Alamuru</item>
+        <item>Ravulapalem</item>
+        <item>Kothapeta</item>
+        <item>Kapileswarapuram</item>
+        <item>Pamarru</item>
+        <item>Thallarevu</item>
+        <item>I. Polavaram</item>
+        <item>Mummidivaram</item>
+        <item>Ainavilli</item>
+        <item>P.Gannavaram</item>
+        <item>Ambajipeta</item>
+        <item>Mamidikuduru</item>
+        <item>Razole</item>
+        <item>Malikipuram</item>
+        <item>Sakhinetipalle</item>
+        <item>Allavaram</item>
+        <item>Amalapuram</item>
+        <item>Amalapuram (M)</item>
+        <item>Uppalaguptam</item>
+        <item>Katrenikona</item>
+    </string-array>
+
+
+    <string-array name="Guntur">
+        <item>Guntur</item>
+        <item>Macherla</item>
+        <item>Macherla (M)</item>
+        <item>Veldurthi</item>
+        <item>Durgi</item>
+        <item>Rentachintala</item>
+        <item>Gurazala</item>
+        <item>Dachepalle</item>
+        <item>Karempudi</item>
+        <item>Piduguralla</item>
+        <item>Piduguralla (NP)</item>
+        <item>Machavaram</item>
+        <item>Bellamkonda</item>
+        <item>Atchampet</item>
+        <item>Krosuru</item>
+        <item>Amaravathi</item>
+        <item>Thullur</item>
+        <item>Tadepalle</item>
+        <item>Tadepalle (M + OG)</item>
+        <item>Tadepalle (M)</item>
+        <item>Mangalagiri</item>
+        <item>Mangalagiri (M + OG)</item>
+        <item>Mangalagiri (M)</item>
+        <item>Tadikonda</item>
+        <item>Pedakurapadu</item>
+        <item>Sattenapalle</item>
+        <item>Sattenapalle (M)</item>
+        <item>Rajupalem</item>
+        <item>Nekarikallu</item>
+        <item>Bollapalle</item>
+        <item>Vinukonda</item>
+        <item>Vinukonda (M + OG)</item>
+        <item>Vinukonda (M)</item>
+        <item>Nuzendla</item>
+        <item>Savalyapuram H/O Kanamarlapudi</item>
+        <item>Ipur</item>
+        <item>Rompicherla</item>
+        <item>Narasaraopet</item>
+        <item>Narasaraopet (M + OG)</item>
+        <item>Narasaraopet (M)</item>
+        <item>Muppalla</item>
+        <item>Nadendla</item>
+        "<item>Chilakaluripet
+  H/O.Purushotha Patnam</item>"
+        <item>Chilakaluripet (M)</item>
+        <item>Edlapadu</item>
+        <item>Phirangipuram</item>
+        <item>Medikonduru</item>
+        <item>Guntur</item>
+        <item>Guntur (M Corp. + OG)</item>
+        <item>Guntur (M Corp.)</item>
+        <item>Pedakakani</item>
+        <item>Duggirala</item>
+        <item>Kollipara</item>
+        <item>Tenali</item>
+        <item>Tenali (M)</item>
+        <item>Chebrolu</item>
+        <item>Vatticherukuru</item>
+        <item>Prathipadu</item>
+        <item>Pedanandipadu</item>
+        <item>Kakumanu</item>
+        <item>Ponnur</item>
+        <item>Ponnur (M)</item>
+        <item>Tsundur</item>
+        <item>Amruthalur</item>
+        <item>Vemuru</item>
+        <item>Kollur</item>
+        <item>Bhattiprolu</item>
+        <item>Cherukupalle H/O Arumbaka</item>
+        <item>Pittalavanipalem</item>
+        <item>Karlapalem</item>
+        <item>Bapatla</item>
+        <item>Bapatla (M)</item>
+        <item>Nizampatnam</item>
+        <item>Nagaram</item>
+        <item>Repalle</item>
+        <item>Repalle (M)</item>
+    </string-array>
+
+
+    <string-array name="Hyderabad">
+        <item>Hyderabad</item>
+        <item>Shaikpet</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Ameerpet</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Secunderabad</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Tirumalagiri</item>
+        <item>Secunderabad (CB)</item>
+        <item>Maredpalle</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Musheerabad</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Amberpet</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Himayathnagar</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Nampally</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Khairatabad</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Asifnagar</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Golconda</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Bahadurpura</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Bandlaguda</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Charminar</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Saidabad</item>
+        <item>GHMC (M Corp.) (Part)</item>
+    </string-array>
+
+
+    <string-array name="Karimnagar">
+        <item>Karimnagar</item>
+        <item>Ramagundam (M + OG)</item>
+        <item>Karimnagar (M Corp. + OG)</item>
+        <item>Ibrahimpatnam</item>
+        <item>Mallapur</item>
+        <item>Raikal</item>
+        <item>Sarangapur</item>
+        <item>Dharmapuri</item>
+        <item>Velgatoor</item>
+        <item>Ramagundam</item>
+        <item>Ramagundam (M + OG) (Part)</item>
+        <item>Ramagundam (M)</item>
+        <item>Kamanpur</item>
+        <item>Ramagundam (M + OG) (Part)</item>
+        <item>Manthani</item>
+        <item>Kataram</item>
+        <item>Mahadevpur</item>
+        <item>Mutharam (Mahadevpur)</item>
+        <item>Malharrao</item>
+        <item>Mutharam (Manthani)</item>
+        <item>Srirampur</item>
+        <item>Peddapalle</item>
+        <item>Julapalle</item>
+        <item>Elgaid</item>
+        <item>Dharmaram</item>
+        <item>Gollapalle</item>
+        <item>Mallial</item>
+        <item>Jagtial</item>
+        <item>Jagtial (M + OG)</item>
+        <item>Jagtial (M)</item>
+        <item>Medipalle</item>
+        <item>Koratla</item>
+        <item>Koratla (M)</item>
+        <item>Metpalle</item>
+        <item>Metpalle (M)</item>
+        <item>Kathlapur</item>
+        <item>Chandurthi</item>
+        <item>Kodimial</item>
+        <item>Pegadapalle</item>
+        <item>Gangadhara</item>
+        <item>Ramadugu</item>
+        <item>Choppadandi</item>
+        <item>Sultanabad</item>
+        <item>Odela</item>
+        <item>Manakondur</item>
+        <item>Karimnagar</item>
+        <item>Karimnagar (M Corp. + OG) (Part)</item>
+        <item>Karimnagar (M Corp.)</item>
+        <item>Boinpalle</item>
+        <item>Vemulawada</item>
+        <item>Konaraopeta</item>
+        <item>Yellareddipet</item>
+        <item>Gambhiraopet</item>
+        <item>Mustabad</item>
+        <item>Sircilla</item>
+        <item>Sircilla (M + OG)</item>
+        <item>Sircilla (M)</item>
+        <item>Ellanthakunta</item>
+        <item>Bejjanki</item>
+        <item>Timmapur (LMD Colony)</item>
+        <item>Karimnagar (M Corp. + OG) (Part)</item>
+        <item>Veenavanka</item>
+        <item>Jammikunta</item>
+        <item>Shankarapatnam</item>
+        <item>Chigurumamidi</item>
+        <item>Koheda</item>
+        <item>Husnabad</item>
+        <item>Saidapur</item>
+        <item>Huzurabad</item>
+        <item>Kamalapur</item>
+        <item>Bheemadevarpalle</item>
+        <item>Elkathurthi</item>
+    </string-array>
+
+
+    <string-array name="Khammam">
+        <item>Khammam</item>
+        <item>Khammam (M + OG)</item>
+        <item>Wazeed</item>
+        <item>Venkatapuram</item>
+        <item>Pinapaka</item>
+        <item>Cherla</item>
+        <item>Manuguru</item>
+        <item>Manugur (M)</item>
+        <item>Aswapuram</item>
+        <item>Dummugudem</item>
+        <item>Bhadrachalam</item>
+        <item>Kunavaram</item>
+        <item>Chintur</item>
+        <item>Vararamachandrapuram</item>
+        <item>Velairpadu</item>
+        <item>Kukunoor</item>
+        <item>Burgampahad</item>
+        <item>Palwancha</item>
+        <item>Palwancha (M)</item>
+        <item>Kothagudem</item>
+        <item>Kothagudem (M)</item>
+        <item>Tekulapalle</item>
+        <item>Yellandu</item>
+        <item>Yellandu (M + OG)</item>
+        <item>Yellandu (M)</item>
+        <item>Gundala</item>
+        <item>Bayyaram</item>
+        <item>Garla</item>
+        <item>Singareni</item>
+        <item>Kamepalle</item>
+        <item>Julurpad</item>
+        <item>Chandrugonda</item>
+        <item>Mulkalapalle</item>
+        <item>Aswaraopeta</item>
+        <item>Dammapeta</item>
+        <item>Sathupalle</item>
+        <item>Sathupalle (NP)</item>
+        <item>Penuballi</item>
+        <item>Enkuru</item>
+        <item>Thirumalayapalem</item>
+        <item>Kusumanchi</item>
+        <item>Khammam (Rural)</item>
+        <item>Khammam (M + OG) (Part)</item>
+        <item>Khammam (Urban)</item>
+        <item>Khammam (M) (Part)</item>
+        <item>Khammam (M)</item>
+        <item>Mudigonda</item>
+        <item>Nelakondapalle</item>
+        <item>Chinthakani</item>
+        <item>Konijerla</item>
+        <item>Tallada</item>
+        <item>Kallur</item>
+        <item>Wyra</item>
+        <item>Bonakal</item>
+        <item>Madhira</item>
+        <item>Yerrupalem</item>
+        <item>Vemsoor</item>
+    </string-array>
+
+
+    <string-array name="Krishna">
+        <item>Krishna</item>
+        <item>Vijayawada (M Corp. + OG)</item>
+        <item>Vatsavai</item>
+        <item>Jaggayyapeta</item>
+        <item>Jaggaiahpet (M)</item>
+        <item>Penuganchiprolu</item>
+        <item>Nandigama</item>
+        <item>Veerullapadu</item>
+        <item>Mylavaram</item>
+        <item>Gampalagudem</item>
+        <item>Tiruvuru</item>
+        <item>A.Konduru</item>
+        <item>Reddigudem</item>
+        <item>Vissannapet</item>
+        <item>Chatrai</item>
+        <item>Musunuru</item>
+        <item>Nuzvid</item>
+        <item>Nuzvid (M)</item>
+        <item>Bapulapadu</item>
+        <item>Agiripalle</item>
+        <item>G.Konduru</item>
+        <item>Kanchikacherla</item>
+        <item>Chandarlapadu</item>
+        <item>Ibrahimpatnam</item>
+        <item>Vijayawada (Urban)</item>
+        <item>Vijayawada (M Corp.) (Part)</item>
+        <item>Vijayawada (Rural)</item>
+        <item>Vijayawada (M Corp. + OG) (Part)</item>
+        <item>Vijayawada (M Corp.) (Part)</item>
+        <item>Gannavaram</item>
+        <item>Unguturu</item>
+        <item>Nandivada</item>
+        <item>Mandavalli</item>
+        <item>Kaikalur</item>
+        <item>Kalidindi</item>
+        <item>Kruthivennu</item>
+        <item>Bantumilli</item>
+        <item>Mudinepalle</item>
+        <item>Gudivada</item>
+        <item>Gudivada (M)</item>
+        <item>Pedaparupudi</item>
+        <item>Kankipadu</item>
+        <item>Penamaluru</item>
+        <item>Vijayawada (M Corp. + OG) (Part)</item>
+        <item>Thotlavalluru</item>
+        <item>Pamidimukkala</item>
+        <item>Vuyyuru</item>
+        <item>Pamarru</item>
+        <item>Gudlavalleru</item>
+        <item>Pedana</item>
+        <item>Pedana (M)</item>
+        <item>Guduru</item>
+        <item>Movva</item>
+        <item>Ghantasala</item>
+        <item>Machilipatnam</item>
+        <item>Machilipatnam (M)</item>
+        <item>Challapalle</item>
+        <item>Mopidevi</item>
+        <item>Avanigadda</item>
+        <item>Nagayalanka</item>
+        <item>Koduru</item>
+    </string-array>
+
+
+    <string-array name="Kurnool">
+        <item>Kurnool</item>
+        <item>Kurnool (M Corp. + OG)</item>
+        <item>Mantralayam</item>
+        <item>Kosigi</item>
+        <item>Kowthalam</item>
+        <item>Pedda Kadubur</item>
+        <item>Yemmiganur</item>
+        <item>Yemmiganur (M)</item>
+        <item>Nandavaram</item>
+        <item>C.Belagal</item>
+        <item>Gudur</item>
+        <item>Kallur</item>
+        <item>Kurnool (M Corp. + OG) (Part)</item>
+        <item>Kurnool</item>
+        <item>Kurnool (M Corp. + OG) (Part)</item>
+        <item>Kurnool (M Corp.) (Part)</item>
+        <item>Nandikotkur</item>
+        <item>Pagidyala</item>
+        <item>Jupadu Bungalow</item>
+        <item>Kothapalle</item>
+        <item>Srisailam</item>
+        <item>Atmakur</item>
+        <item>Pamulapadu</item>
+        <item>Midthur</item>
+        <item>Orvakal</item>
+        <item>Kodumur</item>
+        <item>Gonegandla</item>
+        <item>Adoni</item>
+        <item>Adoni (M + OG)</item>
+        <item>Adoni (M)</item>
+        <item>Holagunda</item>
+        <item>Halaharvi</item>
+        <item>Alur</item>
+        <item>Aspari</item>
+        <item>Devanakonda</item>
+        <item>Krishnagiri</item>
+        <item>Veldurthi</item>
+        <item>Bethamcherla</item>
+        <item>Panyam</item>
+        <item>Gadivemula</item>
+        <item>Velgode</item>
+        <item>Bandi Atmakur</item>
+        <item>Nandyal</item>
+        <item>Nandyal (M + OG)</item>
+        <item>Nandyal (M)</item>
+        <item>Mahanandi</item>
+        <item>Sirvel</item>
+        <item>Gospadu</item>
+        <item>Banaganapalle</item>
+        <item>Dhone</item>
+        <item>Dhone (NP)</item>
+        <item>Pattikonda</item>
+        <item>Chippagiri</item>
+        <item>Maddikera (East)</item>
+        <item>Tuggali</item>
+        <item>Peapally</item>
+        <item>Owk</item>
+        <item>Koilkuntla</item>
+        <item>Rudravaram</item>
+        <item>Allagadda</item>
+        <item>Dornipadu</item>
+        <item>Sanjamala</item>
+        <item>Kolimigundla</item>
+        <item>Uyyalawada</item>
+        <item>Chagalamarri</item>
+    </string-array>
+
+
+    <string-array name="Mahbubnagar">
+        <item>Mahbubnagar</item>
+        <item>Kodangal</item>
+        <item>Bomraspet</item>
+        <item>Kosgi</item>
+        <item>Doulathabad</item>
+        <item>Damaragidda</item>
+        <item>Maddur</item>
+        <item>Hanwada</item>
+        <item>Nawabpet</item>
+        <item>Balanagar</item>
+        <item>Kondurg</item>
+        <item>Farooqnagar</item>
+        <item>Kothur</item>
+        <item>Keshampet</item>
+        <item>Talakondapalle</item>
+        <item>Amangal</item>
+        <item>Madgul</item>
+        <item>Veldanda</item>
+        <item>Midjil</item>
+        <item>Jadcherla</item>
+        <item>Mahbubnagar</item>
+        <item>Mahbubnagar (M + OG)</item>
+        <item>Mahbubnagar (M)</item>
+        <item>Koilkonda</item>
+        <item>Narayanpet</item>
+        <item>Narayanpet (NP)</item>
+        <item>Utkoor</item>
+        <item>Dhanwada</item>
+        <item>Devarkadra</item>
+        <item>Bhoothpur</item>
+        <item>Thimmajipet</item>
+        <item>Kalwakurthy</item>
+        <item>Vangoor</item>
+        <item>Amrabad</item>
+        <item>Achampet</item>
+        <item>Uppununthala</item>
+        <item>Telkapalle</item>
+        <item>Tadoor</item>
+        <item>Nagarkurnool</item>
+        <item>Bijinapalle</item>
+        <item>Ghanpur</item>
+        <item>Addakal</item>
+        <item>Chinnachintakunta</item>
+        <item>Narva</item>
+        <item>Makthal</item>
+        <item>Maganoor</item>
+        <item>Dharur</item>
+        <item>Atmakur</item>
+        <item>Kothakota</item>
+        <item>Peddamandadi</item>
+        <item>Wanaparthy</item>
+        <item>Wanaparthy (M)</item>
+        <item>Gopalpeta</item>
+        <item>Balmoor</item>
+        <item>Lingal</item>
+        <item>Peddakothapalle</item>
+        <item>Kodair</item>
+        <item>Pangal</item>
+        <item>Pebbair</item>
+        <item>Gadwal</item>
+        <item>Gadwal (M + OG)</item>
+        <item>Gadwal (M)</item>
+        <item>Maldakal</item>
+        <item>Ghattu</item>
+        <item>Ieej</item>
+        <item>Itikyal</item>
+        <item>Veepangandla</item>
+        <item>Kollapur</item>
+        <item>Waddepalle</item>
+        <item>Manopad</item>
+        <item>Alampur</item>
+    </string-array>
+
+
+
+    <string-array name="Medak">
+        <item>Medak</item>
+        <item>Kangti</item>
+        <item>Manoor</item>
+        <item>Narayankhed</item>
+        <item>Kalher</item>
+        <item>Shankarampet (A)</item>
+        <item>Papannapet</item>
+        <item>Medak</item>
+        <item>Medak (M + OG)</item>
+        <item>Medak (M)</item>
+        <item>Ramayampet</item>
+        <item>Dubbak</item>
+        <item>Siddipet</item>
+        <item>Siddipet (M + OG)</item>
+        <item>Siddipet (M)</item>
+        <item>Chinnakodur</item>
+        <item>Nangnoor</item>
+        <item>Kondapak</item>
+        <item>Thoguta</item>
+        <item>Mirdoddi</item>
+        <item>Doultabad</item>
+        <item>Chegunta</item>
+        <item>Shankarampet (R)</item>
+        <item>Kulcharam</item>
+        <item>Tekmal</item>
+        <item>Alladurg</item>
+        <item>Regode</item>
+        <item>Raikode</item>
+        <item>Nyalkal</item>
+        <item>Zahirabad</item>
+        <item>Zahirabad (M + OG)</item>
+        <item>Zahirabad (M)</item>
+        <item>Kohir</item>
+        <item>Jharasangam</item>
+        <item>Munpalle</item>
+        <item>Pulkal</item>
+        <item>Andole</item>
+        <item>Kowdipalle</item>
+        <item>Yeldurthy</item>
+        <item>Tupran</item>
+        <item>Gajwel</item>
+        <item>Jagdevpur</item>
+        <item>Wargal</item>
+        <item>Mulug</item>
+        <item>Shivampet</item>
+        <item>Narsapur</item>
+        <item>Hathnoora</item>
+        <item>Sadasivpet</item>
+        <item>Sadasivpet (M + OG)</item>
+        <item>Sadasivpet (M)</item>
+        <item>Kondapur</item>
+        <item>Sangareddy</item>
+        <item>Sangareddy (M + OG)</item>
+        <item>Sangareddy (M)</item>
+        <item>Jinnaram</item>
+        <item>Patancheru</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Ramachandrapuram</item>
+        <item>GHMC (M Corp. + OG) (Part)</item>
+        <item>GHMC (M Corp.) (Part)</item>
+    </string-array>
+
+
+    <string-array name="Nalgonda">
+        <item>Nalgonda</item>
+        <item>Bommalaramaram</item>
+        <item>M.Turkapalle</item>
+        <item>Rajapet</item>
+        <item>Yadagirigutta</item>
+        <item>Alair</item>
+        <item>Gundala</item>
+        <item>Thirumalgiri</item>
+        <item>Thungathurthi</item>
+        <item>Nuthankal</item>
+        <item>Atmakur (S)</item>
+        <item>Jaji Reddi Gudem</item>
+        <item>Sali Gouraram</item>
+        <item>Mothkur</item>
+        <item>Atmakur (M)</item>
+        <item>Valigonda</item>
+        <item>Bhongir</item>
+        <item>Bhongir (M)</item>
+        <item>Bibinagar</item>
+        <item>Pochampalle</item>
+        <item>Choutuppal</item>
+        <item>Ramannapeta</item>
+        <item>Chityala</item>
+        <item>Narketpalle</item>
+        <item>Kattangoor</item>
+        <item>Nakrekal</item>
+        <item>Kethe Palle</item>
+        <item>Suryapet</item>
+        <item>Suryapet (M + OG)</item>
+        <item>Suryapet (M)</item>
+        <item>Chivvemla</item>
+        <item>Mothey</item>
+        <item>Nadigudem</item>
+        <item>Munagala</item>
+        <item>Penpahad</item>
+        <item>Vemulapalle</item>
+        <item>Thipparthi</item>
+        <item>Nalgonda</item>
+        <item>Nalgonda (M + OG)</item>
+        <item>Nalgonda (M)</item>
+        <item>Munugode</item>
+        <item>Narayanapur</item>
+        <item>Marriguda</item>
+        <item>Chintha Palle</item>
+        <item>Gundla Palle</item>
+        <item>Chandam Pet</item>
+        <item>Devarakonda</item>
+        <item>Nampalle</item>
+        <item>Chandur</item>
+        <item>Kangal</item>
+        <item>Gurrampode</item>
+        <item>Pedda Adiserla Palle</item>
+        <item>Peddavoora</item>
+        <item>Anumula</item>
+        <item>Nidamanur</item>
+        <item>Thripuraram</item>
+        <item>Dameracherla</item>
+        <item>Miryalaguda</item>
+        <item>Miryalaguda (M + OG)</item>
+        <item>Miryalaguda (M)</item>
+        <item>Neredcherla</item>
+        <item>Garide Palle</item>
+        <item>Chilkur</item>
+        <item>Kodad</item>
+        <item>Huzurnagar</item>
+        <item>Mattam Palle</item>
+        <item>Mella Cheruvu</item>
+    </string-array>
+
+
+    <string-array name="Nizamabad">
+        <item>Nizamabad</item>
+        <item>Ranjal</item>
+        <item>Navipet</item>
+        <item>Nandipet</item>
+        <item>Armur</item>
+        <item>Armur (M + OG)</item>
+        <item>Armur (M)</item>
+        <item>Balkonda</item>
+        <item>Mortad</item>
+        <item>Kammarpalle</item>
+        <item>Bheemgal</item>
+        <item>Velpur</item>
+        <item>Jakranpalle</item>
+        <item>Makloor</item>
+        <item>Nizamabad</item>
+        <item>Nizamabad (M Corp.)</item>
+        <item>Yedpalle</item>
+        <item>Bodhan</item>
+        <item>Bodhan (M)</item>
+        <item>Kotgiri</item>
+        <item>Madnoor</item>
+        <item>Jukkal</item>
+        <item>Bichkunda</item>
+        <item>Birkoor</item>
+        <item>Varni</item>
+        <item>Dichpalle</item>
+        <item>Dharpalle</item>
+        <item>Sirkonda</item>
+        <item>Machareddy</item>
+        <item>Sadasivanagar</item>
+        <item>Gandhari</item>
+        <item>Banswada</item>
+        <item>Pitlam</item>
+        <item>Nizamsagar</item>
+        <item>Yellareddy</item>
+        <item>Nagareddipet</item>
+        <item>Lingampet</item>
+        <item>Tadwai</item>
+        <item>Kamareddy</item>
+        <item>Kamareddy (M)</item>
+        <item>Bhiknoor</item>
+        <item>Domakonda</item>
+    </string-array>
+
+
+    <string-array name="Prakasam">
+        <item>Prakasam</item>
+        <item>Chirala (M + OG)</item>
+        <item>Ongole (M + OG)</item>
+        <item>Yerragondapalem</item>
+        <item>Pullalacheruvu</item>
+        <item>Tripuranthakam</item>
+        <item>Dornala</item>
+        <item>Peda Araveedu</item>
+        <item>Donakonda</item>
+        <item>Kurichedu</item>
+        <item>Santhamaguluru</item>
+        <item>Ballikurava</item>
+        <item>Martur</item>
+        <item>Yeddana Pudi</item>
+        <item>Parchur</item>
+        <item>Karamchedu</item>
+        <item>Inkollu</item>
+        <item>Janakavarampanguluru</item>
+        <item>Addanki</item>
+        <item>Mundlamuru</item>
+        <item>Darsi</item>
+        <item>Markapur</item>
+        <item>Markapur (M)</item>
+        <item>Ardhaveedu</item>
+        <item>Cumbum</item>
+        <item>Tarlupadu</item>
+        <item>Konakanamitla</item>
+        <item>Podili</item>
+        <item>Thallur</item>
+        <item>Korisapadu</item>
+        <item>Chirala</item>
+        <item>Chirala (M + OG) (Part)</item>
+        <item>Chirala (M)</item>
+        <item>Vetapalem</item>
+        <item>Chirala (M + OG) (Part)</item>
+        <item>Chinaganjam</item>
+        <item>Naguluppala Padu</item>
+        <item>Maddipadu</item>
+        <item>Chimakurthi</item>
+        <item>Marripudi</item>
+        <item>Hanumanthuni Padu</item>
+        <item>Bestawaripeta</item>
+        <item>Racherla</item>
+        <item>Giddalur</item>
+        <item>Komarolu</item>
+        <item>Veligandla</item>
+        <item>Kanigiri</item>
+        <item>Kondapi</item>
+        <item>Santhanuthala Padu</item>
+        <item>Ongole (M + OG) (Part)</item>
+        <item>Ongole</item>
+        <item>Ongole (M + OG) (Part)</item>
+        <item>Ongole (M)</item>
+        <item>Kotha Patnam</item>
+        <item>Tangutur</item>
+        <item>Zarugumilli</item>
+        <item>Ponnaluru</item>
+        <item>Pedacherlo Palle</item>
+        <item>Chandra Sekhara Puram</item>
+        <item>Pamur</item>
+        <item>Voletivaripalem</item>
+        <item>Kandukur</item>
+        <item>Kandukur (M)</item>
+        <item>Singarayakonda</item>
+        <item>Lingasamudram</item>
+        <item>Gudluru</item>
+        <item>Ulavapadu</item>
+    </string-array>
+
+
+    <string-array name="Rangareddy">
+        <item>Rangareddy</item>
+        <item>Marpalle</item>
+        <item>Mominpet</item>
+        <item>Nawabpet</item>
+        <item>Shankarpalle</item>
+        <item>Serilingampally</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Balanagar</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Qutubullapur</item>
+        <item>GHMC (M Corp. + OG) (Part)</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Medchal</item>
+        <item>Shamirpet</item>
+        <item>GHMC (M Corp. + OG) (Part)</item>
+        <item>Malkajgiri</item>
+        <item>GHMC (M Corp. + OG) (Part)</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Keesara</item>
+        <item>GHMC (M Corp. + OG) (Part)</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Ghatkesar</item>
+        <item>GHMC (M Corp. + OG) (Part)</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Uppal</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Hayathnagar</item>
+        <item>GHMC (M Corp. + OG) (Part)</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Saroornagar</item>
+        <item>GHMC (M Corp. + OG) (Part)</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Rajendranagar</item>
+        <item>GHMC (M Corp. + OG) (Part)</item>
+        <item>GHMC (M Corp.) (Part)</item>
+        <item>Moinabad</item>
+        <item>Chevella</item>
+        <item>Vicarabad</item>
+        <item>Vicarabad (M)</item>
+        <item>Dharur</item>
+        <item>Bantwaram</item>
+        <item>Peddemul</item>
+        <item>Tandur</item>
+        <item>Tandur (M)</item>
+        <item>Basheerabad</item>
+        <item>Yelal</item>
+        <item>Doma</item>
+        <item>Gandeed</item>
+        <item>Kulkacharla</item>
+        <item>Pargi</item>
+        <item>Pudur</item>
+        <item>Shabad</item>
+        <item>Shamshabad</item>
+        <item>GHMC (M Corp. + OG) (Part)</item>
+        <item>Maheswaram</item>
+        <item>Kandukur</item>
+        <item>Ibrahimpatnam</item>
+        <item>Manchal</item>
+        <item>Yacharam</item>
+    </string-array>
+
+
+    <string-array name="Sri_Potti_Sriramulu_Nellore">
+        <item>Sri Potti Sriramulu Nellore</item>
+        <item>Gudur (M + OG)</item>
+        <item>Seetharamapuram</item>
+        <item>Udayagiri</item>
+        <item>Varikuntapadu</item>
+        <item>Kondapuram</item>
+        <item>Jaladanki</item>
+        <item>Kavali</item>
+        <item>Kavali (M + OG)</item>
+        <item>Kavali (M)</item>
+        <item>Bogole</item>
+        <item>Kaligiri</item>
+        <item>Vinjamur</item>
+        <item>Duttalur</item>
+        <item>Marripadu</item>
+        <item>Atmakur</item>
+        <item>Anumasamudrampeta</item>
+        <item>Dagadarthi</item>
+        <item>Allur</item>
+        <item>Vidavalur</item>
+        <item>Kodavalur</item>
+        <item>Buchireddipalem</item>
+        <item>Sangam</item>
+        <item>Chejerla</item>
+        <item>Ananthasagaram</item>
+        <item>Kaluvoya</item>
+        <item>Rapur</item>
+        <item>Podalakur</item>
+        <item>Nellore</item>
+        <item>Nellore (M Corp. + OG)</item>
+        <item>Nellore (M Corp.)</item>
+        <item>Kovur</item>
+        <item>Indukurpet</item>
+        <item>Thotapalligudur</item>
+        <item>Muthukur</item>
+        <item>Venkatachalam</item>
+        <item>Manubolu</item>
+        <item>Gudur</item>
+        <item>Gudur (M + OG) (Part)</item>
+        <item>Sydapuram</item>
+        <item>Dakkili</item>
+        <item>Venkatagiri</item>
+        <item>Venkatagiri (M + OG)</item>
+        <item>Venkatagiri (M)</item>
+        <item>Balayapalle</item>
+        <item>Ojili</item>
+        <item>Chillakur</item>
+        <item>Gudur (M + OG) (Part)</item>
+        <item>Kota</item>
+        <item>Vakadu</item>
+        <item>Chittamur</item>
+        <item>Naidupet</item>
+        <item>Pellakur</item>
+        <item>Doravarisatram</item>
+        <item>Sullurpeta</item>
+        <item>Tada</item>
+    </string-array>
+
+
+    <string-array name="Srikakulam">
+        <item>Srikakulam</item>
+        <item>Srikakulam (M + OG)</item>
+        <item>Veeraghattam</item>
+        <item>Seethampeta</item>
+        <item>Bhamini</item>
+        <item>Kothuru</item>
+        <item>Pathapatnam</item>
+        <item>Meliaputti</item>
+        <item>Palasa</item>
+        <item>Palasa Kasibugga (M)</item>
+        <item>Mandasa</item>
+        <item>Kanchili</item>
+        <item>Ichchapuram</item>
+        <item>Ichchapuram (M)</item>
+        <item>Kaviti</item>
+        <item>Sompeta</item>
+        <item>Vajrapukothuru</item>
+        <item>Nandigam</item>
+        <item>Hiramandalam</item>
+        <item>Palakonda</item>
+        <item>Vangara</item>
+        <item>Regidi Amadalavalasa</item>
+        <item>Lakshminarsupeta</item>
+        <item>Saravakota</item>
+        <item>Tekkali</item>
+        <item>Santhabommali</item>
+        <item>Kotabommali</item>
+        <item>Jalumuru</item>
+        <item>Sarubujjili</item>
+        <item>Burja</item>
+        <item>Santhakaviti</item>
+        <item>Rajam</item>
+        <item>Rajam (NP)</item>
+        <item>Ganguvarisigadam</item>
+        <item>Amadalavalasa</item>
+        <item>Amadalavalasa (M)</item>
+        <item>Narasannapeta</item>
+        <item>Polaki</item>
+        <item>Gara</item>
+        <item>Srikakulam</item>
+        <item>Srikakulam (M + OG) (Part)</item>
+        <item>Srikakulam (M)</item>
+        <item>Ponduru</item>
+        <item>Laveru</item>
+        <item>Ranastalam</item>
+        <item>Etcherla</item>
+        <item>Srikakulam (M + OG) (Part)</item>
+    </string-array>
+
+
+    <string-array name="Visakhapatnam">
+        <item>Visakhapatnam</item>
+        <item>GVMC</item>
+        <item>Munchingi Puttu</item>
+        <item>Peda Bayalu</item>
+        <item>Dumbriguda</item>
+        <item>Araku Valley</item>
+        <item>Ananthagiri</item>
+        <item>Hukumpeta</item>
+        <item>Paderu</item>
+        <item>G.Madugula</item>
+        <item>Chintapalle</item>
+        <item>Gudem Kotha Veedhi</item>
+        <item>Koyyuru</item>
+        <item>Nathavaram</item>
+        <item>Golugonda</item>
+        <item>Narsipatnam</item>
+        <item>Rolugunta</item>
+        <item>Ravikamatham</item>
+        <item>Madugula</item>
+        <item>Cheedikada</item>
+        <item>Devarapalle</item>
+        <item>K.Kotapadu</item>
+        <item>Sabbavaram</item>
+        <item>GVMC (Part)</item>
+        <item>Pendurthi</item>
+        <item>GVMC (Part)</item>
+        <item>Anandapuram</item>
+        <item>Padmanabham</item>
+        <item>Bheemunipatnam</item>
+        <item>Bheemunipatnam (M + OG)</item>
+        <item>Bheemunipatnam (M)</item>
+        <item>Visakhapatnam (Rural)</item>
+        <item>GVMC (Part)</item>
+        <item>Visakhapatnam (Urban)</item>
+        <item>GVMC (Part)</item>
+        <item>Pedagantyada</item>
+        <item>GVMC (Part)</item>
+        <item>Gajuwaka</item>
+        <item>GVMC (Part)</item>
+        <item>Paravada</item>
+        <item>GVMC (Part)</item>
+        <item>Anakapalle</item>
+        <item>Anakapalle (M)</item>
+        <item>Chodavaram</item>
+        <item>Butchayyapeta</item>
+        <item>Kotauratla</item>
+        <item>Makavarapalem</item>
+        <item>Kasimkota</item>
+        <item>Munagapaka</item>
+        <item>Atchutapuram</item>
+        <item>Yelamanchili</item>
+        <item>Nakkapalle</item>
+        <item>Payakaraopeta</item>
+        <item>S.Rayavaram</item>
+        <item>Rambilli</item>
+    </string-array>
+
+
+
+    <string-array name="Vizianagaram">
+        <item>Vizianagaram</item>
+        <item>Komarada</item>
+        <item>Gummalakshmipuram</item>
+        <item>Kurupam</item>
+        <item>Jiyyammavalasa</item>
+        <item>Garugubilli</item>
+        <item>Parvathipuram</item>
+        <item>Parvathipuram (M)</item>
+        <item>Makkuva</item>
+        <item>Seethanagaram</item>
+        <item>Balijipeta</item>
+        <item>Bobbili</item>
+        <item>Bobbili (M)</item>
+        <item>Salur</item>
+        <item>Salur (M)</item>
+        <item>Pachipenta</item>
+        <item>Ramabhadrapuram</item>
+        <item>Badangi</item>
+        <item>Therlam</item>
+        <item>Merakamudidam</item>
+        <item>Dattirajeru</item>
+        <item>Mentada</item>
+        <item>Gajapathinagaram</item>
+        <item>Garividi</item>
+        <item>Cheepurupalle</item>
+        <item>Gurla</item>
+        <item>Bondapalle</item>
+        <item>Gantyada</item>
+        <item>Srungavarapukota</item>
+        <item>Vepada</item>
+        <item>Lakkavarapukota</item>
+        <item>Kothavalasa</item>
+        <item>Jami</item>
+        <item>Vizianagaram</item>
+        <item>Vizianagaram (M + OG)</item>
+        <item>Vizianagaram (M)</item>
+        <item>Nellimarla</item>
+        <item>Pusapatirega</item>
+        <item>Denkada</item>
+        <item>Bhogapuram</item>
+    </string-array>
+
+
+    <string-array name="Warangal">
+        <item>Warangal</item>
+        <item>Warangal (M.Corp. + OG)</item>
+        <item>Cherial</item>
+        <item>Maddur</item>
+        <item>Bachannapet</item>
+        <item>Narmetta</item>
+        <item>Ghanpur (Station)</item>
+        <item>Dharmasagar</item>
+        <item>Warangal (M.Corp. + OG) (Part)</item>
+        <item>Hasanparthy</item>
+        <item>Warangal (M.Corp. + OG) (Part)</item>
+        <item>Parkal</item>
+        <item>Mogullapalle</item>
+        <item>Chityal</item>
+        <item>Bhupalpalle</item>
+        <item>Ghanpur (Mulug)</item>
+        <item>Venkatapur</item>
+        <item>Eturnagaram</item>
+        <item>Mangapet</item>
+        <item>Tadvai</item>
+        <item>Govindaraopet</item>
+        <item>Mulug</item>
+        <item>Regonda</item>
+        <item>Shayampet</item>
+        <item>Nallabelly</item>
+        <item>Duggondi</item>
+        <item>Atmakur</item>
+        <item>Hanamkonda</item>
+        <item>Warangal (M.Corp. + OG) (Part)</item>
+        <item>Warangal (M Corp.) (Part)</item>
+        <item>Zaffergadh</item>
+        <item>Palakurthi</item>
+        <item>Raghunathpalle</item>
+        <item>Jangaon</item>
+        <item>Jangaon (M)</item>
+        <item>Lingalaghanpur</item>
+        <item>Devaruppula</item>
+        <item>Kodakandla</item>
+        <item>Raiparthy</item>
+        <item>Wardhannapet</item>
+        <item>Sangam</item>
+        <item>Warangal</item>
+        <item>Warangal (M Corp.) (Part)</item>
+        <item>Geesugonda</item>
+        <item>Warangal (M.Corp. + OG) (Part)</item>
+        <item>Narsampet</item>
+        <item>Khanapur</item>
+        <item>Kothagudem</item>
+        <item>Gudur</item>
+        <item>Chennaraopet</item>
+        <item>Nekkonda</item>
+        <item>Parvathagiri</item>
+        <item>Thorrur</item>
+        <item>Nellikudur</item>
+        <item>Kesamudram</item>
+        <item>Mahabubabad</item>
+        <item>Narsimhulapet</item>
+        <item>Maripeda</item>
+        <item>Kuravi</item>
+        <item>Dornakal</item>
+    </string-array>
+
+
+
+    <string-array name="West_Godavari">
+        <item>West Godavari</item>
+        <item>Chintalapudi</item>
+        <item>Lingapalem</item>
+        <item>T.Narasapuram</item>
+        <item>Jeelugu Milli</item>
+        <item>Buttayagudem</item>
+        <item>Polavaram</item>
+        <item>Tallapudi</item>
+        <item>Gopalapuram</item>
+        <item>Koyyalagudem</item>
+        <item>Jangareddigudem</item>
+        <item>Kamavarapukota</item>
+        <item>Dwarakatirumala</item>
+        <item>Nallajerla</item>
+        <item>Devarapalle</item>
+        <item>Kovvur</item>
+        <item>Kovvur (M)</item>
+        <item>Chagallu</item>
+        <item>Nidadavole</item>
+        <item>Nidadavole (M)</item>
+        <item>Tadepalligudem</item>
+        <item>Tadepalligudem (M + OG)</item>
+        <item>Tadepalligudem (M)</item>
+        <item>Unguturu</item>
+        <item>Bhimadole</item>
+        <item>Pedavegi</item>
+        <item>Pedapadu</item>
+        <item>Eluru</item>
+        <item>Eluru (M Corp. + OG)</item>
+        <item>Eluru (M Corp.)</item>
+        <item>Denduluru</item>
+        <item>Nidamarru</item>
+        <item>Pentapadu</item>
+        <item>Undrajavaram</item>
+        <item>Peravali</item>
+        <item>Tanuku</item>
+        <item>Tanuku (M + OG)</item>
+        <item>Tanuku (M)</item>
+        <item>Attili</item>
+        <item>Ganapavaram</item>
+        <item>Akividu</item>
+        <item>Undi</item>
+        <item>Palacoderu</item>
+        <item>Penumantra</item>
+        <item>Iragavaram</item>
+        <item>Penugonda</item>
+        <item>Achanta</item>
+        <item>Poduru</item>
+        <item>Veeravasaram</item>
+        <item>Bhimavaram</item>
+        <item>Bhimavaram (M + OG)</item>
+        <item>Bhimavaram (M)</item>
+        <item>Kalla</item>
+        <item>Mogalthur</item>
+        <item>Narasapuram</item>
+        <item>Narasapur (M)</item>
+        <item>Palacole</item>
+        <item>Palacole (M + OG)</item>
+        <item>Palacole (M)</item>
+        <item>Yelamanchili</item>
+    </string-array>
+
+
+    <string-array name="YSR">
+        <item>Y.S.R.</item>
+        <item>Badvel (M)</item>
+        <item>Kadapa (M Corp. + OG)</item>
+        <item>Kondapuram</item>
+        <item>Mylavaram</item>
+        <item>Peddamudium</item>
+        <item>Rajupalem</item>
+        <item>Duvvur</item>
+        <item>S.Mydukur</item>
+        <item>Brahmamgarimattam</item>
+        <item>Sri Avadhutha Kasinayana</item>
+        <item>Kalasapadu</item>
+        <item>Porumamilla</item>
+        <item>B.Kodur</item>
+        <item>Badvel</item>
+        <item>Badvel (M) (Part)</item>
+        <item>Gopavaram</item>
+        <item>Badvel (M) (Part)</item>
+        <item>Khajipet</item>
+        <item>Chapad</item>
+        <item>Proddatur</item>
+        <item>Proddatur (M + OG)</item>
+        <item>Proddatur (M)</item>
+        <item>Jammalamadugu</item>
+        <item>Jammalamadugu (NP)</item>
+        <item>Muddanur</item>
+        <item>Simhadripuram</item>
+        <item>Lingala</item>
+        <item>Pulivendla</item>
+        <item>Pulivendla (M)</item>
+        <item>Vemula</item>
+        <item>Thondur</item>
+        <item>Veerapunayunipalle</item>
+        <item>Yerraguntla</item>
+        <item>Kamalapuram</item>
+        <item>Vallur</item>
+        <item>Chennur</item>
+        <item>Kadapa (M Corp. + OG) (Part)</item>
+        <item>Atlur</item>
+        <item>Vontimitta</item>
+        <item>Sidhout</item>
+        <item>Kadapa</item>
+        <item>Kadapa (M Corp.) (Part)</item>
+        <item>Chinthakommadinne</item>
+        <item>Kadapa (M Corp. + OG) (Part)</item>
+        <item>Kadapa (M Corp.) (Part)</item>
+        <item>Pendlimarri</item>
+        <item>Vempalle</item>
+        <item>Chakrayapet</item>
+        <item>Galiveedu</item>
+        <item>Chinnamandem</item>
+        <item>Sambepalle</item>
+        <item>T Sundupalle</item>
+        <item>Rayachoti</item>
+        <item>Rayachoti (M)</item>
+        <item>Lakkireddipalle</item>
+        <item>Ramapuram</item>
+        <item>Veeraballe</item>
+        <item>Nandalur</item>
+        <item>Penagalur</item>
+        <item>Chitvel</item>
+        <item>Rajampet</item>
+        <item>Rajampet (NP + OG)</item>
+        <item>Rajampet (NP)</item>
+        <item>Pullampeta</item>
+        <item>Obulavaripalle</item>
+        <item>Kodur</item>
+    </string-array>
+
+</resources>

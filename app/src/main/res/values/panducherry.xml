@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="PUDUCHERRY1">
+        <item>PUDUCHERRY</item>
+        <item>Yanam</item>
+        <item>Yanam Taluk</item>
+        <item>Yanam (M)</item>
+        <item>Puducherry</item>
+        <item>Puducherry Taluk</item>
+        <item>Puducherry (M)</item>
+        <item>Ozhukarai Taluk</item>
+        <item>Ozhukarai (M)</item>
+        <item>Villianur Taluk</item>
+    </string-array>
+
+
+    <string-array name="Karaikal">
+        <item>Karaikal</item>
+        <item>Karaikal Taluk</item>
+        <item>Karaikal (M)</item>
+        <item>Thirunallar Taluk</item>
+    </string-array>
+
+
+
+    <string-array name="Mahe">
+        <item>Mahe</item>
+        <item>Mahe Taluk</item>
+        <item>Mahe (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Yanam">
+        <item>Yanam</item>
+        <item>Yanam Taluk</item>
+        <item>Yanam (M)</item>
+    </string-array>
+</resources>

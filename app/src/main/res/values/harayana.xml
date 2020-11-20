@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Ambala">
+        <item>Ambala</item>
+        <item>Naraingarh</item>
+        <item>Naraingarh (MC)</item>
+        <item>Ambala</item>
+        <item>Ambala (M Cl)</item>
+        <item>Ambala Cantt. (CB)</item>
+        <item>Ambala Sadar (M Cl + OG)</item>
+        <item>Ambala Sadar (M Cl)</item>
+        <item>Barara</item>
+    </string-array>
+
+
+    <string-array name="Bhiwani">
+        <item>Bhiwani</item>
+        <item>Bawani Khera</item>
+        <item>Bawani khera (MC)</item>
+        <item>Bhiwani</item>
+        <item>Bhiwani (M Cl)</item>
+        <item>Tosham</item>
+        <item>Siwani</item>
+        <item>Siwani (MC)</item>
+        <item>Loharu</item>
+        <item>Loharu (MC)</item>
+        <item>Dadri</item>
+        <item>Charkhi Dadri (MC)</item>
+        <item>Badhra</item>
+    </string-array>
+
+
+    <string-array name="Faridabad">
+        <item>Faridabad</item>
+        <item>Faridabad</item>
+        <item>Faridabad (M Corp.)</item>
+        <item>Ballabgarh</item>
+    </string-array>
+
+
+    <string-array name="Fatehabad">
+        <item>Fatehabad</item>
+        <item>Ratia</item>
+        <item>Ratia (MC)</item>
+        <item>Tohana</item>
+        <item>Tohana (M Cl)</item>
+        <item>Fatehabad</item>
+        <item>Fatehabad (M Cl)</item>
+    </string-array>
+
+
+    <string-array name="Gurgaon">
+        <item>Gurgaon</item>
+        <item>Pataudi</item>
+        <item>Hailey Mandi (MC)</item>
+        <item>Pataudi (MC)</item>
+        <item>Gurgaon</item>
+        <item>Gurgaon (M Corp. + OG)</item>
+        <item>Gurgaon (M Corp.)</item>
+        <item>Farrukhnagar</item>
+        <item>Farrukhnagar (MC)</item>
+        <item>Manesar</item>
+        <item>Sohna</item>
+        <item>Sohna (MC)</item>
+    </string-array>
+
+
+    <string-array name="Hisar">
+        <item>Hisar</item>
+        <item>Adampur</item>
+        <item>Hisar</item>
+        <item>Barwala (MC)</item>
+        <item>Hisar (M Cl + OG)</item>
+        <item>Hisar (M Cl)</item>
+        <item>Narnaund</item>
+        <item>Narnaund (MC)</item>
+        <item>Hansi</item>
+        <item>Hansi (M Cl)</item>
+    </string-array>
+
+
+
+    <string-array name="Jhajjar">
+        <item>Jhajjar</item>
+        <item>Beri</item>
+        <item>Beri (MC)</item>
+        <item>Bahadurgarh</item>
+        <item>Bahadurgarh (M Cl)</item>
+        <item>Jhajjar</item>
+        <item>Jhajjar (MC)</item>
+        <item>Matenhail</item>
+    </string-array>
+
+
+
+    <string-array name="Jind">
+        <item>Jind</item>
+        <item>Narwana</item>
+        <item>Narwana (M Cl)</item>
+        <item>Uchana (MC)</item>
+        <item>Jind</item>
+        <item>Jind (M Cl)</item>
+        <item>Julana</item>
+        <item>Julana (MC)</item>
+        <item>Safidon</item>
+        <item>Safidon (MC)</item>
+    </string-array>
+
+
+    <string-array name="Kaithal">
+        <item>Kaithal</item>
+        <item>Guhla</item>
+        <item>Cheeka (MC)</item>
+        <item>Kaithal</item>
+        <item>Kaithal (M Cl)</item>
+        <item>Kalayat (MC)</item>
+        <item>Fatehpur Pundri</item>
+        <item>Pundri (MC + OG)</item>
+        <item>Pundri (MC)</item>
+    </string-array>
+
+
+    <string-array name="Karnal">
+        <item>Karnal</item>
+        <item>Nilokheri</item>
+        <item>Nilokheri (MC)</item>
+        <item>Taraori (MC)</item>
+        <item>Indri</item>
+        <item>Indri (MC)</item>
+        <item>Karnal</item>
+        <item>Karnal (M Cl + OG)</item>
+        <item>Karnal (M Cl)</item>
+        <item>Nissing (MC)</item>
+        <item>Assandh</item>
+        <item>Assandh (MC)</item>
+        <item>Gharaunda</item>
+        <item>Gharaunda (MC)</item>
+    </string-array>
+
+
+    <string-array name="Kurukshetra">
+        <item>Kurukshetra</item>
+        <item>Shahbad</item>
+        <item>Shahbad (MC)</item>
+        <item>Pehowa</item>
+        <item>Pehowa (MC)</item>
+        <item>Thanesar</item>
+        <item>Thanesar (M Cl)</item>
+        <item>Ladwa (MC)</item>
+    </string-array>
+
+
+    <string-array name="Mahendragarh">
+        <item>Mahendragarh</item>
+        <item>Mahendragarh</item>
+        <item>Kanina (MC)</item>
+        <item>Mahendragarh (MC)</item>
+        <item>Narnaul</item>
+        <item>Ateli (MC)</item>
+        <item>Narnaul (M Cl)</item>
+    </string-array>
+
+
+    <string-array name="Mewat">
+        <item>Mewat</item>
+        <item>Taoru</item>
+        <item>Taoru (MC)</item>
+        <item>Nuh</item>
+        <item>Nuh (MC)</item>
+        <item>Ferozepur Jhirka</item>
+        <item>Ferozepur jhirka (MC)</item>
+        <item>Punahana</item>
+        <item>Punahana (MC)</item>
+    </string-array>
+
+
+    <string-array name="Palwal">
+        <item>Palwal</item>
+        <item>Palwal</item>
+        <item>Palwal (M Cl + OG)</item>
+        <item>Palwal (M Cl)</item>
+        <item>Hathin</item>
+        <item>Hathin (MC)</item>
+        <item>Hodal</item>
+        <item>Hassan Pur (MC)</item>
+        <item>Hodal (MC)</item>
+    </string-array>
+
+
+    <string-array name="Panchkula">
+        <item>Panchkula</item>
+        <item>Kalka</item>
+        <item>Kalka (MC + OG)</item>
+        <item>Kalka (MC)</item>
+        <item>Pinjore (MC)</item>
+        <item>Panchkula</item>
+        <item>Panchkula (M Cl)</item>
+    </string-array>
+
+
+    <string-array name="Panipat">
+        <item>Panipat</item>
+        <item>Panipat</item>
+        <item>Panipat (M Cl + OG)</item>
+        <item>Panipat (M Cl)</item>
+        <item>Israna</item>
+        <item>Samalkha</item>
+        <item>Samalkha (MC + OG)</item>
+        <item>Samalkha (MC)</item>
+    </string-array>
+
+
+    <string-array name="Rewari">
+        <item>Rewari</item>
+        <item>Kosli</item>
+        <item>Rewari</item>
+        <item>Dharuhera (MC)</item>
+        <item>Rewari (M Cl)</item>
+        <item>Bawal</item>
+        <item>Bawal (MC)</item>
+    </string-array>
+
+
+    <string-array name="Rohtak">
+        <item>Rohtak</item>
+        <item>Maham</item>
+        <item>Maham (MC)</item>
+        <item>Rohtak</item>
+        <item>Rohtak (M Cl)</item>
+        <item>Kalanaur (MC)</item>
+        <item>Sampla</item>
+        <item>Sampla (MC)</item>
+    </string-array>
+
+
+    <string-array name="Sirsa">
+        <item>Sirsa</item>
+        <item>Dabwali</item>
+        <item>Mandi Dabwali (MC)</item>
+        <item>Sirsa</item>
+        <item>Kalanwali (MC)</item>
+        <item>Sirsa (M Cl)</item>
+        <item>Rania</item>
+        <item>Rania (MC)</item>
+        <item>Ellenabad</item>
+        <item>Ellenabad (MC)</item>
+    </string-array>
+
+
+    <string-array name="Sonipat">
+        <item>Sonipat</item>
+        <item>Gohana</item>
+        <item>Gohana (MC)</item>
+        <item>Ganaur</item>
+        <item>Ganaur (MC)</item>
+        <item>Sonipat</item>
+        <item>Sonipat (M Cl + OG)</item>
+        <item>Sonipat (M Cl)</item>
+        <item>Kharkhoda</item>
+        <item>Kharkhoda (MC)</item>
+    </string-array>
+
+
+    <string-array name="Yamunanagar">
+        <item>Yamunanagar</item>
+        <item>Jagadhri</item>
+        <item>Jagadhri (M Cl)</item>
+        <item>Yamunanagar (M Cl + OG)</item>
+        <item>Yamunanagar (M Cl)</item>
+        <item>Bilaspur</item>
+        <item>Chhachhrauli</item>
+    </string-array>
+
+
+
+
+
+
+</resources>

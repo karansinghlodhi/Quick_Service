@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Daman">
+        <item>Diu (M CI)</item>
+        <item>Daman</item>
+        <item>Daman</item>
+        <item>Daman (M CI)</item>
+    </string-array>
+    <string-array name="Diu">
+        <item>DAMAN and DIU</item>
+        <item>Diu</item>
+        <item>Diu</item>
+        <item>Diu (M CI)</item>
+    </string-array>
+</resources>

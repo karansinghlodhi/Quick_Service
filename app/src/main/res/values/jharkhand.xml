@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Bokaro">
+        <item>Bokaro</item>
+        <item>Nawadih</item>
+        <item>Chandrapura</item>
+        <item>Bermo</item>
+        <item>Phusro (Nagar Parishad)</item>
+        <item>Gumia</item>
+        <item>Peterwar</item>
+        <item>Kasmar</item>
+        <item>Jaridih</item>
+        <item>Chas</item>
+        <item>Chas (Nagar Parishad)</item>
+        <item>Chandankiyari</item>
+    </string-array>
+
+
+
+    <string-array name="Chatra">
+        <item>Chatra</item>
+        <item>Shaligram Ram Narayanpur(Hunterganj)</item>
+        <item>Pratappur</item>
+        <item>Kunda</item>
+        <item>Lawalaung</item>
+        <item>Chatra</item>
+        <item>Chatra (Nagar Parishad)</item>
+        <item>Kanha Chatti</item>
+        <item>Itkhori</item>
+        <item>Mayur Hand</item>
+        <item>Gidhaur</item>
+        <item>Pathalgora</item>
+        <item>Simaria</item>
+        <item>Tandwa</item>
+    </string-array>
+
+
+
+
+    <string-array name="Deoghar">
+        <item>Deoghar</item>
+        <item>Deoghar</item>
+        <item>Deoghar (M Corp.)</item>
+        <item>Mohanpur</item>
+        <item>Sarwan</item>
+        <item>Sona Rai Tharhi</item>
+        <item>Devipur</item>
+        <item>Madhupur</item>
+        <item>Madhupur (Nagar Parishad)</item>
+        <item>Margo Munda</item>
+        <item>Karon</item>
+        <item>Sarath</item>
+        <item>Palojori</item>
+    </string-array>
+
+
+
+    <string-array name="Dhanbad">
+        <item>Dhanbad</item>
+        <item>Tundi</item>
+        <item>Purbi Tundi</item>
+        <item>Purbi Tundi*</item>
+        <item>Topchanchi</item>
+        <item>Baghmara-Cum-Katras</item>
+        <item>Gobindpur</item>
+        <item>Dhanbad-Cum-Kenduadih-Cum-Jagata</item>
+        <item>Dhanbad (M Corp.)</item>
+        <item>Jharia-Cum-Jorapokhar-Cum-Sindri</item>
+        <item>Baliapur</item>
+        <item>Nirsa-Cum-Chirkunda</item>
+        <item>Chirkunda (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Dumka">
+        <item>Dumka</item>
+        <item>Saraiyahat</item>
+        <item>Jarmundi</item>
+        <item>Basukinath (NP)</item>
+        <item>Ramgarh</item>
+        <item>Gopikandar</item>
+        <item>Kathikund</item>
+        <item>Shikaripara</item>
+        <item>Ranishwar</item>
+        <item>Dumka</item>
+        <item>Dumka (Nagar Parishad)</item>
+        <item>Jama</item>
+        <item>Masalia</item>
+    </string-array>
+
+
+
+    <string-array name="Garhwa">
+        <item>Garhwa</item>
+        <item>Kharaundhi</item>
+        <item>Bhawnathpur</item>
+        <item>Ketar*</item>
+        <item>Ketar</item>
+        <item>Kandi</item>
+        <item>Majhiaon</item>
+        <item>Majhion (NP)</item>
+        <item>Bardiha</item>
+        <item>Ramna</item>
+        <item>Bishunpura</item>
+        <item>Nagaruntari</item>
+        <item>Dhurki</item>
+        <item>Sagma</item>
+        <item>Dandai</item>
+        <item>Chinia</item>
+        <item>Meral (Pipra Kalan)</item>
+        <item>Garhwa</item>
+        <item>Garhwa (NP)</item>
+        <item>Danda</item>
+        <item>Ranka</item>
+        <item>Ramkanda</item>
+        <item>Bhandaria</item>
+    </string-array>
+
+
+
+    <string-array name="Giridih">
+        <item>Giridih</item>
+        <item>Gawan</item>
+        <item>Tisri</item>
+        <item>Deori</item>
+        <item>Dhanwar</item>
+        <item>Jamua</item>
+        <item>Bengabad</item>
+        <item>Gande</item>
+        <item>Giridih</item>
+        <item>Giridih (Nagar Parishad)</item>
+        <item>Birni</item>
+        <item>Bagodar</item>
+        <item>Sariya</item>
+        <item>Dumri</item>
+        <item>Pirtanr</item>
+    </string-array>
+
+
+
+
+    <string-array name="Godda">
+        <item>Godda</item>
+        <item>Meherma</item>
+        <item>Thakurgangti</item>
+        <item>Boarijor</item>
+        <item>Mahagama</item>
+        <item>Pathargama</item>
+        <item>Bashant Rai*</item>
+        <item>Bashant Rai</item>
+        <item>Godda</item>
+        <item>Godda (NP)</item>
+        <item>Poreyahat</item>
+        <item>Sundarpahari</item>
+    </string-array>
+
+
+
+
+    <string-array name="Gumla">
+        <item>Gumla</item>
+        <item>Bishunpur</item>
+        <item>Ghaghra</item>
+        <item>Sisai</item>
+        <item>Verno</item>
+        <item>Kamdara</item>
+        <item>Basia</item>
+        <item>Gumla</item>
+        <item>Gumla (NP)</item>
+        <item>Chainpur</item>
+        <item>Dumri</item>
+        <item>Albert Ekka(Jari)</item>
+        <item>Raidih</item>
+        <item>Palkot</item>
+    </string-array>
+
+
+
+
+    <string-array name="Hazaribagh">
+        <item>Hazaribagh</item>
+        <item>Chauparan</item>
+        <item>Barhi</item>
+        <item>Padma</item>
+        <item>Ichak</item>
+        <item>Tati Jhariya</item>
+        <item>Daru</item>
+        <item>Barkatha</item>
+        <item>Chalkusa</item>
+        <item>Bishungarh</item>
+        <item>Hazaribag</item>
+        <item>Hazaribag (Nagar Parishad)</item>
+        <item>Katkamsandi</item>
+        <item>Katamdag</item>
+        <item>Keredari</item>
+        <item>Barkagaon</item>
+        <item>Churchu</item>
+        <item>Dadi</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="Jamtara">
+        <item>Jamtara</item>
+        <item>Narayanpur</item>
+        <item>Karma Tanr Vidyasagar</item>
+        <item>Karma Tanr Vidyasagar*</item>
+        <item>Jamtara</item>
+        <item>Jamtara (NP)</item>
+        <item>Mihijam (NP)</item>
+        <item>Nala</item>
+        <item>Fatehpur</item>
+        <item>Kundhit</item>
+    </string-array>
+
+
+
+
+    <string-array name="Khunti">
+        <item>Khunti</item>
+        <item>Karra</item>
+        <item>Torpa</item>
+        <item>Rania</item>
+        <item>Murhu</item>
+        <item>Khunti</item>
+        <item>Khunti (NP)</item>
+        <item>Erki(Tamar II)</item>
+    </string-array>
+
+
+
+    <string-array name="Kodarma">
+        <item>Kodarma</item>
+        <item>Satgawan</item>
+        <item>Kodarma</item>
+        <item>Kodarma (NP)</item>
+        <item>Jhumri Tilaiya (Nagar Parishad)</item>
+        <item>Domchanch</item>
+        <item>Jainagar</item>
+        <item>Chandwara</item>
+        <item>Markacho</item>
+    </string-array>
+
+
+
+
+    <string-array name="Latehar">
+        <item>Latehar</item>
+        <item>Manika</item>
+        <item>Barwadih</item>
+        <item>Mahuadanr</item>
+        <item>Garu</item>
+        <item>Latehar</item>
+        <item>Latehar (NP)</item>
+        <item>Balumath</item>
+        <item>Bariyatu</item>
+        <item>Herhanj</item>
+        <item>Chandwa</item>
+    </string-array>
+
+
+
+    <string-array name="Lohardaga">
+        <item>Lohardaga</item>
+        <item>Kisko</item>
+        <item>Peshrar</item>
+        <item>Kuru</item>
+        <item>Kairo</item>
+        <item>Lohardaga</item>
+        <item>Lohardaga (Nagar Parishad)</item>
+        <item>Senha</item>
+        <item>Bhandra</item>
+    </string-array>
+
+
+    <string-array name="Pakur">
+        <item>Pakur</item>
+        <item>Litipara</item>
+        <item>Amrapara</item>
+        <item>Hiranpur</item>
+        <item>Pakaur</item>
+        <item>Pakaur (NP)</item>
+        <item>Maheshpur</item>
+        <item>Pakuria</item>
+    </string-array>
+
+
+    <string-array name="Palamu">
+        <item>Palamu</item>
+        <item>Hussainabad</item>
+        <item>Hussainabad (NP)</item>
+        <item>Haidernagar</item>
+        <item>Mohammad Ganj</item>
+        <item>Hariharganj</item>
+        <item>Pipra</item>
+        <item>Chhatarpur</item>
+        <item>Nawadiha Bazar/Nawadiha*</item>
+        <item>Nawadiha Bazar/Nawadiha</item>
+        <item>Pandu</item>
+        <item>Untari Road</item>
+        <item>Bishrampur</item>
+        <item>Bishrampur (NP)</item>
+        <item>Nawa Bazar</item>
+        <item>Patan</item>
+        <item>Padwa</item>
+        <item>Manatu</item>
+        <item>Tarhasi</item>
+        <item>Panki</item>
+        <item>Satbarwa</item>
+        <item>Nilambar-Pitambarpur(Lesliganj)</item>
+        <item>Medininagar(Daltonganj)</item>
+        <item>Medininagar (Daltonganj) (Nagar Parishad)</item>
+        <item>Chainpur</item>
+    </string-array>
+
+
+
+    <string-array name="Pashchimi_Singhbhum">
+        <item>Pashchimi Singhbhum</item>
+        <item>Sonua</item>
+        <item>Gudri</item>
+        <item>Bandgaon</item>
+        <item>Chakradharpur</item>
+        <item>Chakardharpur (Nagar Parishad)</item>
+        <item>Khuntpani</item>
+        <item>Goilkera</item>
+        <item>Anandpur</item>
+        <item>Manoharpur</item>
+        <item>Noamundi</item>
+        <item>Tonto</item>
+        <item>Hat Gamharia</item>
+        <item>Chaibasa</item>
+        <item>Chaibasa (Nagar Parishad)</item>
+        <item>Tantnagar</item>
+        <item>Manjhari</item>
+        <item>Jhinkpani</item>
+        <item>Jagannathpur</item>
+        <item>Kumardungi</item>
+        <item>Majhgaon</item>
+    </string-array>
+
+
+
+
+    <string-array name="Purbi_Singhbhum">
+        <item>Purbi Singhbhum</item>
+        <item>Patamda</item>
+        <item>Boram</item>
+        <item>Golmuri-Cum-Jugsalai</item>
+        <item>Mango (NAC)</item>
+        <item>Jamshedpur (NAC + OG)</item>
+        <item>Jamshedpur (NAC)</item>
+        <item>Jugsalai (M)</item>
+        <item>Ghatshila</item>
+        <item>Potka</item>
+        <item>Musabani</item>
+        <item>Dumaria</item>
+        <item>Dhalbhumgarh</item>
+        <item>Gurbandha</item>
+        <item>Chakulia</item>
+        <item>Chakulia (NP)</item>
+        <item>Baharagora</item>
+    </string-array>
+
+
+
+    <string-array name="Ramgarh">
+        <item>Ramgarh</item>
+        <item>Patratu</item>
+        <item>Mandu</item>
+        <item>Ramgarh</item>
+        <item>Ramgarh Cantonment (CB)</item>
+        <item>Dulmi</item>
+        <item>Chitarpur</item>
+        <item>Gola</item>
+    </string-array>
+
+
+
+
+    <string-array name="Ranchi">
+        <item>Ranchi</item>
+        <item>Burmu</item>
+        <item>Khelari</item>
+        <item>Kanke</item>
+        <item>Ranchi (M Corp.)</item>
+        <item>Ormanjhi</item>
+        <item>Angara</item>
+        <item>Rahe</item>
+        <item>Silli</item>
+        <item>Sonahatu</item>
+        <item>Namkum</item>
+        <item>Ratu</item>
+        <item>Nagri</item>
+        <item>Mandar</item>
+        <item>Chanho</item>
+        <item>Bero</item>
+        <item>Itki</item>
+        <item>Lapung</item>
+        <item>Bundu</item>
+        <item>Bundu (NP)</item>
+        <item>Tamar I</item>
+    </string-array>
+
+
+
+
+    <string-array name="Sahibganj">
+        <item>Sahibganj</item>
+        <item>Sahibganj</item>
+        <item>Sahibganj (Nagar Parishad)</item>
+        <item>Mandro</item>
+        <item>Borio</item>
+        <item>Barhait</item>
+        <item>Taljhari</item>
+        <item>Rajmahal</item>
+        <item>Rajmahal (NP)</item>
+        <item>Udhwa</item>
+        <item>Pathna</item>
+        <item>Barharwa</item>
+    </string-array>
+
+
+
+    <string-array name="Saraikela_Kharsawan">
+        <item>Saraikela-Kharsawan</item>
+        <item>Kuchai</item>
+        <item>Kharsawan</item>
+        <item>Chandil</item>
+        <item>Ichagarh</item>
+        <item>Kukru</item>
+        <item>Nimdih</item>
+        <item>Adityapur(Gamharia)</item>
+        <item>Adityapur (Nagar Parishad)</item>
+        <item>Saraikela</item>
+        <item>Seraikela (NP)</item>
+        <item>Gobindpur(Rajnagar)</item>
+    </string-array>
+
+
+
+    <string-array name="Simdega">
+        <item>Simdega</item>
+        <item>Simdega</item>
+        <item>Simdega (NP)</item>
+        <item>Pakar Tanr</item>
+        <item>Kurdeg</item>
+        <item>Kersai</item>
+        <item>Bolba</item>
+        <item>Thethaitangar</item>
+        <item>Kolebira</item>
+        <item>Jaldega</item>
+        <item>Bansjor</item>
+        <item>Bano</item>
+    </string-array>
+</resources>

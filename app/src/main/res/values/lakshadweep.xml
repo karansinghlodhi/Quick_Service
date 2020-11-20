@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="LAKSHADWEEP1">
+        <item>LAKSHADWEEP</item>
+        <item>Lakshadweep</item>
+        <item>Amini</item>
+        <item>Bitra</item>
+        <item>Chetlat</item>
+        <item>Kiltan</item>
+        <item>Kadmat</item>
+        <item>Kavaratti</item>
+        <item>Agatti</item>
+        <item>Andrott</item>
+        <item>Kalpeni</item>
+        <item>Minicoy</item>
+    </string-array>
+</resources>

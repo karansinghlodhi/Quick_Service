@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Anjaw">
+        <item>Anjaw</item>
+        <item>Hayuliang</item>
+        <item>Manchal</item>
+        <item>Goiliang</item>
+        <item>Chaglagam</item>
+        <item>Metengliang</item>
+        <item>Kibithoo</item>
+        <item>Walong</item>
+        <item>Hawai</item>
+        <item>Hawai (NT)</item>
+    </string-array>
+
+
+    <string-array name="Changlang">
+        <item>Changlang</item>
+        <item>Khimiyong</item>
+        <item>Yatdam</item>
+        <item>Changlang</item>
+        <item>Changlang (NT)</item>
+        <item>Namtok</item>
+        <item>Manmao</item>
+        <item>Renuk</item>
+        <item>Lyngok-Longtoi</item>
+        <item>Nampong</item>
+        <item>Tikhak Rima Putok</item>
+        <item>Jairampur</item>
+        <item>Jairampur (NT)</item>
+        <item>Vijoynagar</item>
+        <item>Miao</item>
+        <item>Miao (NT)</item>
+        <item>Kharsang</item>
+        <item>Diyun</item>
+        <item>Bordumsa</item>
+    </string-array>
+
+
+    <string-array name="Dibang_Valley">
+        <item>Dibang Valley</item>
+        <item>Mipi</item>
+        <item>Anini</item>
+        <item>Anini (NT)</item>
+        <item>Etalin</item>
+        <item>Anelih</item>
+        <item>Kronli (Arzoo circle)</item>
+    </string-array>
+
+
+    <string-array name="East_Kameng">
+        <item>East Kameng</item>
+        <item>Seijosa</item>
+        <item>Dissing-Passo</item>
+        <item>Pakke-Kessang</item>
+        <item>Pizirang(Veo)</item>
+        <item>Richukrong</item>
+        <item>Seppa</item>
+        <item>Seppa (NT)</item>
+        <item>Lada</item>
+        <item>Bameng</item>
+        <item>Pipu-Dipu</item>
+        <item>Gyawe Purang</item>
+        <item>Khenewa</item>
+        <item>Chayangtajo</item>
+        <item>Sawa</item>
+    </string-array>
+
+
+
+    <string-array name="East_Siang">
+        <item>East Siang</item>
+        <item>Boleng</item>
+        <item>Boleng (NT)</item>
+        <item>Riga</item>
+        <item>Pangin</item>
+        <item>Kebang</item>
+        <item>Rebo-Perging</item>
+        <item>Koyu</item>
+        <item>Kora</item>
+        <item>Nari</item>
+        <item>New Seren</item>
+        <item>Bilat</item>
+        <item>Ruksin</item>
+        <item>Sille-Oyan</item>
+        <item>Pasighat</item>
+        <item>Pasighat (NT)</item>
+        <item>Mebo</item>
+        <item>Namsing</item>
+    </string-array>
+
+
+    <string-array name="Kurung_Kumey">
+        <item>Kurung Kumey</item>
+        <item>Palin</item>
+        <item>Yangte</item>
+        <item>Sangram</item>
+        <item>Nyapin</item>
+        <item>Phassang</item>
+        <item>Koloriang</item>
+        <item>Koloriang (NT)</item>
+        <item>Chambang</item>
+        <item>Gangte</item>
+        <item>Tarak-Lengdi</item>
+        <item>Sarli</item>
+        <item>Parsi-Parlo</item>
+        <item>Damin</item>
+        <item>Longding Koling (Pipsorang)</item>
+        <item>Tali</item>
+    </string-array>
+
+
+    <string-array name="Lohit">
+        <item>Lohit</item>
+        <item>Sunpura</item>
+        <item>Tezu</item>
+        <item>Tezu (NT)</item>
+        <item>Wakro</item>
+        <item>Chongkham</item>
+        <item>Namsai</item>
+        <item>Namsai (NT)</item>
+        <item>Lathao</item>
+        <item>Piyong</item>
+        <item>Lekang (Mahadevpur)</item>
+    </string-array>
+
+
+    <string-array name="Lower_Dibang_Valley">
+        <item>Lower Dibang Valley</item>
+        <item>Hunli</item>
+        <item>Desali</item>
+        <item>Roing</item>
+        <item>Roing (NT)</item>
+        <item>Dambuk</item>
+        <item>Tinali ( Paglam )</item>
+        <item>Koronu</item>
+    </string-array>
+
+
+    <string-array name="Lower_Subansiri">
+        <item>Lower Subansiri</item>
+        <item>Ziro (Sadar)</item>
+        <item>Ziro (NT)</item>
+        <item>Old Ziro</item>
+        <item>Yachuli</item>
+        <item>Yazali</item>
+        <item>Pistana</item>
+        <item>Kamporijo</item>
+        <item>Dollungmukh</item>
+        <item>Raga</item>
+    </string-array>
+
+
+    <string-array name="Papum_Pare">
+        <item>Papum Pare</item>
+        <item>Balijan</item>
+        <item>Banderdawa</item>
+        <item>Sangdupota (Besar Nello)</item>
+        <item>Taraso</item>
+        <item>Itanagar</item>
+        <item>Itanagar (NT)</item>
+        <item>Naharlagun</item>
+        <item>Naharlagun (NT)</item>
+        <item>Doimukh</item>
+        <item>Gumto</item>
+        <item>Toru</item>
+        <item>Sagalee</item>
+        <item>Sagalee (NT)</item>
+        <item>Parang</item>
+        <item>Leporiang</item>
+        <item>Mengio</item>
+        <item>Kimin</item>
+        <item>Kakoi</item>
+    </string-array>
+
+
+    <string-array name="Tawang">
+        <item>Tawang</item>
+        <item>Zemithang</item>
+        <item>LUMLA</item>
+        <item>DUDUNGHAR</item>
+        <item>TAWANG CIRCLE</item>
+        <item>Tawang</item>
+        <item>Tawang (NT)</item>
+        <item>Kitpi</item>
+        <item>KITPI CIRCLE</item>
+        <item>Jang</item>
+        <item>Lhou</item>
+        <item>MUKTO CIRCLE</item>
+        <item>Mukto</item>
+        <item>Bongkhar</item>
+        <item>Thingbu</item>
+    </string-array>
+
+
+
+    <string-array name="Tirap">
+        <item>Tirap</item>
+        <item>Namsang</item>
+        <item>Deomali (NT)</item>
+        <item>Soha</item>
+        <item>Khonsa</item>
+        <item>Khonsa (NT)</item>
+        <item>Dadam</item>
+        <item>Kanubari</item>
+        <item>Lawnu</item>
+        <item>Longding</item>
+        <item>Longding</item>
+        <item>Pumao</item>
+        <item>Pangchao</item>
+        <item>Wakka</item>
+        <item>Laju</item>
+    </string-array>
+
+
+    <string-array name="Upper_Siang">
+        <item>Upper Siang</item>
+        <item>Tuting</item>
+        <item>Migging</item>
+        <item>Palling</item>
+        <item>Gelling</item>
+        <item>Singa</item>
+        <item>Yingkiong</item>
+        <item>Yingkiong (NT)</item>
+        <item>Jengging</item>
+        <item>Geku</item>
+        <item>Mariyang</item>
+        <item>Mopom ( Adipasi )</item>
+        <item>Katan</item>
+    </string-array>
+
+
+    <string-array name="Upper_Subansiri">
+        <item>Upper Subansiri</item>
+        <item>Taksing</item>
+        <item>Limeking</item>
+        <item>Nacho</item>
+        <item>Siyum</item>
+        <item>Taliha</item>
+        <item>Payeng</item>
+        <item>Giba</item>
+        <item>Chetam (Peer Yapu)</item>
+        <item>Daporijo</item>
+        <item>Daporijo (NT)</item>
+        <item>Puchi Geko</item>
+        <item>Dumporijo</item>
+        <item>Gussar</item>
+        <item>Gite-Ripa</item>
+        <item>Baririjo</item>
+        <item>Maro</item>
+    </string-array>
+
+
+    <string-array name="West_Kameng">
+        <item>West Kameng</item>
+        <item>Dirang</item>
+        <item>Dirang (NT)</item>
+        <item>Thembang</item>
+        <item>Nafra</item>
+        <item>Bomdila</item>
+        <item>Bomdila (NT)</item>
+        <item>Kalaktang</item>
+        <item>Shergaon</item>
+        <item>Rupa</item>
+        <item>Singchung</item>
+        <item>Jamiri</item>
+        <item>Thrizino</item>
+        <item>Bhalukpong</item>
+        <item>Kamengbari-Doimara</item>
+        <item>Balemu</item>
+    </string-array>
+
+
+    <string-array name="West_Siang">
+        <item>West Siang</item>
+        <item>Mechuka</item>
+        <item>Monigong</item>
+        <item>Pidi</item>
+        <item>Payum</item>
+        <item>Tato</item>
+        <item>Kaying</item>
+        <item>Darak</item>
+        <item>Kamba</item>
+        <item>Rumgong</item>
+        <item>Jomlo Mobuk</item>
+        <item>Liromoba</item>
+        <item>Yomcha</item>
+        <item>Aalo</item>
+        <item>Aalo (NT)</item>
+        <item>Tirbin</item>
+        <item>Basar</item>
+        <item>Basar (NT)</item>
+        <item>Daring</item>
+        <item>Gensi</item>
+        <item>Sibe</item>
+        <item>Likabali</item>
+        <item>Kangku</item>
+        <item>Bagra</item>
+    </string-array>
+
+
+
+
+</resources>

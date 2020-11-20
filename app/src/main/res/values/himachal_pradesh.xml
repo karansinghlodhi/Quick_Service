@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Bilaspur">
+        <item>Bilaspur</item>
+        <item>Ghumarwin</item>
+        <item>Ghumarwin (M Cl)</item>
+        <item>Bharari</item>
+        <item>Jhanduta</item>
+        <item>Talai (NP)</item>
+        <item>Naina Devi</item>
+        <item>Naina Devi (M Cl)</item>
+        <item>Bilaspur Sadar</item>
+        <item>Bilaspur (M Cl)</item>
+        <item>Namhol</item>
+    </string-array>
+
+
+
+    <string-array name="Chamba">
+        <item>Chamba</item>
+        <item>Pangi</item>
+        <item>Chaurah</item>
+        <item>Saluni</item>
+        <item>Bhalai</item>
+        <item>Dalhousie</item>
+        <item>Dalhousie (CB)</item>
+        <item>Dalhousie (M Cl)</item>
+        <item>Bhattiyat</item>
+        <item>Bakloh (CB)</item>
+        <item>Chuari Khas (NP)</item>
+        <item>Sihunta</item>
+        <item>Chamba</item>
+        <item>Chamba (M Cl)</item>
+        <item>Holi</item>
+        <item>Brahmaur</item>
+    </string-array>
+
+
+
+    <string-array name="Hamirpur1">
+        <item>Hamirpur</item>
+        <item>Tira Sujanpur</item>
+        <item>Tira Sujanpur (NP)</item>
+        <item>Nadaun</item>
+        <item>Nadaun (NP)</item>
+        <item>Galore</item>
+        <item>Hamirpur</item>
+        <item>Hamirpur (M Cl)</item>
+        <item>Barsar</item>
+        <item>Bhota (NP)</item>
+        <item>Dhatwal</item>
+        <item>Bhoranj</item>
+    </string-array>
+
+
+
+    <string-array name="Kangra">
+        <item>Kangra</item>
+        <item>Nurpur</item>
+        <item>Nurpur (M Cl)</item>
+        <item>Indora</item>
+        <item>Fatehpur</item>
+        <item>Jawali</item>
+        <item>Harchakian</item>
+        <item>Shahpur</item>
+        <item>Dharmsala</item>
+        <item>Dharmsala (M Cl + OG)</item>
+        <item>Dharmsala (M Cl)</item>
+        <item>Yol (CB)</item>
+        <item>Kangra</item>
+        <item>Kangra (M Cl)</item>
+        <item>Nagrota Bagwan</item>
+        <item>Nagrota Bagwan (M Cl)</item>
+        <item>Baroh</item>
+        <item>Dera Gopipur</item>
+        <item>Dera Gopipur (NP)</item>
+        <item>Jawalamukhi</item>
+        <item>Jawalamukhi (NP)</item>
+        <item>Jaswan</item>
+        <item>Rakkar</item>
+        <item>Khundian</item>
+        <item>Thural</item>
+        <item>Dhira</item>
+        <item>Jaisinghpur</item>
+        <item>Palampur</item>
+        <item>Palampur (M Cl)</item>
+        <item>Baijnath</item>
+        <item>Multhan</item>
+    </string-array>
+
+
+
+    <string-array name="Kinnaur">
+        <item>Kinnaur</item>
+        <item>Hangrang</item>
+        <item>Poo</item>
+        <item>Morang</item>
+        <item>Kalpa</item>
+        <item>Nichar</item>
+        <item>Sangla</item>
+    </string-array>
+
+
+    <string-array name="Kullu">
+        <item>Kullu</item>
+        <item>Manali</item>
+        <item>Manali (M Cl)</item>
+        <item>Kullu</item>
+        <item>Kullu (M Cl)</item>
+        <item>Bhuntar (NP)</item>
+        <item>Sainj</item>
+        <item>Banjar</item>
+        <item>Banjar (NP)</item>
+        <item>Ani</item>
+        <item>Nermand</item>
+    </string-array>
+
+
+
+    <string-array name="Lahul_and_Spiti">
+        <item>Lahul and Spiti</item>
+        <item>Udaipur</item>
+        <item>Lahul</item>
+        <item>Spiti</item>
+    </string-array>
+
+
+
+    <string-array name="Mandi">
+        <item>Mandi</item>
+        <item>Padhar</item>
+        <item>Jogindarnagar</item>
+        <item>Jogindarnagar (NP)</item>
+        <item>Lad Bharol</item>
+        <item>Sandhol</item>
+        <item>Dharmpur</item>
+        <item>Kotli</item>
+        <item>Sarkaghat</item>
+        <item>Sarkaghat (NP)</item>
+        <item>Bhadrota</item>
+        <item>Baldwara</item>
+        <item>Sundarnagar</item>
+        <item>Sundarnagar (M Cl)</item>
+        <item>Mandi</item>
+        <item>Mandi (M Cl)</item>
+        <item>Rawalsar (NP)</item>
+        <item>Aut</item>
+        <item>Bali Chowki</item>
+        <item>Thunag</item>
+        <item>Chachyot</item>
+        <item>Nihri</item>
+        <item>Karsog</item>
+    </string-array>
+
+
+
+    <string-array name="Shimla">
+        <item>Shimla</item>
+        <item>Rampur</item>
+        <item>Rampur (M Cl)</item>
+        <item>Nankhari</item>
+        <item>Kumharsain</item>
+        <item>Narkanda (NP)</item>
+        <item>Seoni</item>
+        <item>Seoni (NP)</item>
+        <item>Shimla ( Rural )</item>
+        <item>Jutogh (CB)</item>
+        <item>Shimla (urban)</item>
+        <item>Shimla (M Corp.)</item>
+        <item>Junga</item>
+        <item>Theog</item>
+        <item>Theog (M Cl)</item>
+        <item>Chaupal</item>
+        <item>Chaupal (NP)</item>
+        <item>Cheta</item>
+        <item>Nerua</item>
+        <item>Jubbal</item>
+        <item>Jubbal (NP)</item>
+        <item>Kotkhai</item>
+        <item>Kotkhai (NP)</item>
+        <item>Tikar</item>
+        <item>Rohru</item>
+        <item>Rohru (M Cl)</item>
+        <item>Chirgaon</item>
+        <item>Dodra Kwar</item>
+    </string-array>
+
+
+
+    <string-array name="Sirmaur">
+        <item>Sirmaur</item>
+        <item>Rajgarh</item>
+        <item>Rajgarh (NP)</item>
+        <item>Nohra</item>
+        <item>Pachhad</item>
+        <item>Renuka</item>
+        <item>Dadahu</item>
+        <item>Nahan</item>
+        <item>Nahan (M Cl)</item>
+        <item>Paonta Sahib</item>
+        <item>Paonta Sahib (M Cl)</item>
+        <item>Kamrau</item>
+        <item>Shalai</item>
+        <item>Ronhat</item>
+    </string-array>
+
+
+
+    <string-array name="Solan">
+        <item>Solan</item>
+        <item>Arki</item>
+        <item>Arki (NP)</item>
+        <item>Darlaghat</item>
+        <item>Ramshahr</item>
+        <item>Nalagarh</item>
+        <item>Nalagarh (M Cl)</item>
+        <item>Baddi</item>
+        <item>Baddi (M Cl + OG)</item>
+        <item>Baddi (M Cl)</item>
+        <item>Krishangarh</item>
+        <item>Kasauli</item>
+        <item>Kasauli (CB)</item>
+        <item>Parwanoo (M Cl)</item>
+        <item>Solan</item>
+        <item>Dagshai (CB)</item>
+        <item>Solan (M Cl)</item>
+        <item>Sabathu (CB)</item>
+        <item>Kandaghat</item>
+    </string-array>
+
+
+
+    <string-array name="Una">
+        <item>Una</item>
+        <item>Bharwain</item>
+        <item>Amb</item>
+        <item>Daulatpur (NP)</item>
+        <item>Gagret (NP)</item>
+        <item>Bangana</item>
+        <item>Una</item>
+        <item>Una (M Cl)</item>
+        <item>Mehatpur Basdehra (NP)</item>
+        <item>Santokhgarh (NP)</item>
+        <item>Haroli</item>
+    </string-array>
+</resources>

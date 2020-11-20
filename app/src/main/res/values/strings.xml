@@ -1,0 +1,129 @@
+<resources>
+    <!--Application data String files*****************************************************-->
+    <string name="app_name">Quick Service</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_username">Username</string>
+    <string name="nav_header_email">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="personal_details_name">Registration</string>
+    <!--******************************************************************************-->
+
+    <!--Navigation Drawer data String files*****************************************************-->
+    <string name="menu_edit_details">Edit Details</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_home">Home</string>
+    <!--******************************************************************************-->
+
+    <!--CardView Personal data String files*****************************************************-->
+    <string name="fullname">Full Name : </string>
+    <string name="occupation"> Occupation : </string>
+    <string name="email">Email Id :</string>
+    <string name="address">Address :</string>
+    <string name="mobile_name">Mobile Number :</string>
+    <string name="work_details">Work Details :</string>
+    <string name="person_pay">Minimum Pay in Rupee :</string>
+    <!--******************************************************************************-->
+
+    <!--Login Page String files*****************************************************-->
+    <string name="get_otp">Get OTP</string>
+    <string name="hint_mobile_number">Enter Mobile Number</string>
+    <string name="otp_hint">Enter OTP</string>
+    <string name="ok">OK</string>
+    <string name="Next">Next</string>
+    <!--******************************************************************************-->
+
+    <!--Personal data String files*****************************************************-->
+    <string name="pfullname">Enter Full Name</string>
+    <string name="paddress">Enter Address</string>
+    <string name="pcountry">Enter Country</string>
+    <string name="select_city">Select City</string>
+    <string name="select_state">Select State</string>
+    <string name="select_occupation">SELECT OCCUPATION</string>
+    <string name="pstate">Enter State</string>
+    <string name="pdistrict">Enter District</string>
+    <string name="pcity">Enter City</string>
+    <string name="ppincode">Enter Pincode</string>
+    <string name="poccupation">enter Occupation</string>
+    <string name="ppay">enter Pay in Rupee</string>
+    <string name="pmobile_number">Enter Mobile Number</string>
+    <string name="pwork_details">Enter Work Details</string>
+    <string name="country">India</string>
+    <string name="pemail">Enter Email Id</string>
+    <string name="wecome">Welcome</string>
+    <string name="newcontry">Country</string>
+    <string name="state">State</string>
+    <string name="district">District</string>
+    <string name="city">City</string>
+    <string name="pincode">Pincode</string>>
+    <!--******************************************************************************-->
+
+    <string name="search_query">Enter Address or pincode to search</string>
+    <!--Contact Us String files*****************************************************-->
+    <string name="contact_us">Contact Us</string>
+    <string name="contact_data">Company Name :- Repairs Management
+    \n\n
+    If you have any query you can reach out to us on this email Id:-\n\n
+
+    Email id : repairsmanagements@gmail.com
+    \n
+    You can also follow us on these platforms:-
+    \n
+    </string>
+    <string name="contact_email">repairsmanagements@gmail.com</string>
+    <string name="contact_vision">This is, perhaps, the most common application of computer vision.
+        Until now the detection of defects is carried out by trained people in selected batches,
+        and total production control is usually not possible. With computer vision we can detect
+        defects such as cracks in metals, paint defects, bad prints etc. in sizes smaller than 0.05mm.
+        Much better than the human eye! These vision cameras need an algorithm that is the “intelligent brain”
+        which is able to differentiate what is a defect and what is not. This algorithm is designed and trained
+        specifically for each particular application through images with defect and without defect.</string>
+    <string name="vision">Vision</string>
+    <string name="mission">Mission</string>
+    <string name="contact_mission">To serve as a leader by encouraging innovation and forward-thinking
+        so that my employees can create technology that will improve the lives of those in developing countries.</string>
+    <string name="select_location">Select Location</string>
+    <string name="search">Search</string>
+    <string name="worker">I am a Worker</string>
+    <string name="user">I am a User</string>
+    <string name="register_login">Register/Login</string>
+    <string name="back">Back</string>
+    <string name="welcome">Welcome</string>
+
+    <!--******************************************************************************-->
+
+    <string name="help_text1">if you choose &quot;I am a worker&quot; then you will have to provide your occupation and work details
+        "so that the people who need your Service, can reach easly to you either by mobile number or other means like email"
+        "id or address with the help of this Application."</string>
+    <string name="help_text2">if you choose &quot;I am a User&quot; then you need not to provide any details and you can
+        directly search the person by clicking on "select Location" button.</string>
+    <string name="help_text3">when you click on Select Location button then drop down will open and you need to
+        provide below details to search the person.</string>
+    <string name="help_text4">"1. Occupation"
+"when you click on this drop-down then you will have to select one occupation based on your requirement."
+\n\n
+when you click on these below drop-downs then you will have to select State,Destrict and City where you need a Service.
+2. States
+3. Destrict
+4. City
+\n\n
+After following steps stated above you will get all the details of workers who belongs to your area.
+    </string>
+    <string name="help_text5">
+
+    </string>
+    <string name="help_text6">
+
+if you get number of Worker&amp;s detail in your area then you can filter out Details using Search field by providing address( e.g Village name,area name or landmark) or Pincode related to your area.
+    </string>
+    <string name="help_text7">
+if no workers are available in your area you will get popup message as "records are not available".
+</string>
+    <!--Contact Us String files*****************************************************-->
+
+
+</resources>

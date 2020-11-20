@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="MANIPUR1">
+        <item>MANIPUR</item>
+        <item>Nambol (MCI)</item>
+        <item>Lilong (Thoubal) (NP)</item>
+        <item>Imphal (MCI + OG)</item>
+        <item>Samurou (NP)</item>
+    </string-array>
+    <string-array name="Bishnupur">
+        <item>Bishnupur</item>
+        <item>Nambol</item>
+        <item>Nambol (MCI) (Major part)</item>
+        <item>Oinam (NP)</item>
+        <item>Bishnupur</item>
+        <item>Bishnupur (MCI)</item>
+        <item>Ningthoukhong (NP)</item>
+        <item>Moirang</item>
+        <item>Moirang (MCI)</item>
+        <item>Kwakta (NP)</item>
+        <item>Kumbi (NP)</item>
+    </string-array>
+    <string-array name="Chandel">
+        <item>Chandel</item>
+        <item>Machi</item>
+        <item>Tengnoupal</item>
+        <item>Moreh (ST)</item>
+        <item>Chandel</item>
+        <item>Chakpikarong</item>
+    </string-array>
+    <string-array name="Churachandpur">
+        <item>Churachandpur</item>
+        <item>Tipaimukh</item>
+        <item>Thanlon</item>
+        <item>Churachandpur North</item>
+        <item>Churachandpur</item>
+        <item>Singngat</item>
+    </string-array>
+    <string-array name="Imphal_East">
+        <item>Imphal East</item>
+        <item>Jiribam</item>
+        <item>Jiribam (M Cl)</item>
+        <item>Sawombung</item>
+        <item>Lamlai (NP)</item>
+        <item>Porompat</item>
+        <item>Imphal (MCI + OG) ( Minor part)</item>
+        <item>Imphal (MCI) ( Minor part)</item>
+        <item>Keirao Bitra</item>
+        <item>Lilong (Thoubal) (NP) ( Minor part)</item>
+        <item>Andro (NP)</item>
+    </string-array>
+    <string-array name="Imphal_West">
+        <item>Imphal West</item>
+        <item>Lamshang</item>
+        <item>Lamsang (NP)</item>
+        <item>Sekmai Bazar (NP)</item>
+        <item>Patsoi</item>
+        <item>Nambol (MCI) (Minor part)</item>
+        <item>Lamphelpat</item>
+        <item>Imphal (MCI + OG) (Major part)</item>
+        <item>Imphal (MCI) (Major part)</item>
+        <item>Wangoi</item>
+        <item>Samurou NP (Major part)</item>
+        <item>Mayang Imphal (NP)</item>
+        <item>Thongkhong Laxmi Bazar (NP)</item>
+        <item>Wangoi (NP)</item>
+        <item>Lilong (Imphal West) (NP + OG)</item>
+        <item>Lilong (Imphal West) (NP)</item>
+    </string-array>
+
+    <string-array name="Senapati">
+        <item>Senapati</item>
+        <item>Mao-Maram</item>
+        <item>Paomata</item>
+        <item>Purul</item>
+        <item>Sadar Hills West</item>
+        <item>Saitu-Gamphazol</item>
+        <item>Sadar Hills East</item>
+    </string-array>
+
+    <string-array name="Tamenglong">
+        <item>Tamenglong</item>
+        <item>Tamenglong West</item>
+        <item>Tamenglong North</item>
+        <item>Tamenglong</item>
+        <item>Nungba</item>
+    </string-array>
+    <string-array name="Thoubal">
+        <item>Thoubal</item>
+        <item>Lilong</item>
+        <item>Lilong (Thoubal) (NP) (Major part)</item>
+        <item>Samurou (NP) (Minor part)</item>
+        <item>Thoubal</item>
+        <item>Heirok (NP)</item>
+        <item>Wangjing (NP)</item>
+        <item>Thoubal (MCI)</item>
+        <item>Sikhong Sekmai (NP)</item>
+        <item>Yairipok (NP)</item>
+        <item>Kakching</item>
+        <item>Sugnu (NP)</item>
+        <item>Kakching Khunou (NP)</item>
+        <item>Kakching (M Cl)</item>
+    </string-array>
+    <string-array name="Ukhrul">
+        <item>Ukhrul</item>
+        <item>Ukhrul North</item>
+        <item>Ukhurl Central</item>
+        <item>Kamjong-Chassad</item>
+        <item>Phungyar-Phaisat</item>
+        <item>Ukhrul South</item>
+    </string-array>
+</resources>

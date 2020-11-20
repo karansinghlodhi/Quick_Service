@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/account_balance_24px"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_edit_details"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="@string/menu_edit_details" />
+
+        <item
+            android:id="@+id/nav_login_details"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="@string/register_login" />
+
+
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@android:drawable/sym_action_email"
+            android:title="@string/menu_contact_us" />
+
+    </group>
+</menu>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="North_Goa">
+        <item>North Goa</item>
+        <item>Pernem</item>
+        <item>Pernem (M Cl)</item>
+        <item>Bardez</item>
+        <item>Mapusa (M Cl)</item>
+        <item>Tiswadi</item>
+        <item>Panaji (M Cl + OG)</item>
+        <item>Panaji (M Cl)</item>
+        <item>Bicholim</item>
+        <item>Bicholim (M Cl)</item>
+        <item>Sanquelim (M Cl)</item>
+        <item>Satari</item>
+        <item>Valpoi (M Cl)</item>
+        <item>Ponda</item>
+        <item>Ponda (M Cl)</item>
+    </string-array>
+    <string-array name="South_Goa">
+        <item>South Goa</item>
+        <item>Mormugao</item>
+        <item>Mormugao (M Cl)</item>
+        <item>Salcete</item>
+        <item>Margao (M Cl)</item>
+        <item>Cuncolim (M Cl)</item>
+        <item>Quepem</item>
+        <item>Quepem (M Cl)</item>
+        <item>Curchorem-Cacora (M Cl)</item>
+        <item>Sanguem</item>
+        <item>Sanguem (M Cl)</item>
+        <item>Canacona</item>
+        <item>Canacona (M Cl)</item>
+    </string-array>
+</resources>

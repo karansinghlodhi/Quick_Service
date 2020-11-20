@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Almora">
+        <item>Almora</item>
+        <item>Bhikiasain</item>
+        <item>Chaukhutiya</item>
+        <item>Sult</item>
+        <item>Ranikhet</item>
+        <item>Ranikhet (CB)</item>
+        <item>Dwarahat</item>
+        <item>Dwarahat (NP)</item>
+        <item>Almora</item>
+        <item>Almora (CB)</item>
+        <item>Almora (NPP)</item>
+        <item>Someshwar</item>
+        <item>Jainti</item>
+        <item>Bhanoli</item>
+    </string-array>
+
+
+
+    <string-array name="Bageshwar">
+        <item>Bageshwar</item>
+        <item>Kapkot</item>
+        <item>Kanda</item>
+        <item>Bageshwar</item>
+        <item>Bageshwar (NPP)</item>
+        <item>Garud</item>
+    </string-array>
+
+
+
+    <string-array name="Chamoli">
+        <item>Chamoli</item>
+        <item>Joshimath</item>
+        <item>Badrinathpuri (NP)</item>
+        <item>Joshimath (MB)</item>
+        <item>Chamoli</item>
+        <item>Chamoli Gopeshwar (NPP)</item>
+        <item>Nandprayag (NP)</item>
+        <item>Pokhari</item>
+        <item>Karnaprayag</item>
+        <item>Gochar (NP)</item>
+        <item>Karnaprayag (NP)</item>
+        <item>Tharali</item>
+        <item>Gairsain</item>
+    </string-array>
+
+
+
+    <string-array name="Champawat">
+        <item>Champawat</item>
+        <item>Champawat</item>
+        <item>Champawat (NP)</item>
+        <item>Pati</item>
+        <item>Lohaghat</item>
+        <item>Lohaghat (NP)</item>
+        <item>Poornagiri</item>
+        <item>Tanakpur (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Dehradun">
+        <item>Dehradun</item>
+        <item>Chakrata</item>
+        <item>Chakrata (CB)</item>
+        <item>Tyuni</item>
+        <item>Kalsi</item>
+        <item>Vikas Nagar</item>
+        <item>Vikasnagar (NPP)</item>
+        <item>Herbertpur (NP)</item>
+        <item>Dehradun</item>
+        <item>Mussoorie (NPP)</item>
+        <item>Landaur (CB)</item>
+        <item>Dehradun (M.Corp + OG)</item>
+        <item>Dehradun (M.Corp)</item>
+        <item>Dehradun (CB)</item>
+        <item>Clement Town (CB)</item>
+        <item>Doiwala (NP)</item>
+        <item>Rishikesh</item>
+        <item>Rishikesh (NPP)</item>
+        <item>Virbhadra IDPL (ITS)</item>
+    </string-array>
+
+
+
+    <string-array name="Garhwal">
+        <item>Garhwal</item>
+        <item>Srinagar</item>
+        <item>Srinagar (NPP)</item>
+        <item>Pauri</item>
+        <item>Devaprayag (NP) (Part)</item>
+        <item>Pauri (NPP)</item>
+        <item>Thailisain</item>
+        <item>Dhoomakot</item>
+        <item>Lansdowne</item>
+        <item>Lansdowne (CB)</item>
+        <item>Satpuli</item>
+        <item>Chaubatta Khal</item>
+        <item>Kotdwara</item>
+        <item>Dogadda (NPP)</item>
+        <item>Kotdwara (NPP + OG)</item>
+        <item>Kotdwara (NPP)</item>
+        <item>Yamkeshwar</item>
+    </string-array>
+
+
+
+    <string-array name="Hardwar">
+        <item>Hardwar</item>
+        <item>Roorkee</item>
+        <item>Roorkee (NPP)</item>
+        <item>Roorkee (CB)</item>
+        <item>Jhabrera (NP)</item>
+        <item>Manglaur (NPP)</item>
+        <item>Landhaura (NP)</item>
+        <item>Hardwar</item>
+        <item>Bharat Heavy Electricals Limited Ranipur (ITS)</item>
+        <item>Hardwar (NPP + OG)</item>
+        <item>Hardwar (NPP)</item>
+        <item>Laksar</item>
+        <item>Laksar (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Nainital">
+        <item>Nainital</item>
+        <item>Kosya Kutauli</item>
+        <item>Betalghat</item>
+        <item>Nainital</item>
+        <item>Nainital (NPP)</item>
+        <item>Nainital (CB)</item>
+        <item>Bhowali (NPP)</item>
+        <item>Bhimtal (NP)</item>
+        <item>Dhari</item>
+        <item>Haldwani</item>
+        <item>Haldwani-cum-Kathgodam (NPP + OG)</item>
+        <item>Haldwani-cum-Kathgodam (NPP)</item>
+        <item>Ramnagar</item>
+        <item>Ramnagar (NPP)</item>
+        <item>Kaladhungi</item>
+        <item>Kaladhungi (NP)</item>
+        <item>Lalkuan</item>
+        <item>Lalkuan (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Pithoragarh">
+        <item>Pithoragarh</item>
+        <item>Munsiari</item>
+        <item>Dharchula</item>
+        <item>Dharchula (NP)</item>
+        <item>Didihat</item>
+        <item>Didihat (NP)</item>
+        <item>Berinag</item>
+        <item>Gangolihat</item>
+        <item>Pithoragarh</item>
+        <item>Pithoragarh (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Rudraprayag">
+        <item>Rudraprayag</item>
+        <item>Ukhimath</item>
+        <item>Kedarnath (NP)</item>
+        <item>Rudraprayag</item>
+        <item>Rudraprayag (NPP)</item>
+        <item>Jakholi*</item>
+    </string-array>
+
+
+
+    <string-array name="Tehri_Garhwal">
+        <item>Tehri Garhwal</item>
+        <item>Ghansali</item>
+        <item>Devprayag</item>
+        <item>Kirtinagar (NP)</item>
+        <item>Devaprayag (NP) (Part)</item>
+        <item>Pratapnagar</item>
+        <item>Jakhani Dhar</item>
+        <item>Tehri</item>
+        <item>Tehri (MB)</item>
+        <item>Chamba (NP)</item>
+        <item>Dhanaulti</item>
+        <item>Narendra Nagar</item>
+        <item>Narendranagar (NPP)</item>
+        <item>Muni Ki Reti (NP)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Udham_Singh_Nagar">
+        <item>Udham Singh Nagar</item>
+        <item>Kashipur</item>
+        <item>Kashipur (NPP)</item>
+        <item>Mahua Kheraganj (NP)</item>
+        <item>Jaspur</item>
+        <item>Mahua Dabra Haripura (NP)</item>
+        <item>Jaspur (NPP)</item>
+        <item>Bajpur</item>
+        <item>Sultanpur (NP)</item>
+        <item>Bazpur (NPP)</item>
+        <item>Kela Khera (NP)</item>
+        <item>Kichha</item>
+        <item>Rudrapur (NPP + OG)</item>
+        <item>Rudrapur (NPP)</item>
+        <item>Kichha (NPP)</item>
+        <item>Gadarpur</item>
+        <item>Gadarpur (NPP)</item>
+        <item>Dineshpur (NP)</item>
+        <item>Sitarganj</item>
+        <item>Shaktigarh (NP)</item>
+        <item>Sitarganj (NPP)</item>
+        <item>Khatima</item>
+        <item>Khatima (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Uttarkashi">
+        <item>Uttarkashi</item>
+        <item>Puraula</item>
+        <item>Mori</item>
+        <item>Rajgarhi</item>
+        <item>Barkot (NP)</item>
+        <item>Dunda</item>
+        <item>Chinyali Saur</item>
+        <item>Bhatwari</item>
+        <item>Uttarkashi (NPP)</item>
+        <item>Gangotri (NP)</item>
+    </string-array>
+
+
+
+
+</resources>

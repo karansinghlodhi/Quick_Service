@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Bankura">
+        <item>Bankura</item>
+        <item>Saltora</item>
+        <item>Mejhia</item>
+        <item>Gangajalghati</item>
+        <item>Chhatna</item>
+        <item>Indpur</item>
+        <item>Bankura - I</item>
+        <item>Bankura - II</item>
+        <item>Barjora</item>
+        <item>Sonamukhi</item>
+        <item>Patrasayer</item>
+        <item>Indus</item>
+        <item>Kotulpur</item>
+        <item>Jaypur</item>
+        <item>Vishnupur</item>
+        <item>Onda</item>
+        <item>Taldangra</item>
+        <item>Simlapal</item>
+        <item>Khatra</item>
+        <item>Hirbandh</item>
+        <item>Ranibundh</item>
+        <item>Raipur</item>
+        <item>Sarenga</item>
+        <item>Bankura (M)</item>
+        <item>Sonamukhi (M)</item>
+        <item>Bishnupur (M)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Barddhaman">
+        <item>Barddhaman</item>
+        <item>Salanpur</item>
+        <item>Barabani</item>
+        <item>Jamuria</item>
+        <item>Raniganj</item>
+        <item>Ondal</item>
+        <item>Pandabeswar</item>
+        <item>Faridpur Durgapur</item>
+        <item>Kanksa</item>
+        <item>Ausgram - II</item>
+        <item>Ausgram - I</item>
+        <item>Mangolkote</item>
+        <item>Ketugram - I</item>
+        <item>Ketugram - II</item>
+        <item>Katwa - I</item>
+        <item>Katwa - II</item>
+        <item>Purbasthali - I</item>
+        <item>Purbasthali - II</item>
+        <item>Manteswar</item>
+        <item>Bhatar</item>
+        <item>Galsi - I</item>
+        <item>Galsi - II</item>
+        <item>Burdwan - I</item>
+        <item>Burdwan - II</item>
+        <item>Memari - I</item>
+        <item>Memari - II</item>
+        <item>Kalna - I</item>
+        <item>Kalna - II</item>
+        <item>Jamalpur</item>
+        <item>Raina - I</item>
+        <item>Khandaghosh</item>
+        <item>Raina - II</item>
+        <item>Kulti (M)</item>
+        <item>Asansol (M Corp.)</item>
+        <item>Jamuria (M + OG)</item>
+        <item>Jamuria (M)</item>
+        <item>Raniganj (M)</item>
+        <item>Durgapur (M Corp.)</item>
+        <item>Katwa (M)</item>
+        <item>Dainhat (M)</item>
+        <item>Guskara (M)</item>
+        <item>Barddhaman (M)</item>
+        <item>Kalna (M)</item>
+        <item>Memari (M)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Birbhum">
+        <item>Birbhum</item>
+        <item>Murarai - I</item>
+        <item>Murarai - II</item>
+        <item>Nalhati - I</item>
+        <item>Nalhati - II</item>
+        <item>Rampurhat - I</item>
+        <item>Rampurhat - II</item>
+        <item>Mayureswar - I</item>
+        <item>Mayureswar - II</item>
+        <item>Mohammad Bazar</item>
+        <item>Rajnagar</item>
+        <item>Suri - I</item>
+        <item>Suri - II</item>
+        <item>Sainthia</item>
+        <item>Labpur</item>
+        <item>Nanoor</item>
+        <item>Bolpur Sriniketan</item>
+        <item>Illambazar</item>
+        <item>Dubrajpur</item>
+        <item>Khoyrasol</item>
+        <item>Nalhati (M)</item>
+        <item>Rampurhat (M)</item>
+        <item>Suri (M)</item>
+        <item>Sainthia (M)</item>
+        <item>Dubrajpur (M)</item>
+        <item>Bolpur (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Dakshin_Dinajpur">
+        <item>Dakshin Dinajpur</item>
+        <item>Kushmundi</item>
+        <item>Gangarampur</item>
+        <item>Kumarganj</item>
+        <item>Hilli</item>
+        <item>Balurghat</item>
+        <item>Tapan</item>
+        <item>Bansihari</item>
+        <item>Harirampur</item>
+        <item>Gangarampur (M)</item>
+        <item>Balurghat (M + OG)</item>
+        <item>Balurghat (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Darjiling">
+        <item>Darjiling</item>
+        <item>Darjeeling Pulbazar</item>
+        <item>Rangli Rangliot</item>
+        <item>Kalimpong -I</item>
+        <item>Kalimpong - II</item>
+        <item>Gorubathan</item>
+        <item>Jorebunglow Sukiapokhri</item>
+        <item>Mirik</item>
+        <item>Kurseong</item>
+        <item>Matigara</item>
+        <item>Naxalbari</item>
+        <item>Phansidewa</item>
+        <item>Kharibari</item>
+        <item>Darjiling (M)</item>
+        <item>Kalimpong (M)</item>
+        <item>Mirik (NA)</item>
+        <item>Kurseong (M)</item>
+        <item>Siliguri (M Corp.) (Part)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Haora">
+        <item>Haora</item>
+        <item>Udaynarayanpur</item>
+        <item>Amta - II</item>
+        <item>Amta - I</item>
+        <item>Jagatballavpur</item>
+        <item>Domjur</item>
+        <item>Bally Jagachha</item>
+        <item>Sankrail</item>
+        <item>Panchla</item>
+        <item>Uluberia - II</item>
+        <item>Uluberia - I</item>
+        <item>Bagnan - I</item>
+        <item>Bagnan - II</item>
+        <item>Shyampur - I</item>
+        <item>Shyampur - II</item>
+        <item>Bally (M)</item>
+        <item>Haora (M Corp)</item>
+        <item>Uluberia (M + OG)</item>
+        <item>Uluberia (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Hugli">
+        <item>Hugli</item>
+        <item>Goghat - I</item>
+        <item>Goghat - II</item>
+        <item>Arambag</item>
+        <item>Pursura</item>
+        <item>Tarakeswar</item>
+        <item>Dhaniakhali</item>
+        <item>Pandua</item>
+        <item>Balagarh</item>
+        <item>Chinsurah - Magra</item>
+        <item>Polba - Dadpur</item>
+        <item>Haripal</item>
+        <item>Singur</item>
+        <item>Serampur Uttarpara</item>
+        <item>Chanditala - I</item>
+        <item>Chanditala - II</item>
+        <item>Jangipara</item>
+        <item>Khanakul - I</item>
+        <item>Khanakul - II</item>
+        <item>Bansberia (M)</item>
+        <item>Hugli-Chinsurah (M + OG)</item>
+        <item>Hugli-Chinsurah (M)</item>
+        <item>Chandannagar (M Corp)</item>
+        <item>Tarakeswar (M)</item>
+        <item>Arambag (M)</item>
+        <item>Bhadreswar (M)</item>
+        <item>Champdani (M)</item>
+        <item>Baidyabati (M)</item>
+        <item>Serampore (M)</item>
+        <item>Rishra (M)</item>
+        <item>Konnagar (M)</item>
+        <item>Dankuni (M)</item>
+        <item>Uttarpara Kotrung (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Jalpaiguri">
+        <item>Jalpaiguri</item>
+        <item>Rajganj</item>
+        <item>Mal</item>
+        <item>Matiali</item>
+        <item>Nagrakata</item>
+        <item>Madarihat</item>
+        <item>Kalchini</item>
+        <item>Kumargram</item>
+        <item>Alipurduar - I</item>
+        <item>Alipurduar - II</item>
+        <item>Falakata</item>
+        <item>Dhupguri</item>
+        <item>Maynaguri</item>
+        <item>Jalpaiguri</item>
+        <item>Siliguri (M Corp.) (Part)</item>
+        <item>Mal (M)</item>
+        <item>Jalpaiguri (M)</item>
+        <item>Dhupguri (M)</item>
+        <item>Alipurduar (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Koch_Bihar">
+        <item>Koch Bihar</item>
+        <item>Haldibari</item>
+        <item>Mekliganj</item>
+        <item>Mathabhanga - I</item>
+        <item>Mathabhanga - II</item>
+        <item>Cooch Behar - I</item>
+        <item>Cooch Behar - II</item>
+        <item>Tufanganj - I</item>
+        <item>Tufanganj - II</item>
+        <item>Dinhata - I</item>
+        <item>Dinhata - II</item>
+        <item>Sitai</item>
+        <item>Sitalkuchi</item>
+        <item>Haldibari (M)</item>
+        <item>Mekliganj (M)</item>
+        <item>Mathabhanga (M)</item>
+        <item>Koch Bihar (M)</item>
+        <item>Tufanganj (M)</item>
+        <item>Dinhata (M)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Kolkata">
+        <item>Kolkata</item>
+        <item>Kolkata (M Corp.)</item>
+    </string-array>
+
+
+
+    <string-array name="Maldah">
+        <item>Maldah</item>
+        <item>Harischandrapur - I</item>
+        <item>Harischandrapur - II</item>
+        <item>Chanchal - I</item>
+        <item>Chanchal - II</item>
+        <item>Ratua - I</item>
+        <item>Ratua - II</item>
+        <item>Gazole</item>
+        <item>Bamangola</item>
+        <item>Habibpur</item>
+        <item>Maldah (Old)</item>
+        <item>English Bazar</item>
+        <item>Manikchak</item>
+        <item>Kaliachak - I</item>
+        <item>Kaliachak - II</item>
+        <item>Kaliachak - III</item>
+        <item>Old Malda (M)</item>
+        <item>EnglishÂ Bazar (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Murshidabad">
+        <item>Murshidabad</item>
+        <item>Farakka</item>
+        <item>Samserganj</item>
+        <item>Suti - I</item>
+        <item>Suti - II</item>
+        <item>Raghunathganj - I</item>
+        <item>Raghunathganj - II</item>
+        <item>Lalgola</item>
+        <item>Sagardighi</item>
+        <item>Bhagawangola - I</item>
+        <item>Bhagawangola - II</item>
+        <item>Raninagar - II</item>
+        <item>Jalangi</item>
+        <item>Domkal</item>
+        <item>Raninagar - I</item>
+        <item>Murshidabad Jiaganj</item>
+        <item>Nabagram</item>
+        <item>Khargram</item>
+        <item>Kandi</item>
+        <item>Berhampore</item>
+        <item>Hariharpara</item>
+        <item>Nawda</item>
+        <item>Beldanga - I</item>
+        <item>Beldanga - II</item>
+        <item>Bharatpur - II</item>
+        <item>Bharatpur - I</item>
+        <item>Burwan</item>
+        <item>Dhulian (M)</item>
+        <item>Jangipur (M)</item>
+        <item>Jiaganj-Azimganj (M)</item>
+        <item>Murshidabad (M)</item>
+        <item>Kandi (M)</item>
+        <item>Berhampore (M)</item>
+        <item>Beldanga (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Nadia">
+        <item>Nadia</item>
+        <item>Karimpur - I</item>
+        <item>Karimpur - II</item>
+        <item>Tehatta - I</item>
+        <item>Tehatta - II</item>
+        <item>Kaliganj</item>
+        <item>Nakashipara</item>
+        <item>Chapra</item>
+        <item>Krishnagar - II</item>
+        <item>Nabadwip</item>
+        <item>Krishnagar - I</item>
+        <item>Krishnaganj</item>
+        <item>Hanskhali</item>
+        <item>Santipur</item>
+        <item>Ranaghat - I</item>
+        <item>Ranaghat - II</item>
+        <item>Chakdah</item>
+        <item>Haringhata</item>
+        <item>Nabadwip (M)</item>
+        <item>Krishnanagar (M)</item>
+        <item>Santipur (M)</item>
+        <item>Taherpur (NA + OG)</item>
+        <item>Taherpur (NA)</item>
+        <item>Birnagar (M)</item>
+        <item>Ranaghat (M)</item>
+        <item>Cooper s Camp (NA + OG)</item>
+        <item>Cooper s Camp (NA)</item>
+        <item>Chakdaha (M)</item>
+        <item>Kalyani (M)</item>
+        <item>Gayespur (M)</item>
+    </string-array>
+
+
+
+    <string-array name="North_Twenty_Four_Parganas">
+        <item>North Twenty Four Parganas</item>
+        <item>Bagda</item>
+        <item>Bongaon</item>
+        <item>Gaighata</item>
+        <item>Swarupnagar</item>
+        <item>Habra - I</item>
+        <item>Habra - II</item>
+        <item>Amdanga</item>
+        <item>Barrackpur - I</item>
+        <item>Barrackpur - II</item>
+        <item>Barasat - I</item>
+        <item>Barasat - II</item>
+        <item>Deganga</item>
+        <item>Baduria</item>
+        <item>Basirhat - I</item>
+        <item>Basirhat - II</item>
+        <item>Haroa</item>
+        <item>Rajarhat</item>
+        <item>Minakhan</item>
+        <item>Sandeshkhali - I</item>
+        <item>Sandeshkhali - II</item>
+        <item>Hasnabad</item>
+        <item>Hingalganj</item>
+        <item>Bongaon (M)</item>
+        <item>Halisahar (M)</item>
+        <item>Kanchrapara (M + OG)</item>
+        <item>Kanchrapara (M)</item>
+        <item>Naihati (M)</item>
+        <item>Bhatpara (M + OG)</item>
+        <item>Bhatpara (M)</item>
+        <item>Gobardanga (M)</item>
+        <item>Habra (M)</item>
+        <item>Ashokenagar Kalyangarh (M)</item>
+        <item>Garulia (M)</item>
+        <item>North Barrackpore (M)</item>
+        <item>Barrackpur Cantonment (CB)</item>
+        <item>Barrackpore (M)</item>
+        <item>Titagarh (M)</item>
+        <item>Khardah (M)</item>
+        <item>Panihati (M)</item>
+        <item>Baduria (M)</item>
+        <item>Barasat (M)</item>
+        <item>Madhyamgram (M)</item>
+        <item>New Barrackpore (M)</item>
+        <item>North DumDum (M)</item>
+        <item>Kamarhati (M)</item>
+        <item>Baranagar (M)</item>
+        <item>Dum Dum (M)</item>
+        <item>South DumDum (M)</item>
+        <item>Rajarhat Gopalpur (M)</item>
+        <item>Bidhannagar (M)</item>
+        <item>Nabadiganta Industrial Township (ITS)</item>
+        <item>Basirhat (M)</item>
+        <item>Taki (M)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Paschim_Medinipur">
+        <item>Paschim Medinipur</item>
+        <item>Binpur - II</item>
+        <item>Binpur - I</item>
+        <item>Garbeta - II</item>
+        <item>Garbeta - I</item>
+        <item>Garbeta - III</item>
+        <item>Chandrakona - I</item>
+        <item>Chandrakona - II</item>
+        <item>Ghatal</item>
+        <item>Daspur - I</item>
+        <item>Daspur - II</item>
+        <item>Keshpur</item>
+        <item>Salbani</item>
+        <item>Midnapore</item>
+        <item>Jhargram</item>
+        <item>Jamboni</item>
+        <item>Gopiballavpur - II</item>
+        <item>Gopiballavpur - I</item>
+        <item>Nayagram</item>
+        <item>Sankrail</item>
+        <item>Kharagpur - I</item>
+        <item>Kharagpur - II</item>
+        <item>Debra</item>
+        <item>Pingla</item>
+        <item>Sabang</item>
+        <item>Narayangarh</item>
+        <item>Keshiary</item>
+        <item>Dantan - I</item>
+        <item>Dantan - II</item>
+        <item>Mohanpur</item>
+        <item>Ramjibanpur (M)</item>
+        <item>Kshirpai (M)</item>
+        <item>Chandrakona (M)</item>
+        <item>Kharar (M)</item>
+        <item>Ghatal (M)</item>
+        <item>Medinipur (M)</item>
+        <item>Jhargram (M)</item>
+        <item>Kharagpur (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Purba_Medinipur">
+        <item>Purba Medinipur</item>
+        <item>Panskura</item>
+        <item>Kolaghat</item>
+        <item>Tamluk</item>
+        <item>Sahid Matangini</item>
+        <item>Nanda Kumar</item>
+        <item>Mahisadal</item>
+        <item>Moyna</item>
+        <item>Potashpur - I</item>
+        <item>Potashpur - II</item>
+        <item>Bhagawanpur - II</item>
+        <item>Bhagawanpur - I</item>
+        <item>Chandipur</item>
+        <item>Sutahata</item>
+        <item>Haldia</item>
+        <item>Nandigram - I</item>
+        <item>Nandigram - II</item>
+        <item>Khejuri - I</item>
+        <item>Khejuri - II</item>
+        <item>Contai - I</item>
+        <item>Deshopran</item>
+        <item>Contai - III</item>
+        <item>Egra - I</item>
+        <item>Egra - II</item>
+        <item>Ramnagar - I</item>
+        <item>Ramnagar - II</item>
+        <item>Panskura (M)</item>
+        <item>Tamluk (M)</item>
+        <item>Haldia (M)</item>
+        <item>Egra (M)</item>
+        <item>Contai (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Puruliya">
+        <item>Puruliya</item>
+        <item>Jaipur</item>
+        <item>Purulia - II</item>
+        <item>Para</item>
+        <item>Raghunathpur - II</item>
+        <item>Raghunathpur - I</item>
+        <item>Neturia</item>
+        <item>Santuri</item>
+        <item>Kashipur</item>
+        <item>Hura</item>
+        <item>Purulia - I</item>
+        <item>Puncha</item>
+        <item>Arsha</item>
+        <item>Jhalda - I</item>
+        <item>Jhalda - II</item>
+        <item>Bagmundi</item>
+        <item>Balarampur</item>
+        <item>Barabazar</item>
+        <item>Manbazar - I</item>
+        <item>Manbazar - II</item>
+        <item>Bundwan</item>
+        <item>Jhalda (M)</item>
+        <item>Raghunathpur (M)</item>
+        <item>Puruliya (M)</item>
+    </string-array>
+
+
+
+    <string-array name="South_Twenty_Four_Parganas">
+        <item>South Twenty Four Parganas</item>
+        <item>Thakurpukur Mahestola</item>
+        <item>Budge Budge - I</item>
+        <item>Budge Budge - II</item>
+        <item>Bishnupur - I</item>
+        <item>Bishnupur - II</item>
+        <item>Sonarpur</item>
+        <item>Bhangar - I</item>
+        <item>Bhangar - II</item>
+        <item>Canning - I</item>
+        <item>Canning - II</item>
+        <item>Baruipur</item>
+        <item>Magrahat - II</item>
+        <item>Magrahat - I</item>
+        <item>Falta</item>
+        <item>Diamond Harbour - I</item>
+        <item>Diamond Harbour - II</item>
+        <item>Kulpi</item>
+        <item>Mandirbazar</item>
+        <item>Mathurapur - I</item>
+        <item>Jaynagar - I</item>
+        <item>Jaynagar - II</item>
+        <item>Kultali</item>
+        <item>Basanti</item>
+        <item>Gosaba</item>
+        <item>Mathurapur - II</item>
+        <item>Kakdwip</item>
+        <item>Sagar</item>
+        <item>Namkhana</item>
+        <item>Patharpratima</item>
+        <item>Maheshtala (M)</item>
+        <item>Budge Budge (M)</item>
+        <item>Pujali (M)</item>
+        <item>Rajpur Sonarpur (M)</item>
+        <item>Baruipur (M)</item>
+        <item>Diamond Harbour (M)</item>
+        <item>Jaynagar Mazilpur (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Uttar_Dinajpur">
+        <item>Uttar Dinajpur</item>
+        <item>Chopra</item>
+        <item>Islampur</item>
+        <item>Goalpokhar - I</item>
+        <item>Goalpokhar - II</item>
+        <item>Karandighi</item>
+        <item>Raiganj</item>
+        <item>Hemtabad</item>
+        <item>Kaliaganj</item>
+        <item>Itahar</item>
+        <item>Islampur (M)</item>
+        <item>Dalkhola (M)</item>
+        <item>Raiganj (M)</item>
+        <item>Kaliaganj (M)</item>
+    </string-array>
+
+
+
+</resources>

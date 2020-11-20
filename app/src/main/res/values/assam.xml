@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Baksa">
+        <item>Baksa</item>
+        <item>Barnagar (Pt)</item>
+        <item>Bajali (Pt)</item>
+        <item>Sarupeta (Pt)</item>
+        <item>Rangia (Pt)</item>
+        <item>Tihu (Pt)</item>
+        <item>Ghograpar (Pt)</item>
+        <item>Baganpara (Pt)</item>
+        <item>Jalah (Pt)</item>
+        <item>Goreswar (Pt)</item>
+        <item>Barama (Pt)</item>
+        <item>Baska</item>
+        <item>Tamulpur</item>
+        <item>Pathorighat (Pt)</item>
+    </string-array>
+
+
+    <string-array name="Barpeta">
+        <item>Barpeta</item>
+        <item>Barnagar (Pt)</item>
+        <item>Barpeta Road (MB)</item>
+        <item>Sarbhog (TC)</item>
+        <item>Kalgachia</item>
+        <item>Baghbor</item>
+        <item>Chenga</item>
+        <item>Barpeta</item>
+        <item>Barpeta (MB)</item>
+        <item>Howli (TC)</item>
+        <item>Sarthebari</item>
+        <item>Sarthebari (TC)</item>
+        <item>Bajali (Pt)</item>
+        <item>Pathsala (TC)</item>
+        <item>Sarupeta (Pt)</item>
+        <item>Jalah (Pt)</item>
+    </string-array>
+
+
+    <string-array name="Bongaigaon">
+        <item>Bongaigaon</item>
+        <item>Bongaigaon (Pt)</item>
+        <item>Bongaigaon (MB)</item>
+        <item>Boitamari</item>
+        <item>Srijangram</item>
+        <item>Abhayapuri (TC)</item>
+        <item>Sidli (Pt)</item>
+        <item>Bijni (Pt)</item>
+    </string-array>
+
+
+    <string-array name="Cachar">
+        <item>Cachar</item>
+        <item>Katigora</item>
+        <item>Silchar</item>
+        <item>Silchar (MB + OG)</item>
+        <item>Silchar (MB)</item>
+        <item>Udarbond</item>
+        <item>Sonai</item>
+        <item>Lakhipur</item>
+        <item>Lakhipur (MB)</item>
+    </string-array>
+
+
+    <string-array name="Chirang">
+        <item>Chirang</item>
+        <item>Kokrajhar (Pt)</item>
+        <item>Basugaon (TC)</item>
+        <item>Barnagar (Pt)</item>
+        <item>Bongaigaon (Pt)</item>
+        <item>Bengtol</item>
+        <item>Sidli (Pt)</item>
+        <item>Bijni (Pt)</item>
+        <item>Bijni (TC)</item>
+    </string-array>
+
+
+    <string-array name="Darrang">
+        <item>Darrang</item>
+        <item>Khoirabari (Pt)</item>
+        <item>Pathorighat (Pt)</item>
+        <item>Sipajhar</item>
+        <item>Mangaldoi (Pt)</item>
+        <item>Mangaldoi (MB)</item>
+        <item>Dalgaon (Pt)</item>
+        <item>Kharupatia (TC)</item>
+        <item>Kalaigaon (Pt)</item>
+    </string-array>
+
+
+    <string-array name="Dhemaji">
+        <item>Dhemaji</item>
+        <item>Dhakuakhana (Pt-I)</item>
+        <item>Subansiri (Pt-I)</item>
+        <item>Dhemaji</item>
+        <item>Dhemaji (TC)</item>
+        <item>Sissibargaon</item>
+        <item>Silapathar (TC)</item>
+        <item>Jonai</item>
+        <item>Gogamukh</item>
+    </string-array>
+
+
+    <string-array name="Dhubri">
+        <item>Dhubri</item>
+        <item>Gossaigaon (Pt)</item>
+        <item>Bagribari (Pt)</item>
+        <item>Sapatgram (TC)</item>
+        <item>Agamoni</item>
+        <item>Golokganj (Pt)</item>
+        <item>Dhubri (Pt)</item>
+        <item>Gauripur (TC)</item>
+        <item>Dhubri (MB)</item>
+        <item>Bilasipara (Pt)</item>
+        <item>Bilasipara (TC)</item>
+        <item>Chapar (Pt)</item>
+        <item>Chapar (TC)</item>
+        <item>South Salmara</item>
+        <item>Mankachar</item>
+    </string-array>
+
+
+    <string-array name="Dibrugarh">
+        <item>Dibrugarh</item>
+        <item>Dibrugarh (MB)</item>
+        <item>Dibrugarh West</item>
+        <item>Dibrugarh (MB + OG) (Part)</item>
+        <item>Dibrugarh East</item>
+        <item>Dibrugarh (MB + OG) (Part)</item>
+        <item>Chabua</item>
+        <item>Chabua (TC)</item>
+        <item>Tengakhat</item>
+        <item>Moran</item>
+        <item>Tingkhong</item>
+        <item>Naharkatiya</item>
+        <item>Naharkatiya (TC)</item>
+    </string-array>
+
+
+    <string-array name="Dima_Hasao">
+        <item>Dima Hasao</item>
+        <item>Umrangso</item>
+        <item>Umrangso (TC)</item>
+        <item>Haflong</item>
+        <item>Haflong (TC)</item>
+        <item>Mahur</item>
+        <item>Mahur (TC)</item>
+        <item>Maibong</item>
+        <item>Maibong (TC)</item>
+    </string-array>
+
+
+    <string-array name="Goalpara">
+        <item>Goalpara</item>
+        <item>Lakhipur</item>
+        <item>Lakhipur (TC)</item>
+        <item>Balijana</item>
+        <item>Goalpara (MB)</item>
+        <item>Matia</item>
+        <item>Dudhnai</item>
+        <item>Rangjuli</item>
+    </string-array>
+
+
+    <string-array name="Golaghat">
+        <item>Golaghat</item>
+        <item>Bokakhat</item>
+        <item>Bokakhat (TC)</item>
+        <item>Khumtai</item>
+        <item>Dergaon</item>
+        <item>Dergaon (MB)</item>
+        <item>Golaghat</item>
+        <item>Golaghat (MB)</item>
+        <item>Morangi</item>
+        <item>Sarupathar</item>
+        <item>Sarupathar (TC)</item>
+        <item>Barpathar (TC)</item>
+    </string-array>
+
+
+    <string-array name="Hailakandi">
+        <item>Hailakandi</item>
+        <item>Algapur</item>
+        <item>Hailakandi</item>
+        <item>Hailakandi (MB)</item>
+        <item>Lala</item>
+        <item>Lala (TC)</item>
+        <item>Katlichara</item>
+    </string-array>
+
+
+    <string-array name="Jorhat">
+        <item>Jorhat</item>
+        <item>Jorhat (MB)</item>
+        <item>Majuli</item>
+        <item>Jorhat West</item>
+        <item>Jorhat (MB + OG) (Part)</item>
+        <item>Jorhat East</item>
+        <item>Jorhat (MB + OG) (Part)</item>
+        <item>Teok</item>
+        <item>Teok (TC)</item>
+        <item>Titabor</item>
+        <item>Titabor Town (TC)</item>
+        <item>Mariani</item>
+        <item>Mariani (TC)</item>
+    </string-array>
+
+
+    <string-array name="Kamrup">
+        <item>Kamrup</item>
+        <item>Rangia (Pt)</item>
+        <item>Rangia (MB)</item>
+        <item>Koya</item>
+        <item>Kamalpur</item>
+        <item>Hajo</item>
+        <item>Chhaygaon</item>
+        <item>Goroimari</item>
+        <item>Chamaria</item>
+        <item>Nagarbera</item>
+        <item>Boko</item>
+        <item>Palasbari</item>
+        <item>Palasbari (MB)</item>
+        <item>North Guwahati (Pt)</item>
+        <item>Goreswar (Pt)</item>
+    </string-array>
+
+
+    <string-array name="Kamrup_Metropolitan">
+        <item>Kamrup Metropolitan</item>
+        <item>Guwahati (M Corp. + OG)</item>
+        <item>North Guwahati (Pt)</item>
+        <item>North Guwahati (TC)</item>
+        <item>Azara</item>
+        <item>Guwahati</item>
+        <item>Guwahati (M Corp.) (Part)</item>
+        <item>Dispur</item>
+        <item>Guwahati (M Corp. + OG) (Part)</item>
+        <item>Sonapur</item>
+        <item>Chandrapur</item>
+    </string-array>
+
+
+    <string-array name="Karbi_Anglong">
+        <item>Karbi Anglong</item>
+        <item>Donka</item>
+        <item>Hamren (TC)</item>
+        <item>Donkamokam (TC)</item>
+        <item>Diphu</item>
+        <item>Diphu (TC)</item>
+        <item>Bokajan (TC)</item>
+        <item>Phuloni</item>
+        <item>Howraghat (TC)</item>
+        <item>Dokmoka (TC)</item>
+        <item>Silonijan</item>
+    </string-array>
+
+
+    <string-array name="Karimganj">
+        <item>Karimganj</item>
+        <item>Karimganj</item>
+        <item>Karimganj (MB)</item>
+        <item>Badarpur</item>
+        <item>Badarpur (TC)</item>
+        <item>Nilambazar</item>
+        <item>Patharkandi</item>
+        <item>Ramkrishna Nagar</item>
+    </string-array>
+
+
+    <string-array name="Kokrajhar">
+        <item>Kokrajhar</item>
+        <item>Gossaigaon (Pt)</item>
+        <item>Gossaigaon (TC)</item>
+        <item>Bhowraguri</item>
+        <item>Dotoma</item>
+        <item>Kokrajhar (Pt)</item>
+        <item>Kokrajhar (MB)</item>
+        <item>Bagribari (Pt)</item>
+        <item>Golokganj (Pt)</item>
+        <item>Dhubri (Pt)</item>
+        <item>Bilasipara (Pt)</item>
+        <item>Chapar (Pt)</item>
+    </string-array>
+
+
+    <string-array name="Lakhimpur">
+        <item>Lakhimpur</item>
+        <item>Narayanpur</item>
+        <item>Narayanpur (TC)</item>
+        <item>Bihpuria</item>
+        <item>Bihpuria (TC)</item>
+        <item>Naobaicha</item>
+        <item>Kadam</item>
+        <item>North Lakhimpur</item>
+        <item>North Lakhimpur (MB)</item>
+        <item>Dhakuakhana (Pt-I)</item>
+        <item>Dhakuakhana (TC)</item>
+        <item>Subansiri (Pt-I)</item>
+    </string-array>
+
+
+    <string-array name="Morigaon">
+        <item>Morigaon</item>
+        <item>Mayong</item>
+        <item>Bhuragaon</item>
+        <item>Laharighat</item>
+        <item>Marigaon</item>
+        <item>Marigaon (MB)</item>
+        <item>Mikirbheta</item>
+    </string-array>
+
+
+    <string-array name="Nagaon">
+        <item>Nagaon</item>
+        <item>Kaliabor</item>
+        <item>Samaguri</item>
+        <item>Rupahi</item>
+        <item>Dhing</item>
+        <item>Dhing (TC)</item>
+        <item>Nagaon</item>
+        <item>Nagaon (MB + OG)</item>
+        <item>Nagaon (MB)</item>
+        <item>Raha</item>
+        <item>Raha (TC)</item>
+        <item>Kampur</item>
+        <item>Kampur Town (TC)</item>
+        <item>Hojai</item>
+        <item>Hojai (MB)</item>
+        <item>Doboka</item>
+        <item>Doboka (TC)</item>
+        <item>Lanka</item>
+        <item>Lumding (MB)</item>
+        <item>Lanka (MB)</item>
+    </string-array>
+
+
+    <string-array name="Nalbari">
+        <item>Nalbari</item>
+        <item>Tihu (Pt)</item>
+        <item>Tihu (TC)</item>
+        <item>Pachim Nalbari</item>
+        <item>Barkhetri</item>
+        <item>Barbhag</item>
+        <item>Nalbari</item>
+        <item>Nalbari (MB)</item>
+        <item>Banekuchi</item>
+        <item>Ghograpar (Pt)</item>
+        <item>Baganpara (Pt)</item>
+        <item>Barama (Pt)</item>
+    </string-array>
+
+
+    <string-array name="Sivasagar">
+        <item>Sivasagar</item>
+        <item>Dimow</item>
+        <item>Sibsagar</item>
+        <item>Sibsagar (MB)</item>
+        <item>Amguri</item>
+        <item>Amguri (MB)</item>
+        <item>Nazira</item>
+        <item>Nazira (MB)</item>
+        <item>Simaluguri (TC)</item>
+        <item>Sonari</item>
+        <item>Sonari (MB)</item>
+        <item>Mahmora</item>
+        <item>Moranhat (TC)</item>
+    </string-array>
+
+
+    <string-array name="Sonitpur">
+        <item>Sonitpur</item>
+        <item>Gohpur (TC)</item>
+        <item>Dhekiajuli (Pt)</item>
+        <item>Dhekiajuli (MB)</item>
+        <item>Chariduar</item>
+        <item>Rangapara (TC)</item>
+        <item>Tezpur</item>
+        <item>Tezpur (MB + OG)</item>
+        <item>Tezpur (MB)</item>
+        <item>Na-Duar</item>
+        <item>Biswanath</item>
+        <item>Biswanath Chariali (TC)</item>
+        <item>Helem</item>
+        <item>Gohpur (TC) (Part)</item>
+        <item>Gohpur</item>
+        <item>Gohpur (TC) (Part)</item>
+    </string-array>
+
+
+    <string-array name="Tinsukia">
+        <item>Tinsukia</item>
+        <item>Sadiya</item>
+        <item>Doom Dooma</item>
+        <item>Doom Dooma (TC)</item>
+        <item>Makum (TC)</item>
+        <item>Tinsukia</item>
+        <item>Tinsukia (MB + OG)</item>
+        <item>Tinsukia (MB)</item>
+        <item>Margherita</item>
+        <item>Digboi (TC)</item>
+        <item>Margherita (TC)</item>
+    </string-array>
+
+
+
+    <string-array name="Udalguri">
+        <item>Udalguri</item>
+        <item>Dhekiajuli (Pt)</item>
+        <item>Khoirabari (Pt)</item>
+        <item>Pathorighat (Pt)</item>
+        <item>Mangaldoi (Pt)</item>
+        <item>Dalgaon (Pt)</item>
+        <item>Kalaigaon (Pt)</item>
+        <item>Harisinga</item>
+        <item>Tangla (TC)</item>
+        <item>Udalguri</item>
+        <item>Udalguri (TC)</item>
+        <item>Mazbat</item>
+    </string-array>
+
+</resources>

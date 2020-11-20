@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Dhalai">
+        <item>Dhalai</item>
+        <item>Salema</item>
+        <item>Manu</item>
+        <item>Ambassa</item>
+        <item>Chhamanu</item>
+        <item>Dumburnagar</item>
+        <item>Kamalpur (NP)</item>
+        <item>Ambassa (NP)</item>
+    </string-array>
+
+
+    <string-array name="North_Tripura">
+        <item>North Tripura</item>
+        <item>Gournagar</item>
+        <item>Kadamtala</item>
+        <item>Panisagar</item>
+        <item>Damchhara</item>
+        <item>Pencharthal</item>
+        <item>Kumarghat</item>
+        <item>Dasda</item>
+        <item>Jampuii hills</item>
+        <item>Kailasahar (NP)</item>
+        <item>Dharmanagar (NP)</item>
+        <item>Kumarghat (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="South_Tripura">
+        <item>South Tripura</item>
+        <item>Killa</item>
+        <item>Amarpur</item>
+        <item>Ompi</item>
+        <item>Matarbari</item>
+        <item>Kakraban</item>
+        <item>Rajnagar</item>
+        <item>Hrishyamukh</item>
+        <item>Bokafa</item>
+        <item>Karbuk</item>
+        <item>Rupaichhari</item>
+        <item>Satchand</item>
+        <item>Udaipur (NP)</item>
+        <item>Amarpur (NP)</item>
+        <item>Santir Bazar (NP)</item>
+        <item>Belonia (NP)</item>
+        <item>Sabroom (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="West_Tripura">
+        <item>West Tripura</item>
+        <item>Mohanpur</item>
+        <item>Hezamara</item>
+        <item>Padmabil</item>
+        <item>Khowai</item>
+        <item>Tulashikhar</item>
+        <item>Kalyanpur</item>
+        <item>Teliamura</item>
+        <item>Mungiakumi</item>
+        <item>Mandai</item>
+        <item>Jirania</item>
+        <item>Dukli</item>
+        <item>Jampuijala</item>
+        <item>Bishalgarh</item>
+        <item>Boxanagar</item>
+        <item>Melaghar</item>
+        <item>Kathalia</item>
+        <item>Khowai (NP)</item>
+        <item>Teliamura (NP)</item>
+        <item>Ranirbazar (NP)</item>
+        <item>Agartala (M Cl)</item>
+        <item>Bishalgarh (NP)</item>
+        <item>Sonamura (NP)</item>
+    </string-array>
+
+
+</resources>

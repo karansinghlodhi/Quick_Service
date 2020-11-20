@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Agra">
+        <item>Agra</item>
+        <item>Etmadpur</item>
+        <item>Etmadpur (NPP)</item>
+        <item>Agra</item>
+        <item>Dayalbagh (NP)</item>
+        <item>Swamibagh (NP)</item>
+        <item>Agra (M Corp.)</item>
+        <item>Agra (CB)</item>
+        <item>Kiraoli</item>
+        <item>Achhnera (NPP)</item>
+        <item>Kiraoali (NP)</item>
+        <item>Fatehpur Sikri (NPP)</item>
+        <item>Kheragarh</item>
+        <item>Jagner (NP)</item>
+        <item>Kheragarh (NP)</item>
+        <item>Fatehabad</item>
+        <item>Shamsabad (NPP)</item>
+        <item>Fatehabad (NP)</item>
+        <item>Bah</item>
+        <item>Pinahat (NP)</item>
+        <item>Bah (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Aligarh">
+        <item>Aligarh</item>
+        <item>Khair</item>
+        <item>Jatari (NP)</item>
+        <item>Khair (NPP)</item>
+        <item>Gabhana</item>
+        <item>Atrauli</item>
+        <item>Atrauli (NPP)</item>
+        <item>Chharra Rafatpur (NP)</item>
+        <item>Koil</item>
+        <item>Harduaganj (NP)</item>
+        <item>Aligarh (M Corp.)</item>
+        <item>Jalali (NP)</item>
+        <item>Kauriaganj (NP)</item>
+        <item>Pilkhana (NP)</item>
+        <item>Vijaigarh (NP)</item>
+        <item>Iglas</item>
+        <item>Iglas (NP)</item>
+        <item>Beswan (NP)</item>
+    </string-array>
+
+
+    <string-array name="Allahabad">
+        <item>Allahabad</item>
+        <item>Soraon</item>
+        <item>Mau Aima (NP)</item>
+        <item>Lal Gopalganj Nindaura (NP)</item>
+        <item>Phulpur</item>
+        <item>Jhusi (NP)</item>
+        <item>Phulpur (NP)</item>
+        <item>Allahabad</item>
+        <item>Allahabad (M Corp. + OG)</item>
+        <item>Allahabad (M Corp.)</item>
+        <item>Allahabad (CB)</item>
+        <item>Bara</item>
+        <item>Shankargarh (NP)</item>
+        <item>Karchhana</item>
+        <item>Handia</item>
+        <item>Handia (NP)</item>
+        <item>Meja</item>
+        <item>Sirsa (NP)</item>
+        <item>Bharatganj (NP)</item>
+        <item>Koraon</item>
+        <item>Koraon (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Ambedkar_Nagar">
+        <item>Ambedkar Nagar</item>
+        <item>Tanda</item>
+        <item>Iltifatganj Bazar (NP)</item>
+        <item>Tanda (NPP)</item>
+        <item>Ashrafpur Kichhauchha (NP)</item>
+        <item>Allapur</item>
+        <item>Jalalpur</item>
+        <item>Jalalpur (NPP)</item>
+        <item>Akbarpur</item>
+        <item>Akbarpur (NPP)</item>
+        <item>Bhiti</item>
+    </string-array>
+
+
+    <string-array name="Auraiya">
+        <item>Auraiya</item>
+        <item>Bidhuna</item>
+        <item>Bidhuna (NP)</item>
+        <item>Achhalda (NP)</item>
+        <item>Auraiya</item>
+        <item>Babarpur Ajitmal (NP)</item>
+        <item>Atasu (NP)</item>
+        <item>Phaphund (NP)</item>
+        <item>Dibiyapur (NP)</item>
+        <item>Auraiya (NPP)</item>
+    </string-array>
+
+
+    <string-array name="Azamgarh">
+        <item>Azamgarh</item>
+        <item>Burhanpur</item>
+        <item>Atrauliya (NP)</item>
+        <item>Sagri</item>
+        <item>Mahrajganj (NP)</item>
+        <item>Bilariaganj (NP)</item>
+        <item>Jiyanpur (NP)</item>
+        <item>Azmatgarh (NP)</item>
+        <item>Azamgarh</item>
+        <item>Mubarakpur (NPP)</item>
+        <item>Azamgarh (NPP)</item>
+        <item>Nizamabad</item>
+        <item>Nizamabad (NP)</item>
+        <item>Sarai Mir (NP)</item>
+        <item>Phulpur</item>
+        <item>Phulpur (NP)</item>
+        <item>Lalganj</item>
+        <item>Katghar Lalganj (NP)</item>
+        <item>Mehnagar</item>
+        <item>Mehnagar (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Baghpat">
+        <item>Baghpat</item>
+        <item>Baraut</item>
+        <item>Chhaprauli (NP)</item>
+        <item>Tikri (NP)</item>
+        <item>Doghat (NP)</item>
+        <item>Baraut (NPP)</item>
+        <item>Baghpat</item>
+        <item>Baghpat (NPP)</item>
+        <item>Agarwal Mandi (Tatiri) (NP)</item>
+        <item>Aminagar Sarai (NP)</item>
+        <item>Khekada</item>
+        <item>Khekada (NP)</item>
+    </string-array>
+
+
+    <string-array name="Bahraich">
+        <item>Bahraich</item>
+        <item>Nanpara</item>
+        <item>Nanpara (NPP)</item>
+        <item>Mahasi</item>
+        <item>Bahraich</item>
+        <item>Risiya Bazar (NP)</item>
+        <item>Bahraich (NPP)</item>
+        <item>Kaiserganj</item>
+        <item>Jarwal (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Ballia">
+        <item>Ballia</item>
+        <item>Belthara Road</item>
+        <item>Belthara Road (NP)</item>
+        <item>Sikanderpur</item>
+        <item>Sikanderpur (NP)</item>
+        <item>Rasra</item>
+        <item>Rasra (NPP)</item>
+        <item>Ballia</item>
+        <item>Chitbara Gaon (NP)</item>
+        <item>Ballia (NPP)</item>
+        <item>Bansdih</item>
+        <item>Maniyar (NP)</item>
+        <item>Bansdih (NP)</item>
+        <item>Sahatwar (NP)</item>
+        <item>Reoti (NP)</item>
+        <item>Bairia</item>
+    </string-array>
+
+
+    <string-array name="Balrampur">
+        <item>Balrampur</item>
+        <item>Balrampur</item>
+        <item>Balrampur (NPP + OG)</item>
+        <item>Balrampur (NPP)</item>
+        <item>Tulsipur</item>
+        <item>Tulsipur (NP)</item>
+        <item>Pachperwa (NP)</item>
+        <item>Utraula</item>
+        <item>Utraula (NPP)</item>
+    </string-array>
+
+
+    <string-array name="Banda">
+        <item>Banda</item>
+        <item>Banda</item>
+        <item>Mataundh (NP)</item>
+        <item>Banda (NPP + OG)</item>
+        <item>Banda (NPP)</item>
+        <item>Tindwari (NP)</item>
+        <item>Baberu</item>
+        <item>Baberu (NP)</item>
+        <item>Atarra</item>
+        <item>Oran (NP)</item>
+        <item>Bisanda Buzurg (NP)</item>
+        <item>Atarra (NPP)</item>
+        <item>Naraini</item>
+        <item>Naraini (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Bara_Banki">
+        <item>Bara Banki</item>
+        <item>Fatehpur</item>
+        <item>Fatehpur (NP)</item>
+        <item>Ramnagar</item>
+        <item>Ramnagar (NP)</item>
+        <item>Nawabganj</item>
+        <item>Dewa (NP)</item>
+        <item>Nawabganj (NPP + OG)</item>
+        <item>Nawabganj (NPP)</item>
+        <item>Banki (NP)</item>
+        <item>Satrikh (NP)</item>
+        <item>Zaidpur (NP)</item>
+        <item>Sirauli Gauspur</item>
+        <item>Tikait Nagar (NP)</item>
+        <item>Ramsanehighat</item>
+        <item>Dariyabad (NP)</item>
+        <item>Haidergarh</item>
+        <item>Siddhaur (NP)</item>
+        <item>Haidergarh (NP)</item>
+        <item>Subeha (NP)</item>
+    </string-array>
+
+
+    <string-array name="Bareilly">
+        <item>Bareilly</item>
+        <item>Baheri</item>
+        <item>Baheri (NPP)</item>
+        <item>Faridpur (NP)</item>
+        <item>Richha (NP)</item>
+        <item>Deoranian (NP)</item>
+        <item>Shergarh (NP)</item>
+        <item>Meerganj</item>
+        <item>Shishgarh (NP)</item>
+        <item>Mirganj (NP)</item>
+        <item>Fatehganj Pashchimi (NP)</item>
+        <item>Shahi (NP)</item>
+        <item>Aonla</item>
+        <item>Bisharatganj (NP)</item>
+        <item>Aonla (NPP)</item>
+        <item>Sirauli (NP)</item>
+        <item>Bareilly</item>
+        <item>Dhaura Tanda (NP)</item>
+        <item>Bareilly (M Corp. + OG)</item>
+        <item>Bareilly (M Corp.)</item>
+        <item>Bareilly (CB)</item>
+        <item>Thiriya Nizamat Khan (NP)</item>
+        <item>Rithora (NP)</item>
+        <item>Nawabganj</item>
+        <item>Sainthal (NP)</item>
+        <item>Nawabganj (NPP)</item>
+        <item>Faridpur</item>
+        <item>Fatehganj Purvi (NP)</item>
+        <item>Faridpur (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Basti">
+        <item>Basti</item>
+        <item>Bhanpur</item>
+        <item>Harraiya</item>
+        <item>Harraiya (NP)</item>
+        <item>Bhabnan Bazar (NP)</item>
+        <item>Basti</item>
+        <item>Basti (NPP)</item>
+        <item>Rudhauli</item>
+    </string-array>
+
+
+    <string-array name="Bijnor">
+        <item>Bijnor</item>
+        <item>Najibabad</item>
+        <item>Sahanpur (NP)</item>
+        <item>Najibabad (NPP)</item>
+        <item>Jalalabad (NP)</item>
+        <item>Kiratpur (NPP + OG)</item>
+        <item>Kiratpur (NPP)</item>
+        <item>Bijnor</item>
+        <item>Mandawar (NP)</item>
+        <item>Bijnor (NPP)</item>
+        <item>Jhalu (NP)</item>
+        <item>Haldaur (NPP)</item>
+        <item>Nagina</item>
+        <item>Nagina (NPP)</item>
+        <item>Warhapur (NP)</item>
+        <item>Dhampur</item>
+        <item>Afzalgarh (NPP)</item>
+        <item>Sherkot (NPP)</item>
+        <item>Dhampur (NPP)</item>
+        <item>Nehtaur (NPP)</item>
+        <item>Seohara (NPP + OG)</item>
+        <item>Seohara (NPP)</item>
+        <item>Sahaspur (NP)</item>
+        <item>Chandpur</item>
+        <item>Noorpur (NPP)</item>
+        <item>Chandpur (NPP)</item>
+    </string-array>
+
+
+    <string-array name="Budaun">
+        <item>Budaun</item>
+        <item>Gunnaur</item>
+        <item>Gawan (NP)</item>
+        <item>Babrala (NP)</item>
+        <item>Gunnaur (NP)</item>
+        <item>Bisauli</item>
+        <item>Islamnagar (NP)</item>
+        <item>Faizganj (NP)</item>
+        <item>Mundiya (NP)</item>
+        <item>Bisauli (NPP)</item>
+        <item>Saidpur (NP)</item>
+        <item>Wazirganj (NP)</item>
+        <item>Bilsi</item>
+        <item>Rudayan (NP)</item>
+        <item>Bilsi (NPP)</item>
+        <item>Sahaswan</item>
+        <item>Sahaswan (NPP)</item>
+        <item>Budaun</item>
+        <item>Kachhla (NP)</item>
+        <item>Ujhani (NPP)</item>
+        <item>Budaun (NPP)</item>
+        <item>Kunwargaon (NP)</item>
+        <item>Gulariya (NP)</item>
+        <item>Sakhanu (NP)</item>
+        <item>Dataganj</item>
+        <item>Kakrala (NPP)</item>
+        <item>Allapur (NP)</item>
+        <item>Dataganj (NP)</item>
+        <item>Usawan (NP)</item>
+        <item>Usehat (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Bulandshahr">
+        <item>Bulandshahr</item>
+        <item>Sikandrabad</item>
+        <item>Sikandrabad (NPP)</item>
+        <item>Kakod (NP)</item>
+        <item>Bulandshahr</item>
+        <item>Aurangabad (NP)</item>
+        <item>Bulandshahr (NPP + OG)</item>
+        <item>Bulandshahr (NPP)</item>
+        <item>Gulaothi (NPP)</item>
+        <item>Siana</item>
+        <item>Bhawan Bahadur Nagar (NP)</item>
+        <item>Siana (NPP)</item>
+        <item>Bugrasi (NP)</item>
+        <item>Khanpur (NP)</item>
+        <item>Anupshahr</item>
+        <item>Anupshahr (NPP)</item>
+        <item>Jahangirabad (NPP)</item>
+        <item>Debai</item>
+        <item>Dibai (NPP)</item>
+        <item>Naraura (NP)</item>
+        <item>Shikarpur</item>
+        <item>Shikarpur (NPP)</item>
+        <item>Pahasu (NP)</item>
+        <item>Chhatari (NP)</item>
+        <item>Khurja</item>
+        <item>Khurja (NPP + OG)</item>
+        <item>Khurja (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Chandauli">
+        <item>Chandauli</item>
+        <item>Sakaldiha</item>
+        <item>Chandauli</item>
+        <item>Mughalsarai (NPP)</item>
+        <item>Mughalsarai Railway Settlement (ITS)</item>
+        <item>Chandauli (NP)</item>
+        <item>Saiyad Raza (NP)</item>
+        <item>Chakia</item>
+        <item>Chakia (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Chitrakoot">
+        <item>Chitrakoot</item>
+        <item>Karwi</item>
+        <item>Manikpur Sarhat (NP)</item>
+        <item>Chitrakoot Dham (Karwi) (NPP)</item>
+        <item>Mau</item>
+        <item>Rajapur (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Deoria">
+        <item>Deoria</item>
+        <item>Deoria</item>
+        <item>Gauri Bazar (NP)</item>
+        <item>Rampur Karkhana (NP)</item>
+        <item>Deoria (NPP)</item>
+        <item>Rudrapur</item>
+        <item>Rudrapur (NP)</item>
+        <item>Barhaj</item>
+        <item>Gaura Barhaj (NPP)</item>
+        <item>Salempur</item>
+        <item>Bhatni Bazar (NP)</item>
+        <item>Majhauliraj (NP)</item>
+        <item>Salempur (NP)</item>
+        <item>Lar (NP)</item>
+        <item>Bhatpar Rani</item>
+        <item>Bhatpar Rani (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Etah">
+        <item>Etah</item>
+        <item>Aliganj</item>
+        <item>Raja Ka Rampur (NP)</item>
+        <item>Aliganj (NPP)</item>
+        <item>Jaithara (NP)</item>
+        <item>Etah</item>
+        <item>Sakit (NP)</item>
+        <item>Etah (NPP)</item>
+        <item>Marehra (NPP)</item>
+        <item>Nidhauli Kalan (NP)</item>
+        <item>Jalesar</item>
+        <item>Jalesar (NPP)</item>
+        <item>Awagarh (NP)</item>
+    </string-array><string-array name="Etawah">
+    <item>Etawah</item>
+    <item>Jaswantnagar</item>
+    <item>Jaswantnagar (NPP)</item>
+    <item>Saifai</item>
+    <item>Etawah</item>
+    <item>Etawah (NPP)</item>
+    <item>Ekdil (NP)</item>
+    <item>Bharthana</item>
+    <item>Bharthana (NPP)</item>
+    <item>Bakewar (NP)</item>
+    <item>Lakhna (NP)</item>
+    <item>Chakarnagar</item>
+</string-array>
+
+
+
+    <string-array name="Faizabad">
+        <item>Faizabad</item>
+        <item>Rudauli</item>
+        <item>Rudauli (NPP)</item>
+        <item>Milkipur</item>
+        <item>Sohawal</item>
+        <item>Bhadarsa (NP)</item>
+        <item>Faizabad</item>
+        <item>Faizabad (CB)</item>
+        <item>Faizabad (NPP)</item>
+        <item>Ayodhya (NPP)</item>
+        <item>Gosainganj (NP)</item>
+        <item>Bikapur</item>
+        <item>Bikapur (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Farrukhabad">
+        <item>Farrukhabad</item>
+        <item>Kaimganj</item>
+        <item>Kampil (NP)</item>
+        <item>Kaimganj (NPP)</item>
+        <item>Shamsabad (NP)</item>
+        <item>Amritpur</item>
+        <item>Farrukhabad</item>
+        <item>Farrukhabad-cum-Fatehgarh (NPP)</item>
+        <item>Fatehgarh (CB)</item>
+        <item>Mohammadabad (NP)</item>
+        <item>Kamalganj (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Fatehpur">
+        <item>Fatehpur</item>
+        <item>Bindki</item>
+        <item>Kora Jahanabad (NP)</item>
+        <item>Bindki (NPP)</item>
+        <item>Fatehpur</item>
+        <item>Bahuwa (NP)</item>
+        <item>Fatehpur (NPP)</item>
+        <item>Khaga</item>
+        <item>Khaga (NP)</item>
+        <item>Kishunpur (NP)</item>
+        <item>Hathgram (NP)</item>
+    </string-array>
+
+
+    <string-array name="Firozabad">
+        <item>Firozabad</item>
+        <item>Tundla</item>
+        <item>Tundla (NPP)</item>
+        <item>Firozabad</item>
+        <item>Firozabad (NPP)</item>
+        <item>Jasrana</item>
+        <item>Fariha (NP)</item>
+        <item>Jasrana (NP)</item>
+        <item>Shikohabad</item>
+        <item>Shikohabad (NPP)</item>
+        <item>Sirsaganj (NPP + OG)</item>
+        <item>Sirsaganj (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Gautam_Buddha_Nagar">
+        <item>Gautam Buddha Nagar</item>
+        <item>Dadri</item>
+        <item>Dadri (NPP)</item>
+        <item>Gautam Buddha Nagar</item>
+        <item>Bilaspur (NP)</item>
+        <item>Dankaur (NP)</item>
+        <item>Jewar</item>
+        <item>Rabupura (NP)</item>
+        <item>Jahangirpur (NP)</item>
+        <item>Jewar (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Ghaziabad">
+        <item>Ghaziabad</item>
+        <item>Modinagar</item>
+        <item>Patala (NP)</item>
+        <item>Niwari (NP)</item>
+        <item>Modinagar (NPP)</item>
+        <item>Faridnagar (NP)</item>
+        <item>Muradnagar (NPP)</item>
+        <item>Ghaziabad</item>
+        <item>Loni (NPP)</item>
+        <item>Ghaziabad (M Corp.)</item>
+        <item>Dasna (NP)</item>
+        <item>Hapur</item>
+        <item>Pilkhuwa (NPP)</item>
+        <item>Hapur (NPP)</item>
+        <item>Babugarh (NP)</item>
+        <item>Garhmukteshwar</item>
+        <item>Garhmukhteshwar (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Ghazipur">
+        <item>Ghazipur</item>
+        <item>Jakhania</item>
+        <item>Sadat (NP)</item>
+        <item>Saidpur</item>
+        <item>Saidpur (NP)</item>
+        <item>Ghazipur</item>
+        <item>Jangipur (NP)</item>
+        <item>Ghazipur (NPP + OG)</item>
+        <item>Ghazipur (NPP)</item>
+        <item>Mohammadabad</item>
+        <item>Bahadurganj (NP)</item>
+        <item>Mohammadabad (NPP)</item>
+        <item>Zamania</item>
+        <item>Dildarnagar Fatehpur Bazar (NP)</item>
+        <item>Zamania (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Gonda">
+        <item>Gonda</item>
+        <item>Gonda</item>
+        <item>Khargupur (NP)</item>
+        <item>Gonda (NPP)</item>
+        <item>Colonelganj</item>
+        <item>Katra (NP)</item>
+        <item>Colonelganj (NPP)</item>
+        <item>Tarabganj</item>
+        <item>Nawabganj (NPP)</item>
+        <item>Mankapur</item>
+        <item>Mankapur (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Gorakhpur">
+        <item>Gorakhpur</item>
+        <item>Campierganj</item>
+        <item>Pipiganj (NP)</item>
+        <item>Sahjanwa</item>
+        <item>Sahjanwan (NP)</item>
+        <item>Gorakhpur</item>
+        <item>Gorakhpur (M Corp.)</item>
+        <item>Pipraich (NP)</item>
+        <item>Chauri Chaura</item>
+        <item>Mundera Bazar (NP)</item>
+        <item>Bansgaon</item>
+        <item>Bansgaon (NP)</item>
+        <item>Khajni</item>
+        <item>Gola</item>
+        <item>Gola Bazar (NP)</item>
+        <item>Barhalganj (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Hamirpur">
+        <item>Hamirpur</item>
+        <item>Hamirpur</item>
+        <item>Kurara (NP)</item>
+        <item>Hamirpur (NPP)</item>
+        <item>Sumerpur (NP + OG)</item>
+        <item>Sumerpur (NP)</item>
+        <item>Rath</item>
+        <item>Rath (NPP)</item>
+        <item>Sarila</item>
+        <item>Gohand (NP)</item>
+        <item>Sarila (NP)</item>
+        <item>Maudaha</item>
+        <item>Maudaha (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Hardoi">
+        <item>Hardoi</item>
+        <item>Shahabad</item>
+        <item>Shahabad (NPP)</item>
+        <item>Pihani (NPP)</item>
+        <item>Sawayajpur</item>
+        <item>Pali (NP)</item>
+        <item>Hardoi</item>
+        <item>Gopamau (NP)</item>
+        <item>Hardoi (NPP + OG)</item>
+        <item>Hardoi (NPP)</item>
+        <item>Bilgram</item>
+        <item>Sandi (NPP)</item>
+        <item>Bilgram (NPP)</item>
+        <item>Madhoganj (NP)</item>
+        <item>Mallawan (NPP)</item>
+        <item>Kursath (NP)</item>
+        <item>Sandila</item>
+        <item>Kachhauna Patseni (NP)</item>
+        <item>Beniganj (NP)</item>
+        <item>Sandila (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Jalaun">
+        <item>Jalaun</item>
+        <item>Madhogarh</item>
+        <item>Rampura (NP)</item>
+        <item>Umri (NP)</item>
+        <item>Madhogarh (NP)</item>
+        <item>Jalaun</item>
+        <item>Jalaun (NPP)</item>
+        <item>Kalpi</item>
+        <item>Kalpi (NPP)</item>
+        <item>Kadaura (NP)</item>
+        <item>Orai</item>
+        <item>Orai (NPP + OG)</item>
+        <item>Orai (NPP)</item>
+        <item>Kotra (NP)</item>
+        <item>Konch</item>
+        <item>Konch (NPP)</item>
+        <item>Nadigaon (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Jaunpur">
+        <item>Jaunpur</item>
+        <item>Shahganj</item>
+        <item>Shahganj (NPP)</item>
+        <item>Khetasarai (NP)</item>
+        <item>Badlapur</item>
+        <item>Machhlishahr</item>
+        <item>Mogra Badshahpur (NPP)</item>
+        <item>Machhlishahr (NP)</item>
+        <item>Jaunpur</item>
+        <item>Jaunpur (NPP)</item>
+        <item>Jafarabad (NP)</item>
+        <item>Mariahu</item>
+        <item>Mariahu (NP)</item>
+        <item>Kerakat</item>
+        <item>Kerakat (NP)</item>
+    </string-array>
+
+
+
+
+    <string-array name="Jhansi">
+        <item>Jhansi</item>
+        <item>Moth</item>
+        <item>Samthar (NPP)</item>
+        <item>Moth (NP)</item>
+        <item>Chirgaon (NPP)</item>
+        <item>Garautha</item>
+        <item>Erich (NP)</item>
+        <item>Gursarai (NPP)</item>
+        <item>Garautha (NP)</item>
+        <item>Tahrauli</item>
+        <item>Tondi Fatehpur (NP)</item>
+        <item>Mauranipur</item>
+        <item>Mauranipur (NPP + OG)</item>
+        <item>Mauranipur (NPP)</item>
+        <item>Ranipur (NP)</item>
+        <item>Kathera (NP)</item>
+        <item>Jhansi</item>
+        <item>Barua Sagar (NPP)</item>
+        <item>Baragaon (NP)</item>
+        <item>Jhansi (M Corp.)</item>
+        <item>Jhansi (CB)</item>
+        <item>Jhansi Railway Settlement (ITS)</item>
+        <item>Babina (CB)</item>
+    </string-array>
+
+
+
+    <string-array name="Jyotiba_Phule_Nagar">
+        <item>Jyotiba Phule Nagar</item>
+        <item>Dhanaura</item>
+        <item>Dhanaura (NPP)</item>
+        <item>Bachhraon (NPP)</item>
+        <item>Gajraula (NP)</item>
+        <item>Amroha</item>
+        <item>Naugawan Sadat (NP)</item>
+        <item>Amroha (NPP)</item>
+        <item>Joya (NP)</item>
+        <item>Hasanpur</item>
+        <item>Hasanpur (NPP)</item>
+        <item>Ujhari (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Kannauj">
+        <item>Kannauj</item>
+        <item>Chhibramau</item>
+        <item>Samdhan (NP)</item>
+        <item>Gursahaiganj (NPP)</item>
+        <item>Sikanderpur (NP)</item>
+        <item>Chhibramau (NPP)</item>
+        <item>Saurikh (NP)</item>
+        <item>Talgram (NP)</item>
+        <item>Kannauj</item>
+        <item>Kannauj (NPP)</item>
+        <item>Tirwa</item>
+        <item>Tirwaganj (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Kanpur_Dehat">
+        <item>Kanpur Dehat</item>
+        <item>Rasulabad</item>
+        <item>Rasulabad (NP)</item>
+        <item>Derapur</item>
+        <item>Jhinjhak (NP)</item>
+        <item>Derapur (NP)</item>
+        <item>Akbarpur</item>
+        <item>Shivli (NP)</item>
+        <item>Rura (NP)</item>
+        <item>Akbarpur (NP)</item>
+        <item>Bhognipur</item>
+        <item>Amraudha (NP)</item>
+        <item>Pukhrayan (NPP)</item>
+        <item>Sikandra</item>
+        <item>Sikandra (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Kanpur_Nagar">
+        <item>Kanpur Nagar</item>
+        <item>Bilhaur</item>
+        <item>Bilhaur (NPP)</item>
+        <item>Shivrajpur (NP)</item>
+        <item>Kanpur</item>
+        <item>Bithoor (NP)</item>
+        <item>Kanpur (M Corp. + OG)</item>
+        <item>Kanpur (M Corp.)</item>
+        <item>Kanpur (CB)</item>
+        <item>Ghatampur</item>
+        <item>Ghatampur (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Kanshiram_Nagar">
+        <item>Kanshiram Nagar</item>
+        <item>Kasganj</item>
+        <item>Soron (NPP)</item>
+        <item>Bilram (NP)</item>
+        <item>Kasganj (NPP)</item>
+        <item>Sahawar</item>
+        <item>Sahawar (NP)</item>
+        <item>Amanpur (NP)</item>
+        <item>Patiyali</item>
+        <item>Mohanpur (NP)</item>
+        <item>Ganj Dundawara (NPP)</item>
+        <item>Patiyali (NP)</item>
+        <item>Sidhpura (NP)</item>
+        <item>Bhargain (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Kaushambi">
+        <item>Kaushambi</item>
+        <item>Sirathu</item>
+        <item>Ajhuwa (NP)</item>
+        <item>Sirathu (NP)</item>
+        <item>Manjhanpur</item>
+        <item>Manjhanpur (NP)</item>
+        <item>Karari (NP)</item>
+        <item>Chail</item>
+        <item>Bharwari (NP)</item>
+        <item>Chail (NP)</item>
+        <item>Sarai Aquil (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Kheri">
+        <item>Kheri</item>
+        <item>Nighasan</item>
+        <item>Singahi Bhiraura (NP)</item>
+        <item>Palia</item>
+        <item>Paliya Kalan (NPP)</item>
+        <item>Gola Gokaran Nath</item>
+        <item>Mailani (NP)</item>
+        <item>Gola Gokaran Nath (NPP)</item>
+        <item>Mohammdi</item>
+        <item>Mohammadi (NPP)</item>
+        <item>Barwar (NP)</item>
+        <item>Lakhimpur</item>
+        <item>Lakhimpur (NPP)</item>
+        <item>Kheri (NP)</item>
+        <item>Oel Dhakwa (NP)</item>
+        <item>Dhaurahara</item>
+        <item>Dhaurehra (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Kushinagar">
+        <item>Kushinagar</item>
+        <item>Padrauna</item>
+        <item>Khadda (NP)</item>
+        <item>Padrauna (NPP)</item>
+        <item>Hata</item>
+        <item>Ramkola (NP)</item>
+        <item>Kaptanganj (NP)</item>
+        <item>Hata (NP)</item>
+        <item>Kasya</item>
+        <item>Kushinagar (NP)</item>
+        <item>Tamkuhi Raj</item>
+        <item>Sewarhi (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Lalitpur">
+        <item>Lalitpur</item>
+        <item>Talbehat</item>
+        <item>Talbehat (NP)</item>
+        <item>Lalitpur</item>
+        <item>Lalitpur (NPP)</item>
+        <item>Pali (NP)</item>
+        <item>Mahroni</item>
+        <item>Mahroni (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Lucknow">
+        <item>Lucknow</item>
+        <item>Malihabad</item>
+        <item>Malihabad (NP)</item>
+        <item>Bakshi Ka Talab</item>
+        <item>Mahona (NP)</item>
+        <item>Itaunja (NP)</item>
+        <item>Bakshi Ka Talab (NP)</item>
+        <item>Lucknow</item>
+        <item>Kakori (NP)</item>
+        <item>Lucknow (M Corp.)</item>
+        <item>Lucknow (CB)</item>
+        <item>Mohanlalganj</item>
+        <item>Gosainganj (NP)</item>
+        <item>Amethi (NP)</item>
+        <item>Nagram (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Mahamaya_Nagar">
+        <item>Mahamaya Nagar</item>
+        <item>Sasni</item>
+        <item>Sasni (NP)</item>
+        <item>Sikandra Rao</item>
+        <item>Sikandrarao (NPP)</item>
+        <item>Purdilnagar (NP)</item>
+        <item>Hasayan (NP)</item>
+        <item>Hathras</item>
+        <item>Mendu (NP)</item>
+        <item>Hathras (NPP + OG)</item>
+        <item>Hathras (NPP)</item>
+        <item>Mursan (NP)</item>
+        <item>Sadabad</item>
+        <item>Sadabad (NP)</item>
+        <item>Sahpau (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Mahoba">
+        <item>Mahoba</item>
+        <item>Kulpahar</item>
+        <item>Kul Pahar (NP)</item>
+        <item>Charkhari</item>
+        <item>Kharela (NP)</item>
+        <item>Charkhari (NPP)</item>
+        <item>Mahoba</item>
+        <item>Mahoba (NPP)</item>
+        <item>Kabrai (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Mahrajganj">
+        <item>Mahrajganj</item>
+        <item>Nautanwa</item>
+        <item>Nautanwa (NPP)</item>
+        <item>Nichlaul</item>
+        <item>Nichlaul (NP)</item>
+        <item>Siswa Bazar (NP)</item>
+        <item>Pharenda</item>
+        <item>Anandnagar (NP)</item>
+        <item>Maharajganj</item>
+        <item>Ghughuli (NP)</item>
+        <item>Maharajganj (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Mainpuri">
+        <item>Mainpuri</item>
+        <item>Mainpuri</item>
+        <item>Kuraoali (NP)</item>
+        <item>Jyoti Khuriya (NP)</item>
+        <item>Ghiraur (NP)</item>
+        <item>Mainpuri (NPP + OG)</item>
+        <item>Mainpuri (NPP)</item>
+        <item>Karhal</item>
+        <item>Karhal (NP)</item>
+        <item>Bhogaon</item>
+        <item>Bhogaon (NP)</item>
+        <item>Bewar (NP)</item>
+        <item>Kusmara (NP)</item>
+        <item>Kishni (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Mathura">
+        <item>Mathura</item>
+        <item>Chhata</item>
+        <item>Kosi Kalan (NPP + OG)</item>
+        <item>Kosi Kalan (NPP)</item>
+        <item>Nandgaon (NP)</item>
+        <item>Barsana (NP)</item>
+        <item>Chhata (NP)</item>
+        <item>Chaumuhan (NP)</item>
+        <item>Mat</item>
+        <item>Bajna (NP)</item>
+        <item>Mahavan</item>
+        <item>Raya (NP)</item>
+        <item>Gokul (NP)</item>
+        <item>Mahaban (NP)</item>
+        <item>Baldeo (NP)</item>
+        <item>Mathura</item>
+        <item>Farah (NP)</item>
+        <item>Vrindavan (NPP)</item>
+        <item>Radhakund (NP)</item>
+        <item>Govardhan (NP)</item>
+        <item>Saunkh (NP)</item>
+        <item>Mathura (NPP)</item>
+        <item>Mathura (CB)</item>
+    </string-array>
+
+
+
+    <string-array name="Mau">
+        <item>Mau</item>
+        <item>Ghosi</item>
+        <item>Dohrighat (NP)</item>
+        <item>Amila (NP)</item>
+        <item>Ghosi (NP)</item>
+        <item>Madhuban</item>
+        <item>Maunath Bhanjan</item>
+        <item>Kopaganj (NP)</item>
+        <item>Adari (NP)</item>
+        <item>Maunath Bhanjan (NPP)</item>
+        <item>Muhammadabad Gohna</item>
+        <item>Muhammadabad (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Meerut">
+        <item>Meerut</item>
+        <item>Sardhana</item>
+        <item>Karnawal (NP)</item>
+        <item>Sardhana (NPP)</item>
+        <item>Daurala (NP)</item>
+        <item>Lawar (NP)</item>
+        <item>Mawana</item>
+        <item>Phalauda (NP)</item>
+        <item>Bahsuma (NP)</item>
+        <item>Hastinapur (NP)</item>
+        <item>Mawana (NPP)</item>
+        <item>Parikshitgarh (NP)</item>
+        <item>Kithaur (NP)</item>
+        <item>Meerut</item>
+        <item>Meerut (M Corp.)</item>
+        <item>Meerut (CB)</item>
+        <item>Sewalkhas (NP)</item>
+        <item>Kharkhoda (NP)</item>
+    </string-array>
+
+
+    <string-array name="Mirzapur">
+        <item>Mirzapur</item>
+        <item>Mirzapur</item>
+        <item>Mirzapur-cum-Vindhyachal (NPP)</item>
+        <item>Kachhwa (NP)</item>
+        <item>Lalganj</item>
+        <item>Marihan</item>
+        <item>Chunar</item>
+        <item>Chunar (NPP)</item>
+        <item>Ahraura (NPP)</item>
+    </string-array>
+
+
+    <string-array name="Moradabad">
+        <item>Moradabad</item>
+        <item>Thakurdwara</item>
+        <item>Thakurdwara (NPP)</item>
+        <item>Kanth</item>
+        <item>Kanth (NP)</item>
+        <item>Umri Kalan (NP)</item>
+        <item>Moradabad</item>
+        <item>Bhojpur Dharampur (NP)</item>
+        <item>Moradabad (M Corp.)</item>
+        <item>Bilari</item>
+        <item>Kundarki (NP)</item>
+        <item>Bilari (NPP)</item>
+        <item>Sambhal</item>
+        <item>Sirsi (NP)</item>
+        <item>Sambhal (NPP)</item>
+        <item>Chandausi</item>
+        <item>Bahjoi (NPP)</item>
+        <item>Narauli (NP)</item>
+        <item>Chandausi (NPP)</item>
+    </string-array>
+
+
+
+    <string-array name="Muzaffarnagar">
+        <item>Muzaffarnagar</item>
+        <item>Kairana</item>
+        <item>Un (NP)</item>
+        <item>Jhinjhana (NP)</item>
+        <item>Kairana (NPP)</item>
+        <item>Kandhla (NPP)</item>
+        <item>Shamli</item>
+        <item>Ailam (NP)</item>
+        <item>Shamli (NPP)</item>
+        <item>Banat (NP)</item>
+        <item>Garhi Pukhta (NP)</item>
+        <item>Thana Bhawan (NP)</item>
+        <item>Jalalabad (NP)</item>
+        <item>Muzaffarnagar</item>
+        <item>Purquazi (NP + OG)</item>
+        <item>Purquazi (NP)</item>
+        <item>Charthawal (NP)</item>
+        <item>Muzaffarnagar (NPP)</item>
+        <item>Budhana</item>
+        <item>Sisauli (NP)</item>
+        <item>Budhana (NP + OG)</item>
+        <item>Budhana (NP)</item>
+        <item>Shahpur (NP)</item>
+        <item>Khatauli</item>
+        <item>Khatauli (NPP)</item>
+        <item>Jansath</item>
+        <item>Jansath (NP)</item>
+        <item>Bhokarhedi (NP)</item>
+        <item>Miranpur (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Pilibhit">
+        <item>Pilibhit</item>
+        <item>Pilibhit</item>
+        <item>Gulariya Bhindara (NP)</item>
+        <item>Nyoria Husainpur (NP)</item>
+        <item>Jahanabad (NP)</item>
+        <item>Pilibhit (NPP)</item>
+        <item>Bisalpur</item>
+        <item>Barkhera (NP)</item>
+        <item>Bisalpur (NPP)</item>
+        <item>Bilsanda (NP)</item>
+        <item>Puranpur</item>
+        <item>Kalinagar (NP)</item>
+        <item>Puranpur (NPP)</item>
+    </string-array>
+
+
+    <string-array name="Pratapgarh">
+        <item>Pratapgarh</item>
+        <item>Lalganj</item>
+        <item>Kunda</item>
+        <item>Manikpur (NP)</item>
+        <item>Kunda (NP)</item>
+        <item>Pratapgarh</item>
+        <item>Antu (NP)</item>
+        <item>Bela Pratapgarh (NPP)</item>
+        <item>Pratapgarh City (NP)</item>
+        <item>Katra Medniganj (NP)</item>
+        <item>Patti</item>
+        <item>Patti (NP)</item>
+        <item>Raniganj</item>
+    </string-array>
+
+
+
+    <string-array name="Rae_Bareli">
+        <item>Rae Bareli</item>
+        <item>Maharajganj</item>
+        <item>Bachhrawan (NP)</item>
+        <item>Maharajganj (NP)</item>
+        <item>Tiloi</item>
+        <item>Jais (NPP)</item>
+        <item>Rae Bareli</item>
+        <item>Rae Bareli (NPP)</item>
+        <item>Lalganj</item>
+        <item>Lalganj (NP)</item>
+        <item>Dalmau</item>
+        <item>Dalmau (NP)</item>
+        <item>Unchahar</item>
+        <item>Unchahar (NP)</item>
+        <item>Salon</item>
+        <item>Parsadepur (NP)</item>
+        <item>Salon (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Rampur">
+        <item>Rampur</item>
+        <item>Suar</item>
+        <item>Maswasi (NP)</item>
+        <item>Suar (NPP)</item>
+        <item>Tanda</item>
+        <item>Tanda (NPP)</item>
+        <item>Bilaspur</item>
+        <item>Bilaspur (NPP)</item>
+        <item>Kemri (NP)</item>
+        <item>Rampur</item>
+        <item>Rampur (NPP)</item>
+        <item>Shahabad</item>
+        <item>Shahabad (NP)</item>
+        <item>Milak</item>
+        <item>Milak (NPP)</item>
+    </string-array>
+
+
+    <string-array name="Saharanpur">
+        <item>Saharanpur</item>
+        <item>Behat</item>
+        <item>Behat (NP)</item>
+        <item>Saharanpur</item>
+        <item>Saharanpur (M Corp.)</item>
+        <item>Nakur</item>
+        <item>Chilkana Sultanpur (NP)</item>
+        <item>Sarsawa (NPP)</item>
+        <item>Nakur (NPP)</item>
+        <item>Ambehta (NP)</item>
+        <item>Gangoh (NPP)</item>
+        <item>Titron (NP)</item>
+        <item>Deoband</item>
+        <item>Deoband (NPP)</item>
+        <item>Rampur Maniharan</item>
+        <item>Nanauta (NP)</item>
+        <item>Rampur Maniharan (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Sant_Kabir_Nagar">
+        <item>Sant Kabir Nagar</item>
+        <item>Mehdawal</item>
+        <item>Mehdawal (NP)</item>
+        <item>Khalilabad</item>
+        <item>Khalilabad (NPP)</item>
+        <item>Maghar (NP)</item>
+        <item>Ghanghata</item>
+        <item>Hariharpur (NP)</item>
+    </string-array>
+
+
+    <string-array name="Sant_Ravidas_Nagar_Bhadohi">
+        <item>Sant Ravidas Nagar (Bhadohi)</item>
+        <item>Bhadohi</item>
+        <item>Suriyawan (NP)</item>
+        <item>Nai Bazar (NP)</item>
+        <item>Bhadohi (NPP)</item>
+        <item>Gyanpur</item>
+        <item>Gyanpur (NP)</item>
+        <item>Gopiganj (NPP)</item>
+        <item>Aurai</item>
+        <item>Khamaria (NP)</item>
+        <item>Ghosia Bazar (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Shahjahanpur">
+        <item>Shahjahanpur</item>
+        <item>Powayan</item>
+        <item>Khutar (NP)</item>
+        <item>Powayan (NP)</item>
+        <item>Tilhar</item>
+        <item>Khudaganj (NP)</item>
+        <item>Katra (NP)</item>
+        <item>Tilhar (NPP)</item>
+        <item>Shahjahanpur</item>
+        <item>Railway Settlement Roza (NP)</item>
+        <item>Shahjahanpur (NPP)</item>
+        <item>Shahjahanpur (CB)</item>
+        <item>Kanth (NP)</item>
+        <item>Jalalabad</item>
+        <item>Jalalabad (NPP)</item>
+        <item>Allahganj (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Shrawasti">
+        <item>Shrawasti</item>
+        <item>Bhinga</item>
+        <item>Bhinga (NP)</item>
+        <item>Ikauna</item>
+        <item>Ikauna (NP)</item>
+    </string-array>
+
+
+    <string-array name="Siddharthnagar">
+        <item>Siddharthnagar</item>
+        <item>Shohratgarh</item>
+        <item>Barhani Bazar (NP)</item>
+        <item>Shohratgarh (NP)</item>
+        <item>Naugarh</item>
+        <item>Siddharthnagar (NPP)</item>
+        <item>Uska Bazar (NP)</item>
+        <item>Bansi</item>
+        <item>Bansi (NPP)</item>
+        <item>Itwa</item>
+        <item>Domariyaganj</item>
+        <item>Domariyaganj (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Sitapur">
+        <item>Sitapur</item>
+        <item>Misrikh</item>
+        <item>Maholi (NP)</item>
+        <item>Misrikh-cum-Neemsar (NPP)</item>
+        <item>Sitapur</item>
+        <item>Khairabad (NPP)</item>
+        <item>Sitapur (NPP)</item>
+        <item>Hargaon (NP)</item>
+        <item>Laharpur</item>
+        <item>Laharpur (NPP)</item>
+        <item>Tambaur-cum-Ahamdabad (NP)</item>
+        <item>Biswan</item>
+        <item>Biswan (NPP)</item>
+        <item>Mahmudabad</item>
+        <item>Mahmudabad (NPP)</item>
+        <item>Paintepur (NP)</item>
+        <item>Sidhauli</item>
+        <item>Sidhauli (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Sonbhadra">
+        <item>Sonbhadra</item>
+        <item>Ghorawal</item>
+        <item>Ghorawal (NP)</item>
+        <item>Robertsganj</item>
+        <item>Sonbhadra (NPP)</item>
+        <item>Churk Ghurma (NP)</item>
+        <item>Chopan (NP)</item>
+        <item>Obra (NP)</item>
+        <item>Dudhi</item>
+        <item>Dudhi (NP)</item>
+        <item>Renukoot (NP + OG)</item>
+        <item>Renukoot (NP)</item>
+        <item>Hindalco Industries Ltd. (Renukoot) (ITS)</item>
+        <item>Kanaudia Chamical and Industries Ltd. (Renukoot) (IT</item>
+        <item>Pipri (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Sultanpur">
+        <item>Sultanpur</item>
+        <item>Musafirkhana</item>
+        <item>Musafirkhana (NP)</item>
+        <item>Gauriganj</item>
+        <item>Amethi</item>
+        <item>Amethi (NP)</item>
+        <item>Sultanpur</item>
+        <item>Sultanpur (NPP)</item>
+        <item>Jaisinghpur</item>
+        <item>Lambhua</item>
+        <item>Koeripur (NP)</item>
+        <item>Kadipur</item>
+        <item>Dostpur (NP)</item>
+        <item>Kadipur (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Unnao">
+        <item>Unnao</item>
+        <item>Safipur</item>
+        <item>Ganj Muradabad (NP)</item>
+        <item>Bangarmau (NPP)</item>
+        <item>Fatehpur Chaurasi (NP)</item>
+        <item>Ugu (NP)</item>
+        <item>Safipur (NP)</item>
+        <item>Kursath (NP)</item>
+        <item>Hasanganj</item>
+        <item>Auras (NP)</item>
+        <item>Hyderabad (NP)</item>
+        <item>Rasulabad (NP)</item>
+        <item>Mohan (NP)</item>
+        <item>Nyotini (NP)</item>
+        <item>Nawabganj (NP)</item>
+        <item>Unnao</item>
+        <item>Unnao (NPP)</item>
+        <item>Gangaghat (NPP)</item>
+        <item>Purwa</item>
+        <item>Purwa (NP)</item>
+        <item>Maurawan (NP)</item>
+        <item>Bighapur</item>
+        <item>Bighapur (NP)</item>
+        <item>Bhagwant Nagar (NP)</item>
+    </string-array>
+
+
+
+    <string-array name="Varanasi">
+        <item>Varanasi</item>
+        <item>Pindra</item>
+        <item>Varanasi</item>
+        <item>Gangapur (NP)</item>
+        <item>Varanasi (CB)</item>
+        <item>Maruadih Railway Settlement (ITS)</item>
+        <item>Varanasi (M Corp.)</item>
+        <item>Ramnagar (NPP)</item>
+    </string-array>
+
+
+
+
+
+
+
+
+</resources>

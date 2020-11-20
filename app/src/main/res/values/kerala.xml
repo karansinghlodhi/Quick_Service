@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Alappuzha">
+        <item>Alappuzha</item>
+        <item>Cherthala</item>
+        <item>Cherthala (M)</item>
+        <item>Ambalappuzha</item>
+        <item>Alappuzha (M + OG)</item>
+        <item>Alappuzha (M)</item>
+        <item>Kuttanad</item>
+        <item>Karthikappally</item>
+        <item>Kayamkulam (M)</item>
+        <item>Chengannur</item>
+        <item>Chengannur (M)</item>
+        <item>Mavelikkara</item>
+        <item>Mavelikkara (M)</item>
+    </string-array>
+
+
+    <string-array name="Ernakulam">
+        <item>Ernakulam</item>
+        <item>Kochi (M Corp.)</item>
+        <item>Kunnathunad</item>
+        <item>Perumbavoor (M)</item>
+        <item>Aluva</item>
+        <item>Angamaly (M)</item>
+        <item>Aluva (M)</item>
+        <item>Paravur</item>
+        <item>Paravur (M)</item>
+        <item>Kochi (M Corp. + OG) (Part)</item>
+        <item>Kochi</item>
+        <item>Kochi (M Corp. + OG) (Part)</item>
+        <item>Kochi (M Corp.) (Part)</item>
+        <item>Kanayannur</item>
+        <item>Kochi (M Corp. + OG) (Part)</item>
+        <item>Kochi (M Corp.) (Part)</item>
+        <item>Kalamassery (M)</item>
+        <item>Thrippunithura (M)</item>
+        <item>Muvattupuzha</item>
+        <item>Muvattupuzha (M)</item>
+        <item>Kothamangalam</item>
+        <item>Kothamangalam (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Idukki">
+        <item>Idukki</item>
+        <item>Devikulam</item>
+        <item>Udumbanchola</item>
+        <item>Thodupuzha</item>
+        <item>Thodupuzha (M)</item>
+        <item>Peerumade</item>
+    </string-array>
+
+
+
+    <string-array name="Kannur">
+        <item>Kannur</item>
+        <item>Taliparamba</item>
+        <item>Payyannur (M)</item>
+        <item>Taliparamba (M)</item>
+        <item>Kannur</item>
+        <item>Kannur (M)</item>
+        <item>Kannur Cantonment (CB)</item>
+        <item>Thalassery</item>
+        <item>Mattannur (M)</item>
+        <item>Koothuparamba (M)</item>
+        <item>Thalassery (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Kasaragod">
+        <item>Kasaragod</item>
+        <item>Kasaragod</item>
+        <item>Kasaragod (M)</item>
+        <item>Hosdurg</item>
+        <item>Kanhangad (M + OG)</item>
+        <item>Kanhangad (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Kollam">
+        <item>Kollam</item>
+        <item>Kollam (M Corp. + OG)</item>
+        <item>Karunagappally</item>
+        <item>Kollam (M Corp. + OG) (Part)</item>
+        <item>Kunnathur</item>
+        <item>Pathanapuram</item>
+        <item>Punalur (M)</item>
+        <item>Kottarakkara</item>
+        <item>Kollam</item>
+        <item>Kollam (M Corp. + OG) (Part)</item>
+        <item>Kollam (M Corp.) (Part)</item>
+        <item>Paravoor (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Kottayam">
+        <item>Kottayam</item>
+        <item>Meenachil</item>
+        <item>Palai (M)</item>
+        <item>Vaikom</item>
+        <item>Vaikom (M)</item>
+        <item>Kottayam</item>
+        <item>Kottayam (M)</item>
+        <item>Changanassery</item>
+        <item>Changanassery (M)</item>
+        <item>Kanjirappally</item>
+    </string-array>
+
+
+
+    <string-array name="Kozhikode">
+        <item>Kozhikode</item>
+        <item>Vadakara</item>
+        <item>Vadakara (M)</item>
+        <item>Quilandy</item>
+        <item>Quilandy (M)</item>
+        <item>Kozhikode</item>
+        <item>Kozhikode (M Corp. + OG)</item>
+        <item>Kozhikode (M Corp.)</item>
+    </string-array>
+
+
+
+    <string-array name="Malappuram">
+        <item>Malappuram</item>
+        <item>Ernad</item>
+        <item>Manjeri (M)</item>
+        <item>Malappuram (M + OG)</item>
+        <item>Malappuram (M)</item>
+        <item>Nilambur</item>
+        <item>Perinthalmanna</item>
+        <item>Perinthalmanna (M)</item>
+        <item>Tirur</item>
+        <item>Tirur (M)</item>
+        <item>Tirurangadi</item>
+        <item>Ponnani</item>
+        <item>Ponnani (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Palakkad">
+        <item>Palakkad</item>
+        <item>Ottappalam</item>
+        <item>Shoranur (M)</item>
+        <item>Ottappalam (M)</item>
+        <item>Mannarkad</item>
+        <item>Palakkad</item>
+        <item>Palakkad (M)</item>
+        <item>Chittur</item>
+        <item>Chittur-Thathamangalam (M)</item>
+        <item>Alathur</item>
+    </string-array>
+
+
+
+    <string-array name="Pathanamthitta">
+        <item>Pathanamthitta</item>
+        <item>Thiruvalla</item>
+        <item>Thiruvalla (M)</item>
+        <item>Mallappally</item>
+        <item>Ranni</item>
+        <item>Kozhenchery</item>
+        <item>Pathanamthitta (M)</item>
+        <item>Adoor</item>
+        <item>Adoor (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Thiruvananthapuram">
+        <item>Thiruvananthapuram</item>
+        <item>Thiruvananthapuram (M Corp. + OG)</item>
+        <item>Chirayinkeezhu</item>
+        <item>Varkala (M)</item>
+        <item>Attingal (M)</item>
+        <item>Nedumangad</item>
+        <item>Nedumangad (M)</item>
+        <item>Thiruvananthapuram</item>
+        <item>Thiruvananthapuram (M Corp. + OG) (Part)</item>
+        <item>Neyyattinkara</item>
+        <item>Thiruvananthapuram (M Corp. + OG) (Part)</item>
+        <item>Neyyattinkara (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Thrissur">
+        <item>Thrissur</item>
+        <item>Talappilly</item>
+        <item>Kunnamkulam (M)</item>
+        <item>Chavakkad</item>
+        <item>Guruvayoor (M)</item>
+        <item>Chavakkad (M)</item>
+        <item>Thrissur</item>
+        <item>Thrissur (M Corp.)</item>
+        <item>Kodungallur</item>
+        <item>Kodungallur (M + OG)</item>
+        <item>Kodungallur (M)</item>
+        <item>Mukundapuram</item>
+        <item>Irinjalakuda (M)</item>
+        <item>Chalakudy (M)</item>
+    </string-array>
+
+
+
+    <string-array name="Wayanad">
+        <item>Wayanad</item>
+        <item>Mananthavady</item>
+        <item>Sulthanbathery</item>
+        <item>Vythiri</item>
+        <item>Kalpetta (M)</item>
+    </string-array>
+</resources>

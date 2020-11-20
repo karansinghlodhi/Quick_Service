@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="NCT_OF_DELHI">
+        <item>NCT OF DELHI</item>
+        <item>DMC (U)</item>
+        <item>NDMC</item>
+    </string-array>
+
+
+    <string-array name="Central">
+        <item>Central</item>
+        <item>Darya Ganj</item>
+        <item>DMC (U) (Part)</item>
+        <item>Pahar Ganj</item>
+        <item>DMC (U) (Part)</item>
+        <item>NDMC (Part)</item>
+        <item>Karol Bagh</item>
+        <item>DMC (U) (Part)</item>
+    </string-array>
+
+
+    <string-array name="East">
+        <item>East</item>
+        <item>Gandhi Nagar</item>
+        <item>DMC (U) (Part)</item>
+        <item>Vivek Vihar</item>
+        <item>DMC (U) (Part)</item>
+        <item>Preet Vihar</item>
+        <item>DMC (U) (Part)</item>
+    </string-array>
+
+
+    <string-array name="New_Delhi">
+        <item>New Delhi</item>
+        <item>Connaught Place</item>
+        <item>DMC (U) (Part)</item>
+        <item>NDMC (Part)</item>
+        <item>Chanakya Puri</item>
+        <item>NDMC (Part)</item>
+        <item>Parliament Street</item>
+        <item>NDMC (Part)</item>
+    </string-array>
+
+
+    <string-array name="North">
+        <item>North</item>
+        <item>Civil Lines</item>
+        <item>DMC (U) (Part)</item>
+        <item>Sadar Bazar</item>
+        <item>DMC (U) (Part)</item>
+        <item>Kotwali</item>
+        <item>DMC (U) (Part)</item>
+    </string-array>
+
+
+
+    <string-array name="North_East">
+        <item>North East</item>
+        <item>Seelam Pur</item>
+        <item>DMC (U) (Part)</item>
+        <item>Shahdara</item>
+        <item>DMC (U) (Part)</item>
+        <item>Seema Puri</item>
+        <item>DMC (U) (Part)</item>
+    </string-array>
+
+
+    <string-array name="North_West">
+        <item>North West</item>
+        <item>Narela</item>
+        <item>DMC (U) (Part)</item>
+        <item>Saraswati Vihar</item>
+        <item>DMC (U) (Part)</item>
+        <item>Model Town</item>
+        <item>DMC (U) (Part)</item>
+    </string-array>
+
+
+    <string-array name="South">
+        <item>South</item>
+        <item>Hauz Khas</item>
+        <item>DMC (U) (Part)</item>
+        <item>NDMC (Part)</item>
+        <item>Defence Colony</item>
+        <item>DMC (U) (Part)</item>
+        <item>NDMC (Part)</item>
+        <item>Kalkaji</item>
+        <item>DMC (U) (Part)</item>
+    </string-array>
+
+
+    <string-array name="South_West">
+        <item>South West</item>
+        <item>Delhi Cantonment (CB)</item>
+        <item>Najafgarh</item>
+        <item>DMC (U) (Part)</item>
+        <item>Delhi Cantonment</item>
+        <item>DMC (U) (Part)</item>
+        <item>Delhi Cantonment (CB) (Part)</item>
+        <item>Vasant Vihar</item>
+        <item>DMC (U) (Part)</item>
+        <item>NDMC (Part)</item>
+        <item>Delhi Cantonment (CB) (Part)</item>
+    </string-array>
+
+
+    <string-array name="West">
+        <item>West</item>
+        <item>Patel Nagar</item>
+        <item>DMC (U) (Part)</item>
+        <item>Rajouri Garden</item>
+        <item>DMC (U) (Part)</item>
+        <item>Punjabi Bagh</item>
+        <item>DMC (U) (Part)</item>
+    </string-array>
+
+
+</resources>
